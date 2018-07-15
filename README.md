@@ -17,7 +17,7 @@ Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https:/
 - [Google sheets Data Gathered](https://docs.google.com/spreadsheets/d/16QnoXu2MDsbSpIE6H52mYsLbXZdmieqgsean8i_3RlA/edit#gid=590324052)
 
 ## Contributors
-- Alex Steinberg (steinberg.alex@gmail.com)
+- Alex Steinberg (https://github.com/alex-steinberg)
 - Waheeb Aghers
 - Francois Buys (https://github.com/buys-fran)
 - Alicia de Wet
