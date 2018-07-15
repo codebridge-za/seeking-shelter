@@ -14,6 +14,6 @@ Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https:/
 
 ## Contributors
 - Alex Steinberg (steinberg.alex@gmail.com)
-- Waheeb
+- Waheeb Aghers
 - Francois Buys (https://github.com/buys-fran)
 - Alicia de Wet
