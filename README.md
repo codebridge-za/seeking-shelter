@@ -1,6 +1,6 @@
 # Violence Against Women Map
 
-**A project that focuses on shelters and their services to women and their children that are victims of abuse. It aims to map shelters across South Africa and to combine this with a mapping of other support services.**
+**A project that focuses on shelters and services aimed at women that are victims of abuse. It aims to map shelters across South Africa and to combine this with a mapping of other support services.**
 
 Research by The Heinrich Böll Foundation claims that even though the Domestic Violence Act says that police are obligated to refer women to shelters, a lot of police personnel do not know where these services are. 
 
