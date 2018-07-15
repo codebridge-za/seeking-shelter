@@ -1,15 +1,19 @@
 # Violence Against Women Map
 
-[Google sheets Data Gathered](https://docs.google.com/spreadsheets/d/16QnoXu2MDsbSpIE6H52mYsLbXZdmieqgsean8i_3RlA/edit#gid=590324052)
+**A project that focuses on shelters and their services to women and their children that are victims of abuse. It aims to map shelters across South Africa and to combine this with a mapping of other support services.**
 
-# Contributors
+Research by The Heinrich Böll Foundation claims that even though the Domestic Violence Act says that police are obligated to refer women to shelters, a lot of police personnel do not know where these services are. 
 
-Alex Steinberg steinberg.alex@gmail.com
-Waheeb
-Francois
-Alicia
+The outcomes of this project is to dynamically generate area-specific maps that can be downloaded and printed as posters. The intent is for these posters to be put up at police stations, public services and be used for advocacy purposes by organisations like The Heinrich Böll Foundation.
 
-# Contact
+## Contact
+Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https://github.com/lailahr) if you want to learn more about this project or get involved.
 
-Kirsten Pearson
-kirstenpea@gmail.com
+## Resources
+- [Google sheets Data Gathered](https://docs.google.com/spreadsheets/d/16QnoXu2MDsbSpIE6H52mYsLbXZdmieqgsean8i_3RlA/edit#gid=590324052)
+
+## Contributors
+- Alex Steinberg (steinberg.alex@gmail.com)
+- Waheeb
+- Francois Buys (https://github.com/buys-fran)
+- Alicia de Wet
