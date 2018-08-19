@@ -1,4 +1,4 @@
-# Violence Against Women Map
+# Seeking Shelter
 
 **A project that focuses on shelters and services aimed at women that are victims of abuse. It aims to map shelters across South Africa and to combine this with a mapping of other support services.**
 
