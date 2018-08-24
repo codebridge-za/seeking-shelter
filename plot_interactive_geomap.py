@@ -9,23 +9,42 @@ from geopandas import GeoDataFrame
 import matplotlib as mpl
 import matplotlib.cm as cm
 from shapely.geometry import Point
+from branca.colormap import linear
 
 
 __author__ = 'Colin Anthony'
 
 
-def clr(x):
+def csv_to_geo_dataframe(infile):
+    csv_file = pd.read_csv(infile, sep=',', header=0)
+    # process dataframes
+    geo_df = pd.DataFrame(csv_file)
+    geo_df.fillna(method='ffill', inplace=True)
+    geometry_infile = [Point(xy) for xy in
+                       zip(geo_df["longitude"], geo_df["latitude"])]
+    geo_df = geo_df.drop(['longitude', 'latitude'], axis=1)
+    crs = {'init': 'epsg:4326'}
+    geo_df = GeoDataFrame(geo_df, crs=crs, geometry=geometry_infile)
+    geo_df["geoid"] = geo_df.index.astype(str)
+
+    return geo_df
+
+
+def clr(x, min, max, clr):
     """
     Apply colour map onto numerical values
     :param x: pandas series
+    :param min: (digit) minimum value form the dataframe column
+    :param max: (digit) maxium value form the dataframe column
     :return: pandas series
     """
-    cmap = cm.Reds
-    norm = mpl.colors.Normalize(vmin=0, vmax=10)
-    c = cm.ScalarMappable(norm=norm, cmap=cmap)
-    ans =c.to_rgba(x)
 
-    return ans
+    cmap = cm.get_cmap(clr)
+    norm = mpl.colors.Normalize(vmin=min, vmax=max)
+    c = cm.ScalarMappable(norm=norm, cmap=cmap)
+    colrmap =c.to_rgba(x)
+
+    return colrmap
 
 
 def add_point_markers(mapobj, gdf, type):
@@ -56,29 +75,77 @@ def add_point_markers(mapobj, gdf, type):
         if type == "Shelter":
             if "Shelter" not in name_tag:
                 name_tag = name_tag + " Shelter"
+            size = 10
             label = folium.Popup('{}'.format(name_tag), parse_html=True)
             alpha=1
         elif type == "Sexual Offence Court":
+            size = 6
             court_type = row.Type
             label = folium.Popup('{} {}'.format(name_tag, court_type), parse_html=True)
             alpha = 1
         elif type == "Clinic":
+            size = 6
             name_tag = name_tag.replace("Clinic Clinic", "Clinic")
             label = folium.Popup('{}'.format(name_tag), parse_html=True)
             alpha = 1
         else:
+            size = 6
             label = folium.Popup('{} {}'.format(name_tag, type), parse_html=True)
             alpha = 1
 
         folium.CircleMarker(location=[long, lat],
                             popup=label,
-                            radius=6,
+                            radius=size,
                             fill=True,
                             fill_color=colr[type],
                             fill_opacity=alpha,
                             color=colr[type]).add_to(pt_lyr)
 
     # Add this point layer to the map object
+    mapobj.add_child(pt_lyr)
+
+    return mapobj
+
+
+def convert_to_hex(rgba_color) :
+    red = int(rgba_color[0]*255)
+    green = int(rgba_color[1]*255)
+    blue = int(rgba_color[2]*255)
+    return '0x{r:02x}{g:02x}{b:02x}'.format(r=red,g=green,b=blue)
+
+
+def add_choropleth(mapobj, json_data, label, colormap, data_2_dict_4_clrmap, data):
+    pt_lyr = folium.FeatureGroup(name=label)
+
+    # print(colormap.colors)
+    # print(data_2_dict_4_clrmap["Western Cape"])
+    # input("enter")
+    folium.GeoJson(json_data,
+                   name=label,
+                   style_function=lambda feature: {
+                       'fillColor': colormap(data_2_dict_4_clrmap[int(feature['id'])]),
+                       'keyOn': "id",
+                       'color': 'k',
+                       'weight': 1,
+                       'dashArray': '5, 5',
+                       'fillOpacity': 0.9,
+                       'lineOpacity': 1,
+                       'line_weight': 1.0,
+                       'lineColor': 'black',
+                       'legendName': label,
+                       'highlight': True,
+                       'smoothFactor': 1.0,
+                       'columns': ['geoid', label],
+                   },
+                   overlay=True,
+                   control=True,
+                   tooltip=None
+                   ).add_to(pt_lyr)
+
+    # mapobj.choropleth(geo_data=json_data, data=data, columns=['geoid', label], key_on="feature.id",
+    #              fill_color='Reds', fill_opacity=0.9, line_opacity=1, line_color='k', line_weight=1.0,
+    #              legend_name=label, highlight=True, smooth_factor=1.0)
+
     mapobj.add_child(pt_lyr)
 
     return mapobj
@@ -97,37 +164,70 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
     :return: None
     """
 
-    province_df["colr"] = province_df["rate_sexual_crimes (%) (x1000)"].apply(lambda x: clr(x))
+    labels = ['rate_sexual_crimes (%) (x1000)', 'percent_capacity_for_victim_domestic',
+              'Total number of shelters', 'Total Number of beds']
 
+    # generate geojson object of province geodataframe
+    province_df_headings_to_use = ['geoid', 'rate_sexual_crimes (%) (x1000)', 'percent_capacity_for_victim_domestic',
+                        'Total number of shelters', 'Total Number of beds', 'geometry']
+    data = province_df[province_df_headings_to_use]
+    jsontxt = data.to_json()
+
+    # create the base map
     m = folium.Map(location=[-30.559483, 22.937506], tiles='openstreetmap',
                    zoom_start=6, control_scale=True, prefer_canvas=True)
 
-    data = province_df[['geoid', 'rate_sexual_crimes (%) (x1000)', 'geometry']]
-    jsontxt = data.to_json()
+    # add the incidence data layers to the map
+    for i, item in enumerate(labels):
+        data_2_dict_4_clrmap = province_df.set_index('Province')[item] #.to_dict()
+        min_val = min(province_df[item])
+        max_val = max(province_df[item])
 
-    # pt_lyr1 = folium.FeatureGroup(name='Sexual offences')
-    m.choropleth(geo_data=jsontxt, data=data, columns=['geoid', 'rate_sexual_crimes (%) (x1000)'], key_on="feature.id",
-                       fill_color='Reds', fill_opacity=0.9, line_opacity=1, line_color='k', line_weight=1.0,
-                       legend_name='Prevalence of Sexual Crimes (per 1000 adult women)', highlight=True, smooth_factor=1.0)
+        if i == 1:
+            colormap = linear.Oranges_09.scale(min_val, max_val)
+        elif i == 2:
+            colormap = linear.Blues_09.scale(min_val, max_val)
+        elif i ==3:
+            colormap = linear.Greens_09.scale(min_val, max_val)
+        else:
+            # colormap = clr(province_df[item], min_val, max_val, "Reds")
+            # colormap = [convert_to_hex(x) for x in colormap]
+            colormap = linear.Reds_09.scale(min_val, max_val)
 
-    # m.add_child(pt_lyr1)
-    # pt_lyr2 = folium.FeatureGroup(name='Capacity')
-    # m.choropleth(geo_data=jsontxt, data=data, columns=['geoid', ''], key_on="feature.id",
-    #              fill_color='Reds', fill_opacity=0.9, line_opacity=1, line_color='k', line_weight=1.0,
-    #              legend_name='Sexual crime prevalence/capacity', highlight=False, smooth_factor=1.0)
+        add_choropleth(m, jsontxt, item, colormap, data_2_dict_4_clrmap, data)
 
+
+    # add the point data to the map
     add_point_markers(m, geo_points_data_clinics_df, "Clinic")
     add_point_markers(m, geo_points_data_police_df, "Police Station")
     add_point_markers(m, geo_points_data_courts_df, "Sexual Offence Court")
     add_point_markers(m, geo_points_data_shelters_df, "Shelter")
 
-    # colormap = bcm.linear.Set1.scale(0, 35).to_step(10)
+    # add layer control
     folium.LayerControl().add_to(m)
 
+    # save output
     m.save(outfile)
 
 
 def main(police, clinics, courts, shelters, province, crime_data, outpath, name):
+    """
+    methods to plot public resources (courts, police stations, clinics, shelters...
+    onto a province shape file with sexual crime incidence data
+    :param police: (str) path and name for csv file with police coordinates (needs province, name, long, lat)
+    :param clinics: (str) path and name for csv file with clinics coordinates (needs province, name, long, lat)
+    :param courts: (str) path and name for csv file with courts coordinates (needs province, name, long, lat)
+    :param shelters: (str) path and name for csv file with shelters coordinates (needs province, name, long, lat)
+    :param province: (str) path and name for province shape file
+    :param crime_data: (str) path and name for csv file with crime data per province
+    :param outpath: (str) path to outfile location
+    :param name: (str) prefix for outfile
+    :return: None
+    """
+
+    # get_script_path = os.path.realpath(__file__)
+    # script_folder = os.path.split(get_script_path)[0]
+    # script_folder = os.path.abspath(script_folder)
 
     # set in and out-file paths and names
     police = os.path.abspath(police)
@@ -141,46 +241,15 @@ def main(police, clinics, courts, shelters, province, crime_data, outpath, name)
     name = name + "_folium_map.html"
     outfile = os.path.join(outpath, name)
 
-    # read in the data points and shape file
-    geo_points_data_police = pd.read_csv(police, sep=',', header=0)
-    geo_points_data_clinics = pd.read_csv(clinics, sep=',', header=0)
-    geo_points_data_courts = pd.read_csv(courts, sep=',', header=0)
-    geo_points_data_shelters = pd.read_csv(shelters, sep=',', header=0)
+    # process csv_infiles to dataframes
+    geo_points_data_police_df = csv_to_geo_dataframe(police)
+    geo_points_data_clinics_df = csv_to_geo_dataframe(clinics)
+    geo_points_data_courts_df = csv_to_geo_dataframe(courts)
+    geo_points_data_shelters_df = csv_to_geo_dataframe(shelters)
 
-    # process dataframes
-    geo_points_data_police_df = pd.DataFrame(geo_points_data_police)
-    geo_points_data_police_df.fillna(method='ffill', inplace=True)
-    geometry_police = [Point(xy) for xy in zip(geo_points_data_police_df["longitude"], geo_points_data_police_df["latitude"])]
-    geo_points_data_police_df = geo_points_data_police_df.drop(['longitude', 'latitude'], axis=1)
-    crs = {'init': 'epsg:4326'}
-    geo_points_data_police_df = GeoDataFrame(geo_points_data_police_df, crs=crs, geometry=geometry_police)
-    geo_points_data_police_df["geoid"] = geo_points_data_police_df.index.astype(str)
-
-    geo_points_data_clinics_df = pd.DataFrame(geo_points_data_clinics)
-    geo_points_data_clinics_df.fillna(method='ffill', inplace=True)
-    geometry_clinics = [Point(xy) for xy in zip(geo_points_data_clinics_df["longitude"], geo_points_data_clinics_df["latitude"])]
-    geo_points_data_clinics_df = geo_points_data_clinics_df.drop(['longitude', 'latitude'], axis=1)
-    crs = {'init': 'epsg:4326'}
-    geo_points_data_clinics_df = GeoDataFrame(geo_points_data_clinics_df, crs=crs, geometry=geometry_clinics)
-    geo_points_data_clinics_df["geoid"] = geo_points_data_clinics_df.index.astype(str)
-
-    geo_points_data_courts_df = pd.DataFrame(geo_points_data_courts)
-    geo_points_data_courts_df.fillna(method='ffill', inplace=True)
-    geo_points_data_courts_df["longitude"] = geo_points_data_courts_df["longitude"].astype(float)
-    geo_points_data_courts_df["latitude"] = geo_points_data_courts_df["latitude"].astype(float)
-    geometry_courts = [Point(xy) for xy in zip(geo_points_data_courts_df["longitude"], geo_points_data_courts_df["latitude"])]
-    # geo_points_data_clinics_df = geo_points_data_clinics_df.drop(['longitude', 'latitude'], axis=1)
-    crs = {'init': 'epsg:4326'}
-    geo_points_data_courts_df = GeoDataFrame(geo_points_data_courts_df, crs=crs, geometry=geometry_courts)
-    geo_points_data_courts_df["geoid"] = geo_points_data_courts_df.index.astype(str)
-
-    geo_points_data_shelters_df = pd.DataFrame(geo_points_data_shelters)
-    geo_points_data_shelters_df.fillna(method='ffill', inplace=True)
-    geometry_shelters = [Point(xy) for xy in zip(geo_points_data_shelters_df["longitude"], geo_points_data_shelters_df["latitude"])]
-    geo_points_data_shelters_df = geo_points_data_shelters_df.drop(['longitude', 'latitude'], axis=1)
-    crs = {'init': 'epsg:4326'}
-    geo_points_data_shelters_df = GeoDataFrame(geo_points_data_shelters_df, crs=crs, geometry=geometry_shelters)
-    geo_points_data_shelters_df["geoid"] = geo_points_data_shelters_df.index.astype(str)
+    outpath = os.path.abspath(outpath)
+    name = name + "_folium_map.html"
+    outfile = os.path.join(outpath, name)
 
     # combine crime stats and province dataframes
     crime_data = pd.read_csv(crime_data, sep=',', header=0)
