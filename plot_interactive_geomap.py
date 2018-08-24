@@ -75,9 +75,9 @@ def add_point_markers(mapobj, gdf, type):
         if type == "Shelter":
             if "Shelter" not in name_tag:
                 name_tag = name_tag + " Shelter"
-            size = 10
+            size = 8
             label = folium.Popup('{}'.format(name_tag), parse_html=True)
-            alpha=1
+            alpha=0.9
         elif type == "Sexual Offence Court":
             size = 6
             court_type = row.Type
