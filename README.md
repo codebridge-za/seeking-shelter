@@ -10,10 +10,8 @@ The outcomes of this project is to dynamically generate area-specific maps that 
 Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https://github.com/lailahr) if you want to learn more about this project or get involved.
 
 ## interactive map
-![](Sexual_Violence_Recources_Mapping_folium_map.html_folium_map.html)
-## Charts
-#![](data/charts/number-of-sherts-per-province.png)
-#![](data/charts/female-population-per-province.png)
+![Sexual violence resources](Sexual_Violence_Recources_Mapping_folium_map.html_folium_map.html)
+
 
 ## Resources
 - [Google sheets Data Gathered](https://docs.google.com/spreadsheets/d/16QnoXu2MDsbSpIE6H52mYsLbXZdmieqgsean8i_3RlA/edit#gid=590324052)
