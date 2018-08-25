@@ -10,7 +10,7 @@ The outcomes of this project is to dynamically generate area-specific maps that 
 Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https://github.com/lailahr) if you want to learn more about this project or get involved.
 
 ## interactive map
-Go to: (https://colinanthony.github.io/seeking-shelter/)
+Go to: (https://codebridge-za.github.io/seeking-shelter/)
 
 ## Charts
 ![](data/charts/number-of-sherts-per-province.png)
