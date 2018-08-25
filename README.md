@@ -9,6 +9,9 @@ The outcomes of this project is to dynamically generate area-specific maps that 
 ## Contact
 Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https://github.com/lailahr) if you want to learn more about this project or get involved.
 
+## interactive map
+Go to: (https://colinanthony.github.io/seeking-shelter/)
+
 ## Charts
 ![](data/charts/number-of-sherts-per-province.png)
 ![](data/charts/female-population-per-province.png)
@@ -17,6 +20,7 @@ Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https:/
 - [Google sheets Data Gathered](https://docs.google.com/spreadsheets/d/16QnoXu2MDsbSpIE6H52mYsLbXZdmieqgsean8i_3RlA/edit#gid=590324052)
 
 ## Contributors
+- Colin Anthony (https://github.com/ColinAnthony)
 - Alex Steinberg (https://github.com/alex-steinberg)
 - Waheeb Aghers
 - Francois Buys (https://github.com/buys-fran)
