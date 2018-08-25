@@ -12,6 +12,9 @@ Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https:/
 ## interactive map
 Go to: (https://colinanthony.github.io/seeking-shelter/)
 
+## Charts
+![](data/charts/number-of-sherts-per-province.png)
+![](data/charts/female-population-per-province.png)
 
 ## Resources
 - [Google sheets Data Gathered](https://docs.google.com/spreadsheets/d/16QnoXu2MDsbSpIE6H52mYsLbXZdmieqgsean8i_3RlA/edit#gid=590324052)
