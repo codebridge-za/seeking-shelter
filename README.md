@@ -10,7 +10,7 @@ The outcomes of this project is to dynamically generate area-specific maps that 
 Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https://github.com/lailahr) if you want to learn more about this project or get involved.
 
 ## interactive map
-![Sexual violence resources](Sexual_Violence_Recources_Mapping_folium_map.html_folium_map.html)
+Go to: (https://colinanthony.github.io/seeking-shelter/)
 
 
 ## Resources
