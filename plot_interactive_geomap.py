@@ -20,6 +20,8 @@ def csv_to_geo_dataframe(infile):
     # process dataframes
     geo_df = pd.DataFrame(csv_file)
     geo_df.fillna(method='ffill', inplace=True)
+    geo_df["longitude"].astype(float)
+    geo_df["latitude"].astype(float)
     geometry_infile = [Point(xy) for xy in
                        zip(geo_df["longitude"], geo_df["latitude"])]
     geo_df = geo_df.drop(['longitude', 'latitude'], axis=1)
@@ -115,11 +117,9 @@ def convert_to_hex(rgba_color) :
 
 
 def add_choropleth(mapobj, json_data, label, colormap, data_2_dict_4_clrmap, data):
+    label = label.replace("_", " ")
     pt_lyr = folium.FeatureGroup(name=label)
 
-    # print(colormap.colors)
-    # print(data_2_dict_4_clrmap["Western Cape"])
-    # input("enter")
     folium.GeoJson(json_data,
                    name=label,
                    style_function=lambda feature: {
@@ -164,12 +164,15 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
     :return: None
     """
 
-    labels = ['rate_sexual_crimes (%) (x1000)', 'percent_capacity_for_victim_domestic',
-              'Total number of shelters', 'Total Number of beds']
+    labels = ['Prevalence_domestic_abuse (x10000)', 'percent_capacity_for_victim_domestic', 'adult_females (>19yrs – 2017)']
 
     # generate geojson object of province geodataframe
-    province_df_headings_to_use = ['geoid', 'rate_sexual_crimes (%) (x1000)', 'percent_capacity_for_victim_domestic',
-                        'Total number of shelters', 'Total Number of beds', 'geometry']
+    province_df_headings_to_use = ['geoid', 'domestic violence (2016)', 'sexual_crimes',
+                                   'Prevalence_sexual_crimes (%) (x10000)', 'Prevalence_domestic_abuse (x10000)',
+                                   'percent_capacity_for_victim_domestic',
+                                   'Total number of shelters', 'Total Number of beds',
+                                   'adult_females (>19yrs – 2017)', 'geometry']
+
     data = province_df[province_df_headings_to_use]
     jsontxt = data.to_json()
 
@@ -179,20 +182,18 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
 
     # add the incidence data layers to the map
     for i, item in enumerate(labels):
-        data_2_dict_4_clrmap = province_df.set_index('Province')[item] #.to_dict()
+        data_2_dict_4_clrmap = province_df.set_index('Province')[item]
         min_val = min(province_df[item])
         max_val = max(province_df[item])
 
-        if i == 1:
-            colormap = linear.Oranges_09.scale(min_val, max_val)
-        elif i == 2:
-            colormap = linear.Blues_09.scale(min_val, max_val)
-        elif i ==3:
-            colormap = linear.Greens_09.scale(min_val, max_val)
-        else:
-            # colormap = clr(province_df[item], min_val, max_val, "Reds")
-            # colormap = [convert_to_hex(x) for x in colormap]
+        if i == 0:
             colormap = linear.Reds_09.scale(min_val, max_val)
+        elif i == 1:
+            colormap = linear.Blues_09.scale(min_val, max_val)
+        elif i ==2:
+            colormap = linear.Oranges_09.scale(min_val, max_val)
+        else:
+            colormap = linear.Greens_09.scale(min_val, max_val)
 
         add_choropleth(m, jsontxt, item, colormap, data_2_dict_4_clrmap, data)
 
@@ -238,7 +239,7 @@ def main(police, clinics, courts, shelters, province, crime_data, outpath, name)
     crime_data = os.path.abspath(crime_data)
 
     outpath = os.path.abspath(outpath)
-    name = name + "_folium_map.html"
+    name = name + ".html"
     outfile = os.path.join(outpath, name)
 
     # process csv_infiles to dataframes

@@ -1292,7 +1292,7 @@ KwaZulu-Natal,Clinic,Durban,Addington Gateway Clinic,-29.860627,31.041237
 KwaZulu-Natal,Clinic,Amanzimtoti,Amanzimtoti Clinic,-30.054121,30.880621
 KwaZulu-Natal,Clinic,Amanzimtoti,Athlone Park Hall Clinic,-30.017609,30.920088
 KwaZulu-Natal,Clinic,Richards Bay,Richards Bay Clinic,-28.7555,32.05025
-KwaZulu-Natal,Clinic,Amanzintoti,Bhekimpilo Trust - Bekulwandle Clinic,-29.677308,30.921191
+KwaZulu-Natal,Clinic,Amanzintoti,Bhekimpilo Trust - Bekulwandle Clinic,-29.98935,30.89166
 KwaZulu-Natal,Clinic,Nkandla,Mpandleni Clinic,-28.620445,31.088608
 KwaZulu-Natal,Clinic,Harding,Meadow Sweet Clinic,-30.63895,30.03235
 KwaZulu-Natal,Clinic,Harding,Harding Clinic,-30.57485,29.88308
@@ -1552,7 +1552,7 @@ KwaZulu-Natal,Clinic,Cato Ridge,Msunduze Bridge Clinic,-29.662982,30.636814
 KwaZulu-Natal,Clinic,Pietermaritzburg,Impilwenhle Clinic,-29.677914,30.350775
 KwaZulu-Natal,Clinic,Pietermaritzburg,Northdale Gateway Clinic,-29.577754,30.401037
 KwaZulu-Natal,Clinic,Tugela Ferry,Mandleni Clinic,-28.72373,30.357789
-KwaZulu-Natal,Clinic,Durban,Bhekimpilo Trust - Kusakusa Clinic,-29.86146,31.64193
+KwaZulu-Natal,Clinic,Durban,Bhekimpilo Trust - Kusakusa Clinic,-30.013642,30.893843
 KwaZulu-Natal,Clinic,Mseleni,Mnqobokazi Clinic,-27.7059,32.45598
 KwaZulu-Natal,Clinic,Newtown,Newtown A CHC,-29.711684,30.941888
 KwaZulu-Natal,Clinic,Kwamashu,KwaSimama Clinic,-29.748918,30.97158
@@ -1948,7 +1948,7 @@ Limpopo,Clinic,Malamulele,Shivulani Clinic,-23.141554,30.702351
 Limpopo,Clinic,Giyani,Khakhala-Hlomela Clinic,-23.27503,30.84423
 Limpopo,Clinic,Driekop,Motlolo Clinic,-24.50919,30.17554
 Limpopo,Clinic,Giyani,Shitlakati Clinic,-23.660499,30.881321
-Limpopo,Clinic,Maphah;E;E,Malemati Clinic,-24.385222,29.638333
+Limpopo,Clinic,Maphah,Malemati Clinic,-24.385222,29.638333
 Limpopo,Clinic,Tzaneen,Ooghoek Clinic,-23.625599,30.533763
 Limpopo,Clinic,Makhado,De Hoop Clinic,-23.187468,30.276443
 Limpopo,Clinic,Musina,Folovhodwe Clinic,-22.588436,30.427727
@@ -3089,3 +3089,4 @@ Western Cape,Clinic,Observatory,Valkenberg Hospital,-33.936177,18.477684
 Western Cape,Clinic,Rustdene,Beaufort West Hospital CDC,-32.35278,22.6075
 Western Cape,Clinic,Rondebosch,Red Cross War Memorial Children's,-33.954531,18.487735
 Western Cape,Clinic,Malmesbury,Malmesbury Infectious Disease,-33.466989,18.71783
+Limpopo,Clinic,Lekurung,Malemati Clinic,-24.385222,29.638333

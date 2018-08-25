@@ -1,4 +1,4 @@
-Province,Total number of shelters,NPO,State run,Unknown,beds_NPO,beds_State run,Total Number of beds,domestic violence (2016),sexual_crimes,adult_females (>19yrs – 2017),rate_sexual_crimes (%) (x1000),rate_domestic_abuse (x1000),percent_capacity_for_victim_domestic
+Province,Total number of shelters,NPO,State run,Unknown,beds_NPO,beds_State run,Total Number of beds,domestic violence (2016),sexual_crimes,adult_females (>19yrs – 2017),Prevalence_sexual_crimes (%) (x10000),Prevalence_domestic_abuse (x10000),percent_capacity_for_victim_domestic
 Eastern Cape,19,19,,,138,,138,745,8050,2052171,3.92267506,3.6303017634,18.5234899329
 Free State,9,8,,1,92,,92,327,3488,924540,3.772686958,3.536894023,28.1345565749
 Gauteng,22,21,1,,507,120,627,1464,9566,4832144,1.979659547,3.0297110351,42.8278688525
