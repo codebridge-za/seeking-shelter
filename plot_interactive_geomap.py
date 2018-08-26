@@ -124,9 +124,9 @@ def add_choropleth(mapobj, json_data, label, colormap, data_2_dict_4_clrmap, dat
                    name=label,
                    style_function=lambda feature: {
                        'fillColor': colormap(data_2_dict_4_clrmap[int(feature['id'])]),
-                       'keyOn': "id",
-                       'color': 'k',
-                       'weight': 1,
+                       # 'keyOn': "id",
+                       'color': 'black',
+                       'weight': 2,
                        'dashArray': '5, 5',
                        'fillOpacity': 0.9,
                        'lineOpacity': 1,
@@ -145,7 +145,8 @@ def add_choropleth(mapobj, json_data, label, colormap, data_2_dict_4_clrmap, dat
     # mapobj.choropleth(geo_data=json_data, data=data, columns=['geoid', label], key_on="feature.id",
     #              fill_color='Reds', fill_opacity=0.9, line_opacity=1, line_color='k', line_weight=1.0,
     #              legend_name=label, highlight=True, smooth_factor=1.0)
-
+    colormap.caption = label
+    colormap.add_to(mapobj)
     mapobj.add_child(pt_lyr)
 
     return mapobj
@@ -164,14 +165,16 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
     :return: None
     """
 
-    labels = ['Prevalence_domestic_abuse (x10000)', 'percent_capacity_for_victim_domestic', 'adult_females (>19yrs – 2017)']
+    labels = ['Prevalence_of_sexual_crimes_(per_10000_women)',
+              'Percent_Capacity_for_Victims_of_Domestic_Abuse_(Beds/cases)', 'Adult_Females_(in_millions)(>19yrs_–_2017)']
 
     # generate geojson object of province geodataframe
-    province_df_headings_to_use = ['geoid', 'domestic violence (2016)', 'sexual_crimes',
-                                   'Prevalence_sexual_crimes (%) (x10000)', 'Prevalence_domestic_abuse (x10000)',
-                                   'percent_capacity_for_victim_domestic',
-                                   'Total number of shelters', 'Total Number of beds',
-                                   'adult_females (>19yrs – 2017)', 'geometry']
+    province_df_headings_to_use = ['geoid', 'Domestic_Abuse_(2016)', 'Sexual_Crimes_(2016)_StatSA',
+                                   'Prevalence_of_sexual_crimes_(per_10000_women)',
+                                   'Prevalence_of_Domestic_Abuse_(per_10000_women)',
+                                   'Percent_Capacity_for_Victims_of_Domestic_Abuse_(Beds/cases)',
+                                   'Total_number_of_shelters', 'Total_Number_of_beds',
+                                   'Adult_Females_(in_millions)(>19yrs_–_2017)', 'geometry']
 
     data = province_df[province_df_headings_to_use]
     jsontxt = data.to_json()
@@ -191,9 +194,9 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
         elif i == 1:
             colormap = linear.Blues_09.scale(min_val, max_val)
         elif i ==2:
-            colormap = linear.Oranges_09.scale(min_val, max_val)
-        else:
             colormap = linear.Greens_09.scale(min_val, max_val)
+        else:
+            colormap = linear.Oranges_09.scale(min_val, max_val)
 
         add_choropleth(m, jsontxt, item, colormap, data_2_dict_4_clrmap, data)
 
@@ -239,7 +242,7 @@ def main(police, clinics, courts, shelters, province, crime_data, outpath, name)
     crime_data = os.path.abspath(crime_data)
 
     outpath = os.path.abspath(outpath)
-    name = name + ".html"
+    name = name
     outfile = os.path.join(outpath, name)
 
     # process csv_infiles to dataframes
@@ -249,7 +252,7 @@ def main(police, clinics, courts, shelters, province, crime_data, outpath, name)
     geo_points_data_shelters_df = csv_to_geo_dataframe(shelters)
 
     outpath = os.path.abspath(outpath)
-    name = name + "_folium_map.html"
+    name = name + ".html"
     outfile = os.path.join(outpath, name)
 
     # combine crime stats and province dataframes
