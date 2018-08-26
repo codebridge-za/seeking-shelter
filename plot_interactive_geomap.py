@@ -20,11 +20,11 @@ def csv_to_geo_dataframe(infile):
     # process dataframes
     geo_df = pd.DataFrame(csv_file)
     geo_df.fillna(method='ffill', inplace=True)
-    geo_df["longitude"].astype(float)
-    geo_df["latitude"].astype(float)
+    geo_df["Longitude"].astype(float)
+    geo_df["Latitude"].astype(float)
     geometry_infile = [Point(xy) for xy in
-                       zip(geo_df["longitude"], geo_df["latitude"])]
-    geo_df = geo_df.drop(['longitude', 'latitude'], axis=1)
+                       zip(geo_df["Longitude"], geo_df["Latitude"])]
+    geo_df = geo_df.drop(['Longitude', 'Latitude'], axis=1)
     crs = {'init': 'epsg:4326'}
     geo_df = GeoDataFrame(geo_df, crs=crs, geometry=geometry_infile)
     geo_df["geoid"] = geo_df.index.astype(str)
@@ -74,25 +74,35 @@ def add_point_markers(mapobj, gdf, type):
         long = row.geometry.y
         lat = row.geometry.x
         name_tag = row.Name
+        try:
+            tel = str(row.Tel)
+        except:
+            tel = ''
+
         if type == "Shelter":
             if "Shelter" not in name_tag:
-                name_tag = name_tag + " Shelter"
+                name_tag = "{} Shelter  Tel: {}".format(name_tag, tel)
+            else:
+                name_tag = "{}  Tel: {}".format(name_tag, tel)
             size = 8
             label = folium.Popup('{}'.format(name_tag), parse_html=True)
             alpha=0.9
         elif type == "Sexual Offence Court":
-            size = 6
             court_type = row.Type
-            label = folium.Popup('{} {}'.format(name_tag, court_type), parse_html=True)
+            name_tag = "{} {}  Tel: {}".format(name_tag, court_type, tel)
+            size = 6
+            label = folium.Popup('{}'.format(name_tag), parse_html=True)
             alpha = 1
         elif type == "Clinic":
             size = 6
             name_tag = name_tag.replace("Clinic Clinic", "Clinic")
+            name_tag = "{}  Tel: {}".format(name_tag, tel)
             label = folium.Popup('{}'.format(name_tag), parse_html=True)
             alpha = 1
         else:
             size = 6
-            label = folium.Popup('{} {}'.format(name_tag, type), parse_html=True)
+            name_tag = "{} {}  Tel: {}".format(name_tag, type, tel)
+            label = folium.Popup('{}'.format(name_tag), parse_html=True)
             alpha = 1
 
         folium.CircleMarker(location=[long, lat],
@@ -117,35 +127,36 @@ def convert_to_hex(rgba_color) :
 
 
 def add_choropleth(mapobj, json_data, label, colormap, data_2_dict_4_clrmap, data):
-    label = label.replace("_", " ")
+    label_plot = label.replace("_", " ")
     pt_lyr = folium.FeatureGroup(name=label)
+    fields = ["Province", label]
 
-    folium.GeoJson(json_data,
-                   name=label,
-                   style_function=lambda feature: {
-                       'fillColor': colormap(data_2_dict_4_clrmap[int(feature['id'])]),
-                       # 'keyOn': "id",
-                       'color': 'black',
-                       'weight': 2,
-                       'dashArray': '5, 5',
-                       'fillOpacity': 0.9,
-                       'lineOpacity': 1,
-                       'line_weight': 1.0,
-                       'lineColor': 'black',
-                       'legendName': label,
-                       'highlight': True,
-                       'smoothFactor': 1.0,
-                       'columns': ['geoid', label],
-                   },
-                   overlay=True,
-                   control=True,
-                   tooltip=None
-                   ).add_to(pt_lyr)
+    my_tooltip = folium.features.GeoJsonTooltip(fields=fields, aliases=["Province", label_plot], labels=False,
+                                                localize=False, style=None, sticky=False)
 
-    # mapobj.choropleth(geo_data=json_data, data=data, columns=['geoid', label], key_on="feature.id",
-    #              fill_color='Reds', fill_opacity=0.9, line_opacity=1, line_color='k', line_weight=1.0,
-    #              legend_name=label, highlight=True, smooth_factor=1.0)
-    colormap.caption = label
+    style_function = lambda feature: {'fillColor': colormap(data_2_dict_4_clrmap[int(feature['id'])]),
+                                      'keyOn': "id",
+                                      'color': 'black',
+                                      'weight': 2,
+                                      'dashArray': '5, 5',
+                                      'fillOpacity': 0.9,
+                                      'lineOpacity': 1,
+                                      'line_weight': 1.0,
+                                      'lineColor': 'black',
+                                      'legendName': label_plot,
+                                      'highlight': True,
+                                      'smoothFactor': 1.0,
+                                      'columns': ['geoid', label],
+                                      }
+
+    folium.GeoJson(json_data, name=label_plot,
+                                style_function=style_function,
+                                overlay=True,
+                                control=True,
+                                tooltip=my_tooltip,
+                                ).add_to(pt_lyr)
+
+    colormap.caption = label_plot
     colormap.add_to(mapobj)
     mapobj.add_child(pt_lyr)
 
@@ -165,22 +176,14 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
     :return: None
     """
 
-    labels = ['Prevalence_of_Domestic_Abuse_(per_10000_women)',
-              'Percent_Capacity_for_Victims_of_Domestic_Abuse_(Beds/cases)', 'Adult_Females_(in_millions)(>19yrs_–_2017)']
+    labels = ['Prevalence_of_Domestic_Abuse_(per_10000_women)', 'Adult_Females_(in_millions)(>19yrs_–_2017)',
+              'Total_Number_of_beds', 'Percent_Capacity_for_Victims_of_Domestic_Abuse_(Beds/cases)']
 
     # generate geojson object of province geodataframe
-    province_df_headings_to_use = ['geoid', 'Domestic_Abuse_(2016)', 'Sexual_Crimes_(2016)_StatSA',
-                                   'Prevalence_of_sexual_crimes_(per_10000_women)',
-                                   'Prevalence_of_Domestic_Abuse_(per_10000_women)',
-                                   'Percent_Capacity_for_Victims_of_Domestic_Abuse_(Beds/cases)',
-                                   'Total_number_of_shelters', 'Total_Number_of_beds',
-                                   'Adult_Females_(in_millions)(>19yrs_–_2017)', 'geometry']
-
-    data = province_df[province_df_headings_to_use]
-    jsontxt = data.to_json()
+    jsontxt = province_df.to_json()
 
     # create the base map
-    m = folium.Map(location=[-30.559483, 22.937506], tiles='openstreetmap',
+    m = folium.Map(location=[-30.259483, 22.937506], tiles='openstreetmap',
                    zoom_start=6, control_scale=True, prefer_canvas=True)
 
     # add the incidence data layers to the map
@@ -192,14 +195,15 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
         if i == 0:
             colormap = linear.Reds_09.scale(min_val, max_val)
         elif i == 1:
-            colormap = linear.Blues_09.scale(min_val, max_val)
-        elif i ==2:
-            colormap = linear.Greens_09.scale(min_val, max_val)
-        else:
             colormap = linear.Oranges_09.scale(min_val, max_val)
+        elif i == 2:
+            colormap = linear.Greens_09.scale(min_val, max_val)
+        elif i ==3:
+            colormap = linear.Blues_09.scale(min_val, max_val)
+        else:
+            colormap = linear.Reds_09.scale(min_val, max_val)
 
-        add_choropleth(m, jsontxt, item, colormap, data_2_dict_4_clrmap, data)
-
+        add_choropleth(m, jsontxt, item, colormap, data_2_dict_4_clrmap, province_df)
 
     # add the point data to the map
     add_point_markers(m, geo_points_data_clinics_df, "Clinic")
