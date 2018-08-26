@@ -165,7 +165,7 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
     :return: None
     """
 
-    labels = ['Prevalence_of_sexual_crimes_(per_10000_women)',
+    labels = ['Prevalence_of_Domestic_Abuse_(per_10000_women)',
               'Percent_Capacity_for_Victims_of_Domestic_Abuse_(Beds/cases)', 'Adult_Females_(in_millions)(>19yrs_–_2017)']
 
     # generate geojson object of province geodataframe
