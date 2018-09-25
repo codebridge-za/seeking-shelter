@@ -33,7 +33,7 @@ def write_map_page(name, map):
 def write_about_page():
     env = Environment(loader=FileSystemLoader('src/templates'))
     template = env.get_template('about.html');
-    template.stream().dump('about.html')
+    template.stream(page='about').dump('about.html')
     print('about.html written')
 
 def main():

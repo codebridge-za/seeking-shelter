@@ -45,7 +45,9 @@
     {{ map }}
   </div>
 
-  {% include 'nav.html' %}
+  {% with page=page %}
+    {% include "nav.html" %}
+  {% endwith %}
 
   {% if page == 'index' %}
 
