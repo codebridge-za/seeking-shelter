@@ -1,6 +1,16 @@
 # Development Information
 
-The following documents the development environment setup and build process.
+Information about and for the development of Seeking Shelter.
+
+## To do
+
+- [ ] Use marker icons that are easily recognisable
+- [ ] Add `tel:` hyperlink to telephone numbers in popups
+- [ ] Write About page
+- [x] Make map display mobile friendly
+- [x] Zoom to user's location
+- [x] Provide separate basic and advanced maps
+- [x] Add menu
 
 ## Setup
 
