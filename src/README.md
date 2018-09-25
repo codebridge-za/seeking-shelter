@@ -8,6 +8,7 @@ Information about and for the development of Seeking Shelter.
 - [ ] Add `tel:` hyperlink to telephone numbers in popups
 - [ ] Write About page
 - [ ] 'Shelters near me' feature?
+- [ ] Reorg `src/plot_interactive_geomap.py` to improve build process (currently running some things twice...)
 - [x] Make map display mobile friendly
 - [x] Zoom to user's location
 - [x] Provide separate basic and advanced maps
