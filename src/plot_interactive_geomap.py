@@ -164,7 +164,7 @@ def add_choropleth(mapobj, json_data, label, colormap, data_2_dict_4_clrmap, dat
 
 
 def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_df,
-                   geo_points_data_courts_df, geo_points_data_shelters_df, outfile):
+                   geo_points_data_courts_df, geo_points_data_shelters_df, outfile, basic_map):
     """
     draw interactive map using geopandas dataframes
     :param province_df: dataframe containing province shapes and incidence data by province
@@ -173,6 +173,7 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
     :param geo_points_data_courts_df: dataframe containing court coordinates
     :param geo_points_data_shelters_df: dataframe containing shelter coordinates
     :param outfile: an html file of an interactive map
+    :param basic_map: boolean to control whether basic vs advanced map output
     :return: None
     """
 
@@ -185,6 +186,17 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
     # create the base map
     m = folium.Map(location=[-30.259483, 22.937506], tiles='openstreetmap',
                    zoom_start=6, control_scale=True, prefer_canvas=True)
+
+    # add the point data to the map
+    add_point_markers(m, geo_points_data_clinics_df, "Clinic")
+    add_point_markers(m, geo_points_data_police_df, "Police Station")
+    add_point_markers(m, geo_points_data_courts_df, "Sexual Offence Court")
+    add_point_markers(m, geo_points_data_shelters_df, "Shelter")
+
+    # Probably not beautiful to use name for this. But expedient...
+    if basic_map == True:
+        m.save(outfile)
+        return m
 
     # add the incidence data layers to the map
     for i, item in enumerate(labels):
@@ -205,17 +217,12 @@ def plot_folium(province_df, geo_points_data_police_df, geo_points_data_clinics_
 
         add_choropleth(m, jsontxt, item, colormap, data_2_dict_4_clrmap, province_df)
 
-    # add the point data to the map
-    add_point_markers(m, geo_points_data_clinics_df, "Clinic")
-    add_point_markers(m, geo_points_data_police_df, "Police Station")
-    add_point_markers(m, geo_points_data_courts_df, "Sexual Offence Court")
-    add_point_markers(m, geo_points_data_shelters_df, "Shelter")
-
     # add layer control
     folium.LayerControl().add_to(m)
 
     # save output
     m.save(outfile)
+    return m
 
 
 def main(police, clinics, courts, shelters, province, crime_data, outpath, name):
@@ -269,11 +276,14 @@ def main(police, clinics, courts, shelters, province, crime_data, outpath, name)
     province_shapes_incidence_gdf = pd.merge(province_shape_df, crime_data_df, how='inner', on="Province")
     province_shapes_incidence_gdf["geoid"] = province_shapes_incidence_gdf.index.astype(str)
 
+    basic_map = name == 'basic.html'
+
     # plot the data
-    plot_folium(province_shapes_incidence_gdf, geo_points_data_police_df, geo_points_data_clinics_df,
-                geo_points_data_courts_df, geo_points_data_shelters_df, outfile)
+    map = plot_folium(province_shapes_incidence_gdf, geo_points_data_police_df, geo_points_data_clinics_df,
+                geo_points_data_courts_df, geo_points_data_shelters_df, outfile, basic_map)
 
     print("we are done here")
+    return map
 
 
 if __name__ == "__main__":
