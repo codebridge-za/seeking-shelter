@@ -7,6 +7,7 @@ Information about and for the development of Seeking Shelter.
 - [ ] Use marker icons that are easily recognisable
 - [ ] Add `tel:` hyperlink to telephone numbers in popups
 - [ ] Write About page
+- [ ] 'Shelters near me' feature?
 - [x] Make map display mobile friendly
 - [x] Zoom to user's location
 - [x] Provide separate basic and advanced maps
