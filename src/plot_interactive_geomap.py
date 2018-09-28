@@ -10,6 +10,8 @@ import matplotlib as mpl
 import matplotlib.cm as cm
 from shapely.geometry import Point
 from branca.colormap import linear
+import cgi
+import utilities
 
 
 __author__ = 'Colin Anthony'
@@ -73,36 +75,37 @@ def add_point_markers(mapobj, gdf, type):
         # Append lat and long coordinates to "coords" list
         long = row.geometry.y
         lat = row.geometry.x
-        name_tag = row.Name
+        name_tag = cgi.escape(row.Name).replace('\'', "\\\'")
         try:
-            tel = str(row.Tel)
+            tel_numbers = utilities.parse_tel_numbers(str(row.Tel))
+            tel_links = ', '.join(['<a href=tel:{}>{}</a>'.format(number, number) for number in tel_numbers])
         except:
-            tel = ''
+            tel_links = ''
 
         if type == "Shelter":
             if "Shelter" not in name_tag:
-                name_tag = "{} Shelter  Tel: {}".format(name_tag, tel)
+                name_tag = "{} Shelter  Tel: {}".format(name_tag, tel_links)
             else:
-                name_tag = "{}  Tel: {}".format(name_tag, tel)
+                name_tag = "{}  Tel: {}".format(name_tag, tel_links)
             size = 8
-            label = folium.Popup('{}'.format(name_tag), parse_html=True)
+            label = folium.Popup(name_tag)
             alpha=0.9
         elif type == "Sexual Offence Court":
             court_type = row.Type
-            name_tag = "{} {}  Tel: {}".format(name_tag, court_type, tel)
+            name_tag = "{} {}  Tel: {}".format(name_tag, court_type, tel_links)
             size = 6
-            label = folium.Popup('{}'.format(name_tag), parse_html=True)
+            label = folium.Popup(name_tag)
             alpha = 1
         elif type == "Clinic":
             size = 6
             name_tag = name_tag.replace("Clinic Clinic", "Clinic")
-            name_tag = "{}  Tel: {}".format(name_tag, tel)
-            label = folium.Popup('{}'.format(name_tag), parse_html=True)
+            name_tag = "{}  Tel: {}".format(name_tag, tel_links)
+            label = folium.Popup(name_tag)
             alpha = 1
         else:
             size = 6
-            name_tag = "{} {}  Tel: {}".format(name_tag, type, tel)
-            label = folium.Popup('{}'.format(name_tag), parse_html=True)
+            name_tag = "{} {}  Tel: {}".format(name_tag, type, tel_links)
+            label = folium.Popup(name_tag)
             alpha = 1
 
         folium.CircleMarker(location=[long, lat],
