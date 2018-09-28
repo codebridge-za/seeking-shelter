@@ -20,6 +20,7 @@ def write_map_page(name, map):
     html = map.get_root().render()
     body_tag_index = html.find('<body>')
     folium_head = '<!-- Folium generated requirements - not used. -->\n' + html[:body_tag_index]
+    folium_head = re.sub(r'map_\w*', 'map', folium_head)
     with open("src/folium_head_requirements.html", "w") as file:
         file.write(folium_head)
     map_content = html[body_tag_index:]
