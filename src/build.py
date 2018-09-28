@@ -1,6 +1,7 @@
 import plot_interactive_geomap
 from jinja2 import Template, Environment, FileSystemLoader
 import re
+import utilities
 
 # Data files
 
@@ -37,12 +38,22 @@ def write_about_page():
     template.stream(page='about').dump('about.html')
     print('about.html written')
 
+def write_near_page():
+    rows = []
+    for data_file in [police, medical, legal, shelters]:
+        rows += utilities.get_places(data_file)
+    env = Environment(loader=FileSystemLoader('src/templates'))
+    template = env.get_template('near.html');
+    template.stream(page='near', places=rows).dump('near.html')
+    print('near.html written')
+
 def main():
     basic_map = plot_interactive_geomap.main(police, medical, legal, shelters, province, crime_data, raw_maps_path, 'basic')
     write_map_page('index', basic_map)
     advanced_map = plot_interactive_geomap.main(police, medical, legal, shelters, province, crime_data, raw_maps_path, 'advanced')
     write_map_page('advanced', advanced_map)
     write_about_page()
+    write_near_page()
 
 if __name__ == '__main__':
     main()
