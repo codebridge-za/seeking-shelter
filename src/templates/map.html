@@ -34,6 +34,19 @@
     /* Would be better to import bootstrap variables and calc height using navbar height */
     height: calc(100% - 56px);
   }
+  .leaflet-right {
+    width: 80%;
+  }
+  .leaflet-right > div.legend {
+    width: 100%;
+    max-width: 450px;
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+  @media only screen and (max-width: 600px) {
+    .leaflet-right > div.legend {
+      font-size: 0.9rem;
+    }
+  }
   </style>
 
   <!-- Use more recent bootstrap than Folium wants -->
