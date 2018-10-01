@@ -4,11 +4,12 @@ Information about and for the development of Seeking Shelter.
 
 ## To do
 
-- [ ] Use marker icons that are easily recognisable
 - [ ] Write About page
 - [ ] Reorg `src/plot_interactive_geomap.py` to improve build process (currently running some things twice...)
 - [ ] Decide whether to use a backend (e.g. places near me...instead of computation on client)
 - [ ] Decide whether/which front-end framework to use
+- [x] Cluster markers
+- [x] Use marker icons that are easily recognisable
 - [x] 'Near me' feature
 - [x] Add `tel:` hyperlink to telephone numbers in popups
 - [x] Make map display mobile friendly
