@@ -2,6 +2,8 @@ import plot_interactive_geomap
 from jinja2 import Template, Environment, FileSystemLoader
 import re
 import utilities
+import markdown as md
+import codecs
 
 # Data files
 
@@ -33,10 +35,23 @@ def write_map_page(name, map):
     print(name + '.html written')
 
 def write_about_page():
-    env = Environment(loader=FileSystemLoader('src/templates'))
-    template = env.get_template('about.html');
-    template.stream(page='about').dump('about.html')
-    print('about.html written')
+    with codecs.open("README.md", mode="r", encoding="utf-8") as file:
+        markdown = file.read()
+        start_comment = '<!-- START_EXCLUDE -->'
+        end_comment = '<!-- END_EXCLUDE -->'
+        exclusions = markdown.count(start_comment)
+        for i in range(exclusions):
+            start_exclude_index = markdown.find(start_comment)
+            end_exclude_index = markdown.find(end_comment)
+            if end_exclude_index == -1:
+                markdown = markdown[:start_exclude_index]
+            else:
+                markdown = markdown[:start_exclude_index] + markdown[end_exclude_index + len(end_comment):]
+        html = md.markdown(markdown)
+        env = Environment(loader=FileSystemLoader('src/templates'))
+        template = env.get_template('about.html');
+        template.stream(page='about', content=html).dump('about.html')
+        print('about.html written')
 
 def write_near_page():
     rows = []
