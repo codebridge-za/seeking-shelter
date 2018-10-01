@@ -3,6 +3,7 @@ from __future__ import division
 import os
 import argparse
 import folium
+from folium.plugins import MarkerCluster
 import pandas as pd
 import geopandas as gpd
 from geopandas import GeoDataFrame
@@ -10,6 +11,8 @@ import matplotlib as mpl
 import matplotlib.cm as cm
 from shapely.geometry import Point
 from branca.colormap import linear
+import cgi
+import utilities
 
 
 __author__ = 'Colin Anthony'
@@ -58,60 +61,58 @@ def add_point_markers(mapobj, gdf, type):
     :return: updated folium map object
     """
 
-    colr = {'Clinic': '#ef6548', 'Police Station': '#9ecae1', 'Sexual Offence Court': "#fed976", 'Shelter': '#addd8e'}
-    pt_lyr1 = folium.FeatureGroup(name='Clinic')
-    pt_lyr2 = folium.FeatureGroup(name='Police Station')
-    pt_lyr3 = folium.FeatureGroup(name='Sexual Offence Court')
-    pt_lyr4 = folium.FeatureGroup(name='Shelter')
+    colr = {'Clinic': 'darkred', 'Police Station': 'darkblue', 'Sexual Offence Court': 'gray', 'Shelter': 'green'}
+    pt_lyr1 = MarkerCluster(name='Clinic')
+    pt_lyr2 = MarkerCluster(name='Police Station')
+    pt_lyr3 = MarkerCluster(name='Sexual Offence Court')
+    pt_lyr4 = MarkerCluster(name='Shelter')
     layer = {'Clinic': pt_lyr1, 'Police Station': pt_lyr2, 'Sexual Offence Court': pt_lyr3, 'Shelter': pt_lyr4}
-    icon = {'Clinic': pt_lyr1, 'Police Station': pt_lyr2, 'Sexual Offence Court': pt_lyr3, 'Shelter': pt_lyr4}
-    icon_types = {'Clinic': "hospital", 'Police Station': "shield-alt", 'Sexual Offence Court': "balance-scale", 'Shelter': "hands-helping"}
-    # Create a Folium feature group for this layer, since we will be displaying multiple layers
+    icon = {'Clinic': "plus-square", 'Police Station': "shield-alt", 'Sexual Offence Court': "balance-scale", 'Shelter': "hands-helping"}
+    # Create a Folium marker cluster group for this layer, since we will be displaying multiple layers, and want points clustered
     pt_lyr = layer[type]
 
     for i, row in gdf.iterrows():
         # Append lat and long coordinates to "coords" list
         long = row.geometry.y
         lat = row.geometry.x
-        name_tag = row.Name
+        name_tag = cgi.escape(row.Name).replace('\'', "\\\'")
         try:
-            tel = str(row.Tel)
+            tel_numbers = utilities.parse_tel_numbers(str(row.Tel))
+            tel_links = ', '.join(['<a href=tel:{}>{}</a>'.format(number, number) for number in tel_numbers])
         except:
-            tel = ''
+            tel_links = ''
 
         if type == "Shelter":
             if "Shelter" not in name_tag:
-                name_tag = "{} Shelter  Tel: {}".format(name_tag, tel)
+                name_tag = "{} Shelter  Tel: {}".format(name_tag, tel_links)
             else:
-                name_tag = "{}  Tel: {}".format(name_tag, tel)
+                name_tag = "{}  Tel: {}".format(name_tag, tel_links)
             size = 8
-            label = folium.Popup('{}'.format(name_tag), parse_html=True)
+            label = folium.Popup(name_tag)
             alpha=0.9
         elif type == "Sexual Offence Court":
             court_type = row.Type
-            name_tag = "{} {}  Tel: {}".format(name_tag, court_type, tel)
+            name_tag = "{} {}  Tel: {}".format(name_tag, court_type, tel_links)
             size = 6
-            label = folium.Popup('{}'.format(name_tag), parse_html=True)
+            label = folium.Popup(name_tag)
             alpha = 1
         elif type == "Clinic":
             size = 6
             name_tag = name_tag.replace("Clinic Clinic", "Clinic")
-            name_tag = "{}  Tel: {}".format(name_tag, tel)
-            label = folium.Popup('{}'.format(name_tag), parse_html=True)
+            name_tag = "{}  Tel: {}".format(name_tag, tel_links)
+            label = folium.Popup(name_tag)
             alpha = 1
         else:
             size = 6
-            name_tag = "{} {}  Tel: {}".format(name_tag, type, tel)
-            label = folium.Popup('{}'.format(name_tag), parse_html=True)
+            name_tag = "{} {}  Tel: {}".format(name_tag, type, tel_links)
+            label = folium.Popup(name_tag)
             alpha = 1
 
-        folium.CircleMarker(location=[long, lat],
-                            popup=label,
-                            radius=size,
-                            fill=True,
-                            fill_color=colr[type],
-                            fill_opacity=alpha,
-                            color=colr[type]).add_to(pt_lyr)
+        folium.Marker(
+                location=[long, lat],
+                popup=label,
+                icon=folium.Icon(color=colr[type], icon=icon[type], prefix='fa')
+        ).add_to(pt_lyr)
 
     # Add this point layer to the map object
     mapobj.add_child(pt_lyr)

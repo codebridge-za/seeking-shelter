@@ -1,0 +1,112 @@
+<!DOCTYPE HTML>
+<head>
+  <title>Seeking Shelter</title>
+
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+  <!-- Don't make things little on narrow device  -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+  <!-- Use more recent bootstrap than Folium wants -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+  <div class="container pb-5">
+    <h1 class="mb-5">Near Me</h1>
+    <div id="nearContent"></div>
+  </div>
+
+  {% include 'nav.html' %}
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+
+
+  <script>
+  var places = {{ places | tojson }};
+  var near = [];
+
+  function onLocationFound(position) {
+    var lat = position.coords.latitude;
+    var lon = position.coords.longitude;
+    places.forEach(function(place) {
+      place.distance = Math.sqrt(
+        Math.pow((lat - place.Latitude), 2) + Math.pow((lon - place.Longitude), 2)
+      );
+    });
+    places.sort((a, b) => {
+      return a.distance > b.distance ? 1 : -1;
+    })
+    placesNearMe = places.slice(0, 10);
+    toggleLoading(false);
+    // TODO: Use front-end framework instead of this type of thing:
+    $('#nearContent').append(`${placesNearMe.map(place => `
+      <div class="row justify-content-between mb-5">
+        <div class="col">
+          <h5>${place.Name}
+            <span class="text-muted">${place.Type}</span>
+          </h5>
+        </div>
+        ${place.Tel.length > 1 ? `
+        <div class="col dropdown">
+          <button class="btn btn-link dropdown-toggle" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            ${place.Tel[0]}
+          </button>
+          <div class="dropdown-menu">
+            ${place.Tel.map(tel => `
+              <a class="dropdown-item" href="tel:${tel}">${tel}</a>
+            `).join('')}
+          </div>
+        </div>` : `
+        <div class="col">
+          <a class="btn btn-link" href="tel:${place.Tel[0]}">${place.Tel[0]}</a>
+        </div>
+        `}
+      </div>`).join('')}
+    `);
+  }
+
+  function onLocationError(error) {
+    toggleLoading(false);
+    showError(error.message);
+  }
+
+  function showError(message) {
+    toggleLoading(false);
+    $('#nearContent').append(`
+      <div class="alert alert-warning" role="alert">
+        ${message}
+      </div>
+    `);
+  }
+
+  function toggleLoading(show) {
+    if (show) {
+      $('#nearContent').append(`
+        <div id="loading" class="progress">
+          <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%"></div>
+        </div>
+      `);
+    } else {
+      $('#loading').remove();
+    }
+  }
+
+  toggleLoading(true);
+  if ("geolocation" in navigator) {
+    navigator.geolocation.getCurrentPosition(onLocationFound, onLocationError);
+  } else {
+    showError('Geolocation not available');
+  }
+
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+  </body>
+
+</html>
