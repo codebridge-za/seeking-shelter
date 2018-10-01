@@ -22,6 +22,7 @@ Go to: (https://codebridge-za.github.io/seeking-shelter/)
 
 ## Contributors
 - Colin Anthony (https://github.com/ColinAnthony)
+- Rikus van Vuuren (https://github.com/rikusv)
 - Alex Steinberg (https://github.com/alex-steinberg)
 - Waheeb Aghers
 - Francois Buys (https://github.com/buys-fran)
