@@ -9,21 +9,13 @@ The outcomes of this project is to dynamically generate area-specific maps that 
 ## Contact
 Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https://github.com/lailahr) if you want to learn more about this project or get involved.
 
-## interactive map
-- Please note: the shelter/places of saftey points on this interactive map have been adjusted to protect their exact locations
-Go to: (https://codebridge-za.github.io/seeking-shelter/)
-
-## Charts
-![](data/charts/number-of-sherts-per-province.png)
-![](data/charts/female-population-per-province.png)
-
 ## Resources
 - [Google sheets Data Gathered](https://docs.google.com/spreadsheets/d/16QnoXu2MDsbSpIE6H52mYsLbXZdmieqgsean8i_3RlA/edit#gid=590324052)
 
 ## Contributors
 - Colin Anthony (https://github.com/ColinAnthony)
 - Rikus van Vuuren (https://github.com/rikusv)
+- Waheeb Aghers (https://github.com/Wahe3bru)
 - Alex Steinberg (https://github.com/alex-steinberg)
-- Waheeb Aghers
 - Francois Buys (https://github.com/buys-fran)
 - Alicia de Wet
