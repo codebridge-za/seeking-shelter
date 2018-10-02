@@ -2,6 +2,8 @@ import plot_interactive_geomap
 from jinja2 import Template, Environment, FileSystemLoader
 import re
 import utilities
+import markdown as md
+import codecs
 
 # Data files
 
@@ -27,16 +29,36 @@ def write_map_page(name, map):
     map_content = html[body_tag_index:]
     map_content = re.sub(r'<body>', '', map_content)
     map_content = re.sub(r'<\/body>', '', map_content)
+
+    # Make legend responsive by using 'viewBox' attribute:
+    # Would be much better to do this via folium, but it looks like it is hard-coded:
+    # https://github.com/python-visualization/branca/blob/a2e22815eea5a96d9bf3b08fd0cfb10c6f3c3de6/branca/templates/color_scale.js
+    map_content = map_content.replace('.attr("width", 450)', '.attr("viewBox", "0 0 450 40");')
+    map_content = map_content.replace('.attr("height", 40);', '')
+
     env = Environment(loader=FileSystemLoader('src/templates'))
     template = env.get_template('map.html');
     template.stream(map=map_content, map_id=map_id, page=name).dump(name + '.html')
     print(name + '.html written')
 
 def write_about_page():
-    env = Environment(loader=FileSystemLoader('src/templates'))
-    template = env.get_template('about.html');
-    template.stream(page='about').dump('about.html')
-    print('about.html written')
+    with codecs.open("README.md", mode="r", encoding="utf-8") as file:
+        markdown = file.read()
+        start_comment = '<!-- START_EXCLUDE -->'
+        end_comment = '<!-- END_EXCLUDE -->'
+        exclusions = markdown.count(start_comment)
+        for i in range(exclusions):
+            start_exclude_index = markdown.find(start_comment)
+            end_exclude_index = markdown.find(end_comment)
+            if end_exclude_index == -1:
+                markdown = markdown[:start_exclude_index]
+            else:
+                markdown = markdown[:start_exclude_index] + markdown[end_exclude_index + len(end_comment):]
+        html = md.markdown(markdown)
+        env = Environment(loader=FileSystemLoader('src/templates'))
+        template = env.get_template('about.html');
+        template.stream(page='about', content=html).dump('about.html')
+        print('about.html written')
 
 def write_near_page():
     rows = []

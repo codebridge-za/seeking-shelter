@@ -13,6 +13,7 @@ geopandas==0.4.0
 idna==2.7
 Jinja2==2.10
 kiwisolver==1.0.1
+Markdown==3.0.1
 MarkupSafe==1.0
 matplotlib==2.2.3
 munch==2.3.2

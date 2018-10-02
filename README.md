@@ -9,8 +9,11 @@ The outcomes of this project is to dynamically generate area-specific maps that 
 ## Contact
 Please contact Kirsten Pearson (kirstenpea@gmail.com) or Lailah Ryklief (https://github.com/lailahr) if you want to learn more about this project or get involved.
 
+
 ## Resources
 - [Google sheets Data Gathered](https://docs.google.com/spreadsheets/d/16QnoXu2MDsbSpIE6H52mYsLbXZdmieqgsean8i_3RlA/edit#gid=590324052)
+
+<!-- END_EXCLUDE -->
 
 ## Contributors
 - Colin Anthony (https://github.com/ColinAnthony)
