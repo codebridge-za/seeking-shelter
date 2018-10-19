@@ -1,5 +1,5 @@
 # Sheeking Shelter GraphQL API
----
+
 This GraphQL API makes it possible for other developers and NGOs to access the datasets that were curated by the core contributors. 
 
 Currently this API is only making the `shelters_low_res.csv` dataset available until i am given an indication of what datasets should be made publicly available
