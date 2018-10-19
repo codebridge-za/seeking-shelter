@@ -1,0 +1,722 @@
+[
+  {
+    "province": "Eastern Cape",
+    "type": "Shelter",
+    "subregion": "Cathcart",
+    "name": "Ikhwezi Women Support Centre",
+    "tel": "045-8432110",
+    "latitude": "-32.3",
+    "longitude": "27.1"
+  },
+  {
+    "province": "Eastern Cape",
+    "type": "Shelter",
+    "subregion": "East London, Southernwood",
+    "name": "Victory House",
+    "tel": "043-7226104",
+    "latitude": "-33",
+    "longitude": "27.9"
+  },
+  {
+    "province": "Eastern Cape",
+    "type": "Shelter",
+    "subregion": "East London, Southernwood",
+    "name": "Masimanyane Shelter",
+    "tel": "043-7439169",
+    "latitude": "-33",
+    "longitude": "27.9"
+  },
+  {
+    "province": "Eastern Cape",
+    "type": "Shelter",
+    "subregion": "Jeffrey'S Bay",
+    "name": "On Eagles Wings Multipurpose Centre",
+    "tel": "042-2933985",
+    "latitude": "-34.1",
+    "longitude": "24.9"
+  },
+  {
+    "province": "Eastern Cape",
+    "type": "Shelter",
+    "subregion": "King Williams Town",
+    "name": "Khanyisa Victim Empowerment Centre",
+    "tel": "043-6421646",
+    "latitude": "-32.9",
+    "longitude": "27.4"
+  },
+  {
+    "province": "Eastern Cape",
+    "type": "Shelter",
+    "subregion": "Port Elizabeth",
+    "name": "Rape Crisis Centre (Shelter Under Construction)",
+    "tel": "041-4843804",
+    "latitude": "-34",
+    "longitude": "25.6"
+  },
+  {
+    "province": "Eastern Cape",
+    "type": "Shelter",
+    "subregion": "Uitenhage",
+    "name": "Kwanobuhle Outreach Centre (Government-Run Shelter)",
+    "tel": "041-9781499",
+    "latitude": "-33.8",
+    "longitude": "25.4"
+  },
+  {
+    "province": "Free State",
+    "type": "Shelter",
+    "subregion": "Bethlehem",
+    "name": "Child & Family Welfare",
+    "tel": "058-3034701",
+    "latitude": "-28.2",
+    "longitude": "28.3"
+  },
+  {
+    "province": "Free State",
+    "type": "Shelter",
+    "subregion": "Parys",
+    "name": "Tumahole Victim Support Centre",
+    "tel": "056-8198881",
+    "latitude": "-26.9",
+    "longitude": "27.5"
+  },
+  {
+    "province": "Free State",
+    "type": "Shelter",
+    "subregion": "Qwaqwa",
+    "name": "Thusanang Advice Centre Shelter",
+    "tel": "058-7136074",
+    "latitude": "-28.6",
+    "longitude": "28.8"
+  },
+  {
+    "province": "Free State",
+    "type": "Shelter",
+    "subregion": "Welkom",
+    "name": "Goldfields Family Advice Organisation",
+    "tel": "057-3966153",
+    "latitude": "-28",
+    "longitude": "26.8"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Alexandra",
+    "name": "Bombani Shelter",
+    "tel": "011-0271513",
+    "latitude": "-26.1",
+    "longitude": "28.1"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Benoni",
+    "name": "Antioch Place Of Shelter",
+    "tel": "011-8454811",
+    "latitude": "-26.2",
+    "longitude": "28.4"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Ekurhuleni",
+    "name": "Ctc Bethesda House",
+    "tel": "011-8452224",
+    "latitude": "-26.2",
+    "longitude": "28.2"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Alberton",
+    "name": "Amcare Hannah House",
+    "tel": "011-8695856",
+    "latitude": "-26.3",
+    "longitude": "28.1"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Ekurhuleni",
+    "name": "Powa (East Rand)",
+    "tel": "011-9010292",
+    "latitude": "-26.2",
+    "longitude": "28.2"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Ekurhuleni",
+    "name": "Mercy Haven",
+    "tel": "011-8922714",
+    "latitude": "-26.2",
+    "longitude": "28.2"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Ekurhuleni",
+    "name": "House Of Hope (T/A Leratong Crisis Centre)",
+    "tel": "011-3631368",
+    "latitude": "-26.2",
+    "longitude": "28.2"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Daveyton",
+    "name": "Theodora Ndaba Victim Support Centre",
+    "tel": "011-4264776",
+    "latitude": "-26.2",
+    "longitude": "28.4"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Johannesburg Metro",
+    "name": "Usindiso",
+    "tel": "0113341143/4",
+    "latitude": "-26.2",
+    "longitude": "28"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Johannesburg Metro",
+    "name": "Ikhaya Lethemba (Government-Run Shelter)",
+    "tel": "011-2423000/1/38",
+    "latitude": "-26.2",
+    "longitude": "28"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Johannesburg Metro",
+    "name": "Eldorado Park Women'S Forum",
+    "tel": "011-9456433",
+    "latitude": "-26.2",
+    "longitude": "28"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Johannesburg Metro",
+    "name": "Home Of Hope",
+    "tel": "011-3314467",
+    "latitude": "-26.2",
+    "longitude": "28"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Johannesburg Metro",
+    "name": "Little Saints Bethany",
+    "tel": "011-6143245",
+    "latitude": "-26.2",
+    "longitude": "28"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Lenasia Extension 1",
+    "name": "Nisaa Institute For Women'S Development",
+    "tel": "011-8545804/5",
+    "latitude": "-26.3",
+    "longitude": "27.8"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "North Rand",
+    "name": "Beth Shan Shelter",
+    "tel": "012-3796671",
+    "latitude": "-26.2",
+    "longitude": "28.3"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Sizanani Village",
+    "name": "Mercy House",
+    "tel": "012-3296682",
+    "latitude": "-25.8",
+    "longitude": "28.8"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "North Rand",
+    "name": "Mali Martin",
+    "tel": "013-9358032",
+    "latitude": "-26.2",
+    "longitude": "28.3"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "North Rand",
+    "name": "The Potter House",
+    "tel": "012-3202123",
+    "latitude": "-26.2",
+    "longitude": "28.3"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Pretoria West",
+    "name": "Youth For Survival",
+    "tel": "012-3040001",
+    "latitude": "-25.8",
+    "longitude": "28.2"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Pretoria, Atteridgeville",
+    "name": "Re-Bafenyi Victim Empowerment",
+    "tel": "012-3737948",
+    "latitude": "-25.8",
+    "longitude": "28.1"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Sedibeng",
+    "name": "Bella Maria",
+    "tel": "016-4281640",
+    "latitude": "-26.7",
+    "longitude": "28.2"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "West Rand",
+    "name": "Are Areng",
+    "tel": "011-4121940/011-6921945",
+    "latitude": "-26.3",
+    "longitude": "27.5"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "West Rand",
+    "name": "Polokego",
+    "tel": "011-6651723",
+    "latitude": "-26.3",
+    "longitude": "27.5"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Carltonville",
+    "name": "SAVF Deurgangshuis",
+    "tel": "018-7861016",
+    "latitude": "-26.4",
+    "longitude": "27.4"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "Florida",
+    "name": "POWA (West Rand)",
+    "tel": "011-4726631",
+    "latitude": "-26.2",
+    "longitude": "27.9"
+  },
+  {
+    "province": "Gauteng",
+    "type": "Shelter",
+    "subregion": "West Rand",
+    "name": "WAWA Toekomsrus",
+    "tel": "011-6934504",
+    "latitude": "-26.3",
+    "longitude": "27.5"
+  },
+  {
+    "province": "Kwazulu-Natal",
+    "type": "Shelter",
+    "subregion": "Dundee",
+    "name": "Dundee Crisis Centre",
+    "tel": "034-2122544",
+    "latitude": "-28.2",
+    "longitude": "30.2"
+  },
+  {
+    "province": "Kwazulu-Natal",
+    "type": "Shelter",
+    "subregion": "Durban",
+    "name": "Kerr House",
+    "tel": "031-3032912",
+    "latitude": "-29.9",
+    "longitude": "31"
+  },
+  {
+    "province": "Kwazulu-Natal",
+    "type": "Shelter",
+    "subregion": "Durban",
+    "name": "Kenilworth Respite Centre",
+    "tel": "031-2076483",
+    "latitude": "-29.9",
+    "longitude": "31"
+  },
+  {
+    "province": "Kwazulu-Natal",
+    "type": "Shelter",
+    "subregion": "Pietermaritzburg",
+    "name": "Abrina Esther House",
+    "tel": "033-3455843",
+    "latitude": "-29.6",
+    "longitude": "30.4"
+  },
+  {
+    "province": "Kwazulu-Natal",
+    "type": "Shelter",
+    "subregion": "Pietermaritzburg",
+    "name": "The Haven",
+    "tel": "033-3940228",
+    "latitude": "-29.6",
+    "longitude": "30.4"
+  },
+  {
+    "province": "Kwazulu-Natal",
+    "type": "Shelter",
+    "subregion": "Pinetown",
+    "name": "Open Door Crisis Centre",
+    "tel": "031-7092679",
+    "latitude": "-29.8",
+    "longitude": "30.8"
+  },
+  {
+    "province": "Kwazulu-Natal",
+    "type": "Shelter",
+    "subregion": "Pinetown",
+    "name": "Ethembeni Crisis Centre",
+    "tel": "031-7046860",
+    "latitude": "-29.8",
+    "longitude": "30.8"
+  },
+  {
+    "province": "Kwazulu-Natal",
+    "type": "Shelter",
+    "subregion": "Sundumbili",
+    "name": "The House Of Hope And Recovery",
+    "tel": "032-4542347",
+    "latitude": "-29.1",
+    "longitude": "31.4"
+  },
+  {
+    "province": "Limpopo",
+    "type": "Shelter",
+    "subregion": "Polokwane",
+    "name": "Ekuphumleni Restoration Home ThyREST",
+    "tel": "015-2230091",
+    "latitude": "-23.9",
+    "longitude": "29.5"
+  },
+  {
+    "province": "Limpopo",
+    "type": "Shelter",
+    "subregion": "Polokwane",
+    "name": "Khuseleka One Stop Centre (Government-Run Shelter)",
+    "tel": "015-2931182/5",
+    "latitude": "-23.9",
+    "longitude": "29.5"
+  },
+  {
+    "province": "Mpumalanga",
+    "type": "Shelter",
+    "subregion": "Badplass",
+    "name": "Badplass Shelter",
+    "tel": "017-8441454",
+    "latitude": "-26",
+    "longitude": "30.5"
+  },
+  {
+    "province": "Mpumalanga",
+    "type": "Shelter",
+    "subregion": "Kwamhlanga",
+    "name": "Leseding Women'S Shelter (Government-Run Shelter)",
+    "tel": "013-9472737",
+    "latitude": "-25.4",
+    "longitude": "28.7"
+  },
+  {
+    "province": "Mpumalanga",
+    "type": "Shelter",
+    "subregion": "Low'S Creek",
+    "name": "Louiville Shelter (Government-Run Shelter)",
+    "tel": "013-7100105",
+    "latitude": "-25.6",
+    "longitude": "31.3"
+  },
+  {
+    "province": "Mpumalanga",
+    "type": "Shelter",
+    "subregion": "Malubane Mkhuhlu",
+    "name": "Calcultta Shelter",
+    "tel": "013-0070864",
+    "latitude": "-25",
+    "longitude": "31.2"
+  },
+  {
+    "province": "Mpumalanga",
+    "type": "Shelter",
+    "subregion": "Middleburg",
+    "name": "Victim Support Centre (Shelter Closed But Psychosocial Services Still On Offer)",
+    "tel": "013-2432732",
+    "latitude": "-25.8",
+    "longitude": "29.5"
+  },
+  {
+    "province": "Mpumalanga",
+    "type": "Shelter",
+    "subregion": "Mmametlhake",
+    "name": "Tirisano Victim Empowerment Centre",
+    "tel": "012-7213872",
+    "latitude": "-25.1",
+    "longitude": "28.5"
+  },
+  {
+    "province": "Mpumalanga",
+    "type": "Shelter",
+    "subregion": "Msogwaba",
+    "name": "Grace Shelter",
+    "tel": "",
+    "latitude": "-25.4",
+    "longitude": "31.2"
+  },
+  {
+    "province": "Mpumalanga",
+    "type": "Shelter",
+    "subregion": "Nelspruit",
+    "name": "Grip Shelter",
+    "tel": "013-7524404",
+    "latitude": "-25.5",
+    "longitude": "31"
+  },
+  {
+    "province": "Mpumalanga",
+    "type": "Shelter",
+    "subregion": "Thulamahashe",
+    "name": "Mhala Shelter",
+    "tel": "013-7739871",
+    "latitude": "-24.7",
+    "longitude": "31.2"
+  },
+  {
+    "province": "North West",
+    "type": "Shelter",
+    "subregion": "Mooi Nooi",
+    "name": "Grace Help Shelter",
+    "tel": "014-5743476",
+    "latitude": "-25.8",
+    "longitude": "27.6"
+  },
+  {
+    "province": "Northern Cape",
+    "type": "Shelter",
+    "subregion": "De Aar",
+    "name": "Ethembeni Community  And Trauma Centre",
+    "tel": "053-6314379",
+    "latitude": "-30.7",
+    "longitude": "24"
+  },
+  {
+    "province": "Northern Cape",
+    "type": "Shelter",
+    "subregion": "Upington",
+    "name": "Bopanang One Stop Centre (Government-Run Shelter)",
+    "tel": "054-3323876",
+    "latitude": "-28.4",
+    "longitude": "21.2"
+  },
+  {
+    "province": "Northern Cape",
+    "type": "Shelter",
+    "subregion": "Kimberley",
+    "name": "Kimberely Shelter (Government-Run Shelter)",
+    "tel": "053-8749263",
+    "latitude": "-28.7",
+    "longitude": "24.8"
+  },
+  {
+    "province": "Northern Cape",
+    "type": "Shelter",
+    "subregion": "Kimberley",
+    "name": "Tamar Shelter (Currenly Under Renovation)",
+    "tel": "053-8321954",
+    "latitude": "-28.7",
+    "longitude": "24.8"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Athlone",
+    "name": "Saartjie Baartman Womens Centre",
+    "tel": "021-6335287",
+    "latitude": "-34",
+    "longitude": "18.5"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Atlantis",
+    "name": "United Sanctuary Against Abuse",
+    "tel": "021-5728662",
+    "latitude": "-33.5",
+    "longitude": "18.5"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Claremont",
+    "name": "Mater Domini Home",
+    "tel": "021-6716008",
+    "latitude": "-34",
+    "longitude": "18.5"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Fishhoek",
+    "name": "The Safehouse",
+    "tel": "021-7851168",
+    "latitude": "-34.1",
+    "longitude": "18.4"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Gatesville",
+    "name": "Carehaven",
+    "tel": "021-6385511",
+    "latitude": "-34",
+    "longitude": "18.5"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "George East",
+    "name": "BWP Oteniqua Refuse For Women & Children",
+    "tel": "044-8751551",
+    "latitude": "-34",
+    "longitude": "22.5"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Gugulethu",
+    "name": "Dorothy Zihlangu Transitional Home",
+    "tel": "021-6332383",
+    "latitude": "-34",
+    "longitude": "18.6"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Kenilworth",
+    "name": "Sisters Incorporated",
+    "tel": "021-7974190",
+    "latitude": "-34",
+    "longitude": "18.5"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Khayelitsha",
+    "name": "Nonceba Centre Trust",
+    "tel": "021-3640135",
+    "latitude": "-34",
+    "longitude": "18.7"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Mossel Bay",
+    "name": "Creating Effective Families",
+    "tel": "044-6931092",
+    "latitude": "-34.2",
+    "longitude": "22.1"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Paarl",
+    "name": "Athlone House Of  Hope",
+    "tel": "021-8629983",
+    "latitude": "-33.7",
+    "longitude": "19"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Parow",
+    "name": "St Mary'S Home Of Hope",
+    "tel": "021-9300700",
+    "latitude": "-33.9",
+    "longitude": "18.6"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Philipi",
+    "name": "Sizakuenza",
+    "tel": "021-3740800",
+    "latitude": "-34",
+    "longitude": "18.6"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Ravensmead",
+    "name": "Dusk To Dawn",
+    "tel": "021-1931320",
+    "latitude": "-33.9",
+    "longitude": "18.6"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Stellenbosch",
+    "name": "L Abrie De Dieu Safe House",
+    "tel": "021-8832572",
+    "latitude": "-33.9",
+    "longitude": "18.9"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Vredenberg",
+    "name": "Siyabonga Shelter",
+    "tel": "022-7134050",
+    "latitude": "-32.9",
+    "longitude": "18"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Welcome Estate",
+    "name": "Ihata",
+    "tel": "021-6386678",
+    "latitude": "-34",
+    "longitude": "18.5"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Woodstock",
+    "name": "St. Anne's Homes",
+    "tel": "021-4486792",
+    "latitude": "-33.9",
+    "longitude": "18.5"
+  },
+  {
+    "province": "Western Cape",
+    "type": "Shelter",
+    "subregion": "Worcester",
+    "name": "House Of Hope",
+    "tel": "023-3423167",
+    "latitude": "-33.7",
+    "longitude": "19.5"
+  }
+]
