@@ -5,11 +5,13 @@ const cors = require("cors");
 
 const shelters = require("./assets/shelters_low_res.json");
 const clinics = require("./assets/clinics.json");
+const courts = require("./assets/courts.json");
 
 const typeDefs = gql`
   type Query {
     shelters(province: Province): [Shelter!]!
-    clinics(province: Province): [Clinics!]!
+    clinics(province: Province): [Clinic!]!
+    courts(province: Province): [Court!]!
   }
 
   type Shelter {
@@ -22,10 +24,22 @@ const typeDefs = gql`
     longitude: String!
   }
 
-  type Clinics { 
+  type Clinic { 
     province: String!
     type: String!
     name: String!
+    tel: String!
+    latitude: String!
+    longitude: String!
+  }
+
+  type Court {
+    province: String!
+    type: String!
+    name: String!
+    equity_court: Boolean!
+    small_claims_court: Boolean!
+    sexual_offence_court: Boolean!
     tel: String!
     latitude: String!
     longitude: String!
@@ -62,6 +76,16 @@ const resolvers = {
     },
     clinics(root,{ province }) {
       return province ? clinics.filter(clinic => clinic.province === province) : clinics;
+    },
+    courts(root,{ province }) {
+      const courtsMod = courts.map(({ eqc, scc, soc, ...details }) => ({ 
+        ...details,
+        equity_court: eqc === "Yes",
+        small_claims_court: scc === "Yes",
+        sexual_offence_court: soc === "Yes"
+      }));
+
+      return province ? courtsMod.filter(court => court.province === province) : courtsMod;
     }
   }
 }
