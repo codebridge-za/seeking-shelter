@@ -6,12 +6,14 @@ const cors = require("cors");
 const shelters = require("./assets/shelters_low_res.json");
 const clinics = require("./assets/clinics.json");
 const courts = require("./assets/courts.json");
+const police = require("./assets/police.json");
 
 const typeDefs = gql`
   type Query {
     shelters(province: Province): [Shelter!]!
     clinics(province: Province): [Clinic!]!
     courts(province: Province): [Court!]!
+    police_stations(province: Province): [Police!]!
   }
 
   type Shelter {
@@ -40,6 +42,16 @@ const typeDefs = gql`
     equity_court: Boolean!
     small_claims_court: Boolean!
     sexual_offence_court: Boolean!
+    tel: String!
+    latitude: String!
+    longitude: String!
+  }
+
+  type Police {
+    province: String!
+    subregion: String!
+    type: String!
+    name: String!
     tel: String!
     latitude: String!
     longitude: String!
@@ -86,6 +98,9 @@ const resolvers = {
       }));
 
       return province ? courtsMod.filter(court => court.province === province) : courtsMod;
+    },
+    police_stations(root,{ province }) {
+      return province ? police.filter(station => station.province === province) : police;
     }
   }
 }
