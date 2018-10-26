@@ -16,5 +16,8 @@
     "firebase-functions": "^2.0.3",
     "graphql": "^14.0.2"
   },
-  "private": true
+  "private": true,
+  "engines": {
+    "node": "8"
+  }
 }

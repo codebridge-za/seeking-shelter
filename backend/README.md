@@ -2,13 +2,18 @@
 
 This GraphQL API makes it possible for other developers and NGOs to access the datasets that were curated by the core contributors. 
 
-Currently this API is only making the `shelters_low_res.csv` dataset available until i am given an indication of what datasets should be made publicly available
+### Datasets Available
+
+* `shelters`
+* `clinics`
+* `courts`
+* `police_stations`
 
 The schema definition for the GraphQL API can be found by using [**Apollo Playground**](https://us-central1-sheeking-shelter-8443b.cloudfunctions.net/api/graphql)
 
 ![Apollo Playground Home](https://preview.ibb.co/jv4MrL/Screenshot-16.png)
 ###### Apollo Playground Schema
-![Apollo Playground Schema](https://preview.ibb.co/d5peBL/Screenshot-17.png)
+![Apollo Playground Schema](https://preview.ibb.co/mkbk0q/Screenshot-20.png)
 
 ### How do i access the GraphQL API in my application?
 ---
