@@ -4,10 +4,10 @@ Information about and for the development of Seeking Shelter.
 
 ## To do
 
-- [ ] Write About page
 - [ ] Reorg `src/plot_interactive_geomap.py` to improve build process (currently running some things twice...)
 - [ ] Decide whether to use a backend (e.g. places near me...instead of computation on client)
 - [ ] Decide whether/which front-end framework to use
+- [x] Write About page
 - [x] Cluster markers
 - [x] Use marker icons that are easily recognisable
 - [x] 'Near me' feature
