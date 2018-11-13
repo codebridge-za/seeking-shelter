@@ -19,6 +19,10 @@ Information about and for the development of Seeking Shelter.
 
 ## Setup
 
+The project is a bit of a mixture of intertwined Python jinja2 and JavaScript React.js... This could be improved.
+
+### Python
+
 ```
 virtualenv src/env
 source src/env/bin/activate
@@ -30,8 +34,23 @@ Then in the activated environment:
 pip install -r requirements.txt
 ```
 
-## Build
+### JavaScript
 
 ```
+npm install
+```
+
+## Build
+
+### Python
+
+```
+source src/env/bin/activate
 python src/build.py
+```
+
+### JavaScript
+
+```
+npx babel --watch src/react --out-dir . --presets react-app/prod
 ```
