@@ -1,0 +1,16 @@
+{
+  "name": "seeking-shelter",
+  "version": "1.0.0",
+  "description": "**A project that focuses on shelters and services aimed at women that are victims of abuse. It aims to map shelters across South Africa and to combine this with a mapping of other support services.**",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebridge-za/seeking-shelter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}

@@ -69,6 +69,12 @@ def write_near_page():
     template.stream(page='near', places=rows).dump('near.html')
     print('near.html written')
 
+def write_api_page():
+    env = Environment(loader=FileSystemLoader('src/templates'))
+    template = env.get_template('api.html');
+    template.stream(page='api').dump('api.html')
+    print('api.html written')
+
 def main():
     basic_map = plot_interactive_geomap.main(police, medical, legal, shelters, province, crime_data, raw_maps_path, 'basic')
     write_map_page('index', basic_map)
@@ -76,6 +82,7 @@ def main():
     write_map_page('advanced', advanced_map)
     write_about_page()
     write_near_page()
+    write_api_page()
 
 if __name__ == '__main__':
     main()
