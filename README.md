@@ -25,3 +25,4 @@ Go to: (https://codebridge-za.github.io/seeking-shelter/)
 - Alex Steinberg (https://github.com/alex-steinberg)
 - Francois Buys (https://github.com/buys-fran)
 - Alicia de Wet
+- Shailen Naidoo (https://github.com/ShailenNaidoo)
