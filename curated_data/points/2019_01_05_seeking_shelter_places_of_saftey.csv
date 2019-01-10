@@ -1,0 +1,129 @@
+Province,Type,Subregion,Name,Tel,Latitude,Longitude,Capacity,open,comment,,,Management,Contact Person
+Eastern Cape,Shelter,Alfred Nzo  Bizana  Ndabankulu,Ubuntu Neighbours Group,079 693 2105/043 605 5171,,,2,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Alfred Nzo  Umzimvubu  MT Frere,Mtshazi Safe Home,079 693 2105/043 605 5171,,,3,yes,,,,NPO  ,Nozodwa Kobese
+Eastern Cape,Shelter,Amathole,Khanyisa Community Based,079 693 2105/043 605 5171,,,10,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Amathole  Amahlathi  Stutterheim,Ikhwezi Women Support Centre,079 693 2105/043 605 5171,,,10,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Amathole  Buffalo City  East London,Victory House,079 693 2105/043 605 5171,,,10,yes,previously Living Waters  now CMR run,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Amathole  Buffalo City  East London,Masimanyane Women's Support Centre,079 693 2105/043 605 5171,,,15,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Amathole  Mnquma  Butterworth,Butterworth Safe Home,079 693 2105/043 605 5171,,,5,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Cacadu  Koukama  Humansdorp,Joubertina Safe House,079 693 2105/043 605 5171,,,6,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Cacadu  Koukama  Humansdorp,On Eagles Wings Centre,079 693 2105/043 605 5171,,,5,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Cacadu  Makana  Grahamstown,Makan Rape Survivor Support,079 693 2105/043 605 5171,,,4,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Chris Hani ,Masikhawulelane Victim Empowerment,079 693 2105/043 605 5171,,,5,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Chris Hani  Emalahleni  Lady Frere,Khuseleka Support Centre,079 693 2105/043 605 5171,,,3,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Chris Hani  Instika Yethu  Confimvaba,Bolotwa Domestic Violence,079 693 2105/043 605 5171,,,3,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Chris Hani  Lukhanji  Ezibeleni,Ezibeleni One Stop Centre,079 693 2105/043 605 5171,,,20,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Joe Gqabi  Aliwal North,Burgersdorp Safe Home,079 693 2105/043 605 5171,,,4,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Joe Gqabi  Maletswai  Aliwal North,Maletswai One Stop Centre,079 693 2105/043 605 5171,,,6,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Mqanduli ,Safe Home,079 693 2105/043 605 5171,,,5,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,Nelson Mandela  NMM  Port Elizabeth,Kwanobuhle Outreach Centre,079 693 2105/043 605 5171,,,22,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,O R Tambo  King Sabatha Dali,Mtatha One Stop Centre,079 693 2105/043 605 5171,,,3,yes,,,,NPO,Nozodwa Kobese
+Eastern Cape,Shelter,O R Tambo  Nyandeni  Libode / Ngqeleni,Soul Winners Support Centre,079 693 2105/043 605 5171,,,4,yes,,,,NPO,Nozodwa Kobese
+Free State,Shelter,Fezile Dabi ,Tumahole ,071 857 4086/051 409 0566/051 409 0562,,,10,yes,,,,NPO ,Ms Prudence Ramolefe
+Free State,Shelter,Lejweleputswa ,Goldfields Family Advice Organization,071 857 4086/051 409 0566/051 409 0562,,,16,yes,,,,NPO ,Ms Prudence Ramolefe
+Free State,Shelter,Motheo ,Serobe (The Nest shelter),071 857 4086/051 409 0566/051 409 0562,,,16,yes,,,,NPO ,Ms Prudence Ramolefe
+Free State,Shelter,Thabo Mofutsanyane ,Thusanang Advice Centre,071 857 4086/051 409 0566/051 409 0562,,,8,yes,,,,NPO ,Ms Prudence Ramolefe
+Free State,Shelter,Thabo Mofutsanyane ,Child and Family Welfare,071 857 4086/051 409 0566/051 409 0562,,,6,yes,,,,,Ms Prudence Ramolefe
+Free State,Shelter,Xhariep ,Bolokanang ,071 857 4086/051 409 0566/051 409 0562,,,11,yes,,,,NPO ,Ms Prudence Ramolefe
+Free State,Shelter,Xhariep ,Philani ,071 857 4086/051 409 0566/051 409 0562,,,7,yes,,,,NPO ,Ms Prudence Ramolefe
+Free State,Shelter,Xhariep ,Tshireletso ,071 857 4086/051 409 0566/051 409 0562,,,12,yes,,,,NPO ,Ms Prudence Ramolefe
+Free State,Shelter,Xhariep ,Siville ,071 857 4086/051 409 0566/051 409 0562,,,6,yes,,,,NPO ,Ms Prudence Ramolefe
+Gauteng,Shelter,Alberton,Amcare ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,20,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Alexandra ,Bombani ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,20,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Bekkersdal ,Are Ageng ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,16,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Benoni,Bethesda ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,10,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Boksburg ,Mercy Haven ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,16,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Braamfontein ,Ikhaya Le Themba Life Line,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,140,yes,,,,State,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Bronkhorstspruit ,Mali Martin ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,14,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Capital Park  Pretoria ,Mercy House ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,18,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Daveyton ,Theodorah Ndaba Shield of Love,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,6,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Ekurhuleni ,People opposing Women Abuse,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,10,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Eldorado Park ,Eldorado Park Women Forum,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,12,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Johannesburg,Usindiso Ministries ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,30,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Krugersdorp ,Polokego shelter ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,70,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Lenasia,NISAA Institute ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,22,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Pretoria ,Beth Shan Salvation Army,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,21,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Pretoria ,Potters House ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,16,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Pretoria ,PAHA ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,10,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Randfontein ,Riet Family Guidance Institute,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,70,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Randfontein ,SAVF ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,34,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Springs ,Leratong Place of Love,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,21,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Toekomsrus ,WAWA ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,40,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+Gauteng,Shelter,Vanderbylpark ,Bella Maria ,079 891 5893/082 469 0592/011 355 7862/011 355 7854,,,11,yes,,,,NPO ,Ms Estelle Otto/ Ms Myrtle Morris
+KwaZulu Natal,Shelter,Ashburton ,Abrina Esther House,086 607 5703/033 264 2000,,,35,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Chatsworth ,VJ Kara Family Center ,086 607 5703/033 264 2000,,,19,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Dundee ,Dundee Crisis Centre ,086 607 5703/033 264 2000,,,25,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Durban ,KERR House ,086 607 5703/033 264 2000,,,15,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Durban ,Kenilworth Respite Centre,086 607 5703/033 264 2000,,,10,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Hillcrest ,Ekuzameni Crisis Centre ,086 607 5703/033 264 2000,,,7,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Ifafa Beach ,Sinethemba ,086 607 5703/033 264 2000,,,0,no,closed,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Izingolweni ,Izingolweni Crisis Centre,086 607 5703/033 264 2000,,,25,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Kwandengezi ,Ethembeni Crisis Centre ,086 607 5703/033 264 2000,,,8,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Ladysmith ,Ladysmith Crisis Centre ,086 607 5703/033 264 2000,,,25,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Mandeni ,House of Hope ,086 607 5703/033 264 2000,,,15,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Newcastle,Newcastle Crisis Centre,086 607 5703/033 264 2000,,,12,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Phoenix ,SAHARA ,086 607 5703/033 264 2000,,,12,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Pietermaritzburg ,The Haven ,086 607 5703/033 264 2000,,,20,yes,,,,NPO ,Ms Renitha Veerasamy
+KwaZulu Natal,Shelter,Pinetown ,Open Door,086 607 5703/033 264 2000,,,14,yes,,,,NPO ,Ms Renitha Veerasamy
+Limpopo,Shelter,Elim (waterval) ,Tifuxeni Community Counseling Centre,084 487 7435/015 293 6141,,,0,no,,,,NPO ,Mr. Johannes Mphasha
+Limpopo,Shelter,Lulekani ,Leka Gape Organization ,084 487 7435/015 293 6141,,,0,no,,,,NPO ,Mr. Johannes Mphasha
+Limpopo,Shelter,Modimolle ,Savf-vep Modimolle ,084 487 7435/015 293 6141,,,0,no,,,,NPO ,Mr. Johannes Mphasha
+Limpopo,Shelter,Phalaborwa ,South Africa Vrou Federasie,084 487 7435/015 293 6141,,,10,yes,,,,NPO ,Mr. Johannes Mphasha
+Limpopo,Shelter,Polokwane ,Child Welfare shelter for Women and Children,084 487 7435/015 293 6141,,,0,no,children only,,,NPO ,Mr. Johannes Mphasha
+Limpopo,Shelter,Polokwane ,Polokwane Khuseleka One Stop Center,084 487 7435/015 293 6141,,,35,yes,,,,State ,Mr. Johannes Mphasha
+Limpopo,Shelter,Polokwane ,Ekuphumleni Restoration Home ThyREST,084 487 7435/015 293 6141,,,0,no,,,,NPO ,Mr. Johannes Mphasha
+Limpopo,Shelter,Thohoyandou ,Far North Network on Family Violence,084 487 7435/015 293 6141,,,0,no,,,,NPO ,Mr. Johannes Mphasha
+Limpopo,Shelter,Thohoyandou ,Thohoyandou Victim Empowerment,084 487 7435/015 293 6141,,,0,no,,,,NPO ,Mr. Johannes Mphasha
+Mpumalanga,Shelter,Badplaas in Gert Sibande district,Badplaas shelter,083 230 7569/013 766 3106,,,8,yes,,,,NPO ,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Breyten Gert Sibande District,Hands Off Women and Children,083 230 7569/013 766 3106,,,15,yes,,,,NPO ,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Bushbuckridge Ehlanzeni District,Calcutta,083 230 7569/013 766 3106,,,10,yes,,,,NPO ,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Ehlanzeni District,Vuwiselo Shelter,083 230 7569/013 766 3106,,,10,yes,,,,NPO ,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Kwa-Mhlanga Nkangala District,Leseding shelter,083 230 7569/013 766 3106,,,12,yes,,,,State,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Louisville in Ehlanzeni district,Louisville shelter,083 230 7569/013 766 3106,,,40,yes,,,,State,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Mammethlake in Nkangala district,Tirisano shelter ,083 230 7569/013 766 3106,,,6,yes,,,,NPO ,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Middelburg in Nkangala district,Middelburg shelter,083 230 7569/013 766 3106,,,0,no,,,,NPO ,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Nelspruit town in Ehlanzeni district,Grip shelter ,083 230 7569/013 766 3106,,,20,yes,,,,NPO ,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Thekwane north in Ehlanzeni district,Grace shelter ,083 230 7569/013 766 3106,,,8,yes,,,,NPO ,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Thulamahashe in Ehlanzeni district,Mhala,083 230 7569/013 766 3106,,,17,yes,,,,NPO ,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Tonga Ehlanzeni District,Masisukumeni Shelter,083 230 7569/013 766 3106,,,,yes,waiting on bed numbers,,,NPO ,Ms. Rennie Mothilal
+Mpumalanga,Shelter,Witbank Nkangala District,Foundation for Victims of Crime,083 230 7569/013 766 3106,,,8,yes,,,,NPO ,Ms. Rennie Mothilal
+North West,Shelter,Klerksdorp in Dr Kenneth Kaunda District,Klerksdorp in Dr Kenneth Kaunda District,082 850 9017/018 384 1638,,,6,yes,,,,NPO ,Ms Dineo Komane
+North West,Shelter,Madibeng in Bojanala District,Madibeng in Bojanala District,082 850 9017/018 384 1638,,,4,yes,,,,NPO ,Ms Dineo Komane
+North West,Shelter,Madikwe in Bojanala district,Madikwe in Bojanala district,082 850 9017/018 384 1638,,,4,yes,,,,NPO ,Ms Dineo Komane
+North West,Shelter,Mafikeng town in Ngaka Modiri Molema District,Mafikeng town in Ngaka Modiri Molema District,082 850 9017/018 384 1638,,,15,yes,,,,State ,Ms Dineo Komane
+North West,Shelter,Mogwase in Bojanala District,Mogwase in Bojanala District,082 850 9017/018 384 1638,,,10,yes,,,,State ,Ms Dineo Komane
+North West,Shelter,Mooinooi in Bojanala District,Mooinooi in Bojanala District,082 850 9017/018 384 1638,,,37,yes,,,,NPO ,Ms Dineo Komane
+North West,Shelter,Moretele in Bojanala District,Moretele in Bojanala District,082 850 9017/018 384 1638,,,4,yes,,,,NPO ,Ms Dineo Komane
+North West,Shelter,Naledi/ Vryburg Dr Ruth Segomotsi Mompati District,Naledi/ Vryburg Dr Ruth Segomotsi Mompati District,082 850 9017/018 384 1638,,,24,yes,,,,State ,Ms Dineo Komane
+North West,Shelter,Schweitzer –Renneke in Dr Ruth Segomotsi Mompati district,Schweitzer –Renneke in Dr Ruth Segomotsi Mompati district,082 850 9017/018 384 1638,,,10,yes,,,,NPO ,Ms Dineo Komane
+North West,Shelter,Stella in Dr Ruth Segomotsi Mompati District,Stella in Dr Ruth Segomotsi Mompati District,082 850 9017/018 384 1638,,,,yes,,,,State ,Ms Dineo Komane
+North West,Shelter,Ventersdorp in Dr Kenneth Kaunda District,Ventersdorp in Dr Kenneth Kaunda District,082 850 9017/018 384 1638,,,4,yes,,,,NPO ,Ms Dineo Komane
+Northern Cape,Shelter,De Aar-Prixley ka Seme District,Ethembeni Centre,079 527 5951/053 874 9263,,,13,yes,,,,NPO,Ms. Portia Qondani
+Northern Cape,Shelter,Kimberley,Kimberley Shelter,079 527 5951/053 874 9263,,,,yes,,,,State ,Ms. Portia Qondani
+Northern Cape,Shelter,Kimberley  Frances Baard District,Tamar,079 527 5951/053 874 9263,,,11,yes,under renovations,,,NPO,Ms. Portia Qondani
+Northern Cape,Shelter,Kuruman,Bankhara safe house (white door),079 527 5951/053 874 9263,,,3,yes,white door,,,State ,Ms. Portia Qondani
+Northern Cape,Shelter,Upington  Siyanda District,Bopanang One Stop Centre,079 527 5951/053 874 9263,,,5,yes,,,,State ,Ms. Portia Qondani
+Northern Cape,Shelter,Z F Mgcawu District,Princess Poffadder,079 527 5951/053 874 9263,,,5,yes,,,,State ,Ms. Portia Qondani
+Western Cape,Shelter,Athlone Metro South ,Care Haven Centre,082 560 840/021 483 4405,,,50,yes,,,,NPO ,Ms Mitchell Palmer
+Western Cape,Shelter,Athlone Metro South ,Saartjie Baartman Centre for Women and Children,082 560 840/021 483 4405,,,100,yes,,,,NPO ,Ms Mitchell Palmer
+Western Cape,Shelter,Atlantis,United Sanctuary ,082 560 840/021 483 4405,,,20,yes,,,,NPO ,Ms Mitchell Palmer
+Western Cape,Shelter,Cape Town ,St Annes Homes ,082 560 840/021 483 4405,,,26,yes,,,,NPO ,Ms Mitchell Palmer
+Western Cape,Shelter,Claremont,Mater Domini Home ,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,Fish Hoek,The Safehouse,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,George ,Creative Effective Families shelter for Victims of Violence,082 560 840/021 483 4405,,,33,yes,,,,NPO ,Ms Mitchell Palmer
+Western Cape,Shelter,George ,Rosemoore Refuge for Battered Women Phambili,082 560 840/021 483 4405,,,25,yes,,,,NPO ,Ms Mitchell Palmer
+Western Cape,Shelter,George ,BWP Oteniqua Refuse for Women & Children ,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,Guguletu,Dorothy Zihlangu Transitional Home,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,Joe Gqabi ,Malitswai One Stop Centre ,082 560 840/021 483 4405,,,6,yes,,,,NPO ,Ms Mitchell Palmer
+Western Cape,Shelter,Khayelitsha ,Nonceba Shelter ,082 560 840/021 483 4405,,,10,yes,,,,NPO,Ms Mitchell Palmer
+Western Cape,Shelter,Lansdowne Athlone Metro South ,Place of Hope ,082 560 840/021 483 4405,,,0,no,,,,NPO ,Ms Mitchell Palmer
+Western Cape,Shelter,Mossel Bay,Creating Effective Families ,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,Paarl ,L’Abri De Dieu Safe House ,082 560 840/021 483 4405,,,10,yes,,,,NPO ,Ms Mitchell Palmer
+Western Cape,Shelter,Paarl – Wineland Overberg ,Athlone House ,082 560 840/021 483 4405,,,30,yes,,,,NPO ,Ms Mitchell Palmer
+Western Cape,Shelter,Parow,St Mary's Home of Hope,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,Philipi,Sizakuenza ,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,Ravensmead,Dusk to Dawn ,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,Vredenberg,Siyabonga Shelter,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,Welcome Estate,Ilhata,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,Worcester,House of Hope,082 560 840/021 483 4405,,,,yes,,,,,Ms Mitchell Palmer
+Western Cape,Shelter,Wynberg ,Sisters Incorporated ,082 560 840/021 483 4405,,,28,yes,,,,NPO ,Ms Mitchell Palmer
