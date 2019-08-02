@@ -1,14 +1,14 @@
 Province,Type,Name,Tel,Longitude,Latitude
-Eastern Cape,District Hospital,Aberdeen Hospital,049 8460 497/630,24.054372,-32.473958
-Eastern Cape,Satellite Clinic,Addo Clinic,042 233 0358,25.68993,-33.546594
+Eastern Cape,District Hospital,Aberdeen Hospital,0498460497/0498460630,24.054372,-32.473958
+Eastern Cape,Satellite Clinic,Addo Clinic,422330358,25.68993,-33.546594
 Eastern Cape,Clinic,Adelaide Gateway Clinic,046-6840066,26.29404,-32.69994
 Eastern Cape,District Hospital,Adelaide Hospital,046-6840066,26.29427,-32.70092
-Eastern Cape,Clinic,Aeroville Clinic,042 243 3446,25.601076,-32.750808
+Eastern Cape,Clinic,Aeroville Clinic,422433446,25.601076,-32.750808
 Eastern Cape,Clinic,Afsondering Clinic,084-6806543,28.948674,-30.179141
 Eastern Cape,Clinic,Agnes Rest Clinic,071-8543796,27.031056,-31.697272
-Eastern Cape,Clinic,Alexandria Clinic,046 653 0333,26.413786,-33.651166
+Eastern Cape,Clinic,Alexandria Clinic,466530333,26.413786,-33.651166
 Eastern Cape,Clinic,Algoa Frail Care Centre,041-3728013,25.48888,-33.87848
-Eastern Cape,Clinic,Algoa Park Clinic,041 452 2058,25.56466,-33.900956
+Eastern Cape,Clinic,Algoa Park Clinic,414522058,25.56466,-33.900956
 Eastern Cape,Clinic,Aliwal North Block H Clinic,051-6341074,26.680411,-30.691622
 Eastern Cape,District Hospital,Aliwal North Hospital,0516342381/2/3,26.70719,-30.697167
 Eastern Cape,Clinic,All Saints Gateway Clinic,083-3780595,28.046663,-28.04807
@@ -20,14 +20,14 @@ Eastern Cape,Clinic,Amahleke Clinic,040-6562481,27.230218,-32.834766
 Eastern Cape,Clinic,Amandengane Clinic,071-8543793,29.750606,-31.099178
 Eastern Cape,Clinic,Amantshangase Clinic,083-3780694,29.587928,-30.839589
 Eastern Cape,Clinic,Amathole Basin Clinic,083-3781193,26.99311,-32.69596
-Eastern Cape,District Hospital,Andries Vosloo Hospital,042 243 1311,25.591224,-32.731182
+Eastern Cape,District Hospital,Andries Vosloo Hospital,422431311,25.591224,-32.731182
 Eastern Cape,Satellite Clinic,Andrieskraal Satellite Clinic,082-8295348,24.640381,-33.746529
-Eastern Cape,Clinic,Anglo African Street Clinic,046 622 3430,26.525867,-33.311444
+Eastern Cape,Clinic,Anglo African Street Clinic,466223430,26.525867,-33.311444
 Eastern Cape,Clinic,Askeaton Clinic,083-3031668,27.460434,-31.625093
 Eastern Cape,Clinic,Aspiranza Clinic,043-7332191,27.849545,-33.019228
-Eastern Cape,Clinic,Assina Mandla Clinic,040 653 6855,26.7941,-32.75045
+Eastern Cape,Clinic,Assina Mandla Clinic,406536855,26.7941,-32.75045
 Eastern Cape,Clinic,Bacclesfarm Clinic,040-8451232,26.461371,-32.040569
-Eastern Cape,Clinic,Badi Clinic,083 3780 548,28.662158,-32.287058
+Eastern Cape,Clinic,Badi Clinic,833780548,28.662158,-32.287058
 Eastern Cape,Clinic,Bala Clinic,071-8595987,29.53658,-30.99031
 Eastern Cape,Clinic,Baleni Clinic,083-3781136,29.971658,-31.159225
 Eastern Cape,Clinic,Balfour Clinic,073-4131543,26.68213,-32.54578
@@ -35,10 +35,10 @@ Eastern Cape,District Hospital,Bambisana Hospital,039-2537923,29.454045,-31.4511
 Eastern Cape,Clinic,Bambisana PHC Clinic,039-9257923,29.45341,-31.45022
 Eastern Cape,Clinic,Banzi Clinic,083-3781171,27.520087,-32.126371
 Eastern Cape,Clinic,Baroda Clinic,048-8813419,25.51043,-32.00237
-Eastern Cape,Clinic,Baviaans Clinic,049 835 0047,24.343214,-33.33402
+Eastern Cape,Clinic,Baviaans Clinic,498350047,24.343214,-33.33402
 Eastern Cape,CHC,Baziya CHC,047-5486087,28.385099,-31.614431
-Eastern Cape,Clinic,Beacon Bay Clinic,0437059636 / 9637,27.938766,-32.968498
-Eastern Cape,Clinic,Beatrice Ngwentle Clinic,042 243 3447,25.596479,-32.726067
+Eastern Cape,Clinic,Beacon Bay Clinic,0437059636/0437059637,27.938766,-32.968498
+Eastern Cape,Clinic,Beatrice Ngwentle Clinic,422433447,25.596479,-32.726067
 Eastern Cape,Clinic,Bedford Clinic,046-6850076,26.0883,-32.68292
 Eastern Cape,District Hospital,Bedford Hospital,046-6850043,26.09012,-32.67534
 Eastern Cape,Specialised Orthopaedic Hospital,Bedford Orthopaedic Hospital (Mthatha),047-5324489,28.706814,-31.577228
@@ -48,39 +48,39 @@ Eastern Cape,Clinic,Bensonvale Clinic,083-3780667,27.356668,-30.582562
 Eastern Cape,Clinic,Bergsig Clinic,084-4642519,25.450146,-33.387515
 Eastern Cape,Clinic,Berlin Clinic,043-6852359,27.57776,-32.88395
 Eastern Cape,Clinic,Bethania Clinic,072-2449342,28.295921,-30.659827
-Eastern Cape,Clinic,Bezuidenhoutville Clinic,046 684 0034,26.29813,-32.68805
+Eastern Cape,Clinic,Bezuidenhoutville Clinic,466840034,26.29813,-32.68805
 Eastern Cape,Clinic,Bhele Clinic,040-6739967,27.182662,-33.20301
 Eastern Cape,Clinic,Bhisho Gateway Clinic,040-6350379,27.456626,-32.82697
 Eastern Cape,District Hospital,Bhisho Hospital,040-6352958,27.45516,-32.82774
 Eastern Cape,Specialised Clinic,Bhisho Parliament Clinic,040-6080176,27.427524,-32.863183
-Eastern Cape,Clinic,Bhongweni Clinic,042 247 1156,25.798455,-32.74653
-Eastern Cape,Clinic,Bilatye Clinic,073 199 3529,27.365533,-31.946554
+Eastern Cape,Clinic,Bhongweni Clinic,422471156,25.798455,-32.74653
+Eastern Cape,Clinic,Bilatye Clinic,731993529,27.365533,-31.946554
 Eastern Cape,Clinic,Bityi Clinic,071-8543807,28.52346,-31.79406
-Eastern Cape,District Hospital,BJ Vorster (Kareedouw) Hospital,042 288 0714,24.296093,-33.951165
+Eastern Cape,District Hospital,BJ Vorster (Kareedouw) Hospital,422880714,24.296093,-33.951165
 Eastern Cape,Clinic,Bluegums Clinic,083-3781186,27.232095,-30.547432
 Eastern Cape,Clinic,Bodweni Clinic,083-3781180,29.551313,-31.184761
 Eastern Cape,Clinic,Bokleni Clinic,083-3780604,28.194118,-31.595891
 Eastern Cape,Clinic,Bolotwa Clinic (Confimvaba),071-1859883,27.198906,-31.986428
-Eastern Cape,Clinic,Bolotwa Clinic (Idutywa),083 303 1669,28.292898,-31.91607
-Eastern Cape,Clinic,Bomvana Clinic,071 8543 838,28.812726,-32.106372
+Eastern Cape,Clinic,Bolotwa Clinic (Idutywa),833031669,28.292898,-31.91607
+Eastern Cape,Clinic,Bomvana Clinic,718543838,28.812726,-32.106372
 Eastern Cape,Clinic,Bomvini Clinic,082-7925772,29.472287,-31.401671
 Eastern Cape,Clinic,Boomplaas Clinic,083-9568647,27.185436,-31.498463
-Eastern Cape,Clinic,Booysens Park Clinic,041 506 2700,25.459131,-33.862104
+Eastern Cape,Clinic,Booysens Park Clinic,415062700,25.459131,-33.862104
 Eastern Cape,Clinic,Braelyn Clinic,043-7411321,27.879621,-33.000183
 Eastern Cape,Clinic,Braelyn Extension Clinic,043-7412080,27.860727,-33.003994
 Eastern Cape,Clinic,Breidbach Clinic,043-6441051,27.446562,-32.88561
-Eastern Cape,Clinic,Brug Straat Clinic (Jansenville),049 8360234,24.666844,-32.947678
+Eastern Cape,Clinic,Brug Straat Clinic (Jansenville),498360234,24.666844,-32.947678
 Eastern Cape,Clinic,Buchele Clinic,071-8543819,29.621311,-31.495867
 Eastern Cape,Clinic,Bulembu Clinic,040-6597004,27.266548,-32.872872
 Eastern Cape,Clinic,Buntingville Clinic,083-3780613,28.870371,-31.636098
 Eastern Cape,Clinic,Burgersdorp Clinic,051-6531777,26.331863,-30.99439
-Eastern Cape,District Hospital,Burgersdorp Hospital,0516531881/2/3,26.31416,-30.992951
+Eastern Cape,District Hospital,Burgersdorp Hospital,0516531881/0516531882/0516531883,26.31416,-30.992951
 Eastern Cape,Clinic,Burnshill Clinic,040-6578303,27.055024,-32.768647
-Eastern Cape,Clinic,Butterworth Gateway Clinic,047 4914161 EXT182,28.139457,-32.33287
+Eastern Cape,Clinic,Butterworth Gateway Clinic,474914161,28.139457,-32.33287
 Eastern Cape,District Hospital,Butterworth Hospital,047-4914161,28.137971,-32.331642
 Eastern Cape,Clinic,Caba Clinic,083-3031489/083-9926308,28.613033,-31.083777
 Eastern Cape,Clinic,Caguba Clinic,083-4210260,29.469001,-31.638268
-Eastern Cape,District Hospital,Cala Hospital,047 877 0129,27.678997,-31.523473
+Eastern Cape,District Hospital,Cala Hospital,478770129,27.678997,-31.523473
 Eastern Cape,Clinic,Cambridge Clinic,043-7260142,27.889687,-32.978086
 Eastern Cape,Clinic,Cancele Clinic,083-3031627,28.78742,-30.848116
 Eastern Cape,Clinic,Canzibe Gateway Clinic,047-5688292,29.065801,-31.809503
@@ -90,21 +90,21 @@ Eastern Cape,Clinic,Cathcart Clinic,073-3966043,27.14426,-32.29816
 Eastern Cape,District Hospital,Cathcart Hospital,045-8431002,27.13691,-32.29026
 Eastern Cape,Clinic,CC Lloyd Clinic,046-6457418,26.63361,-32.77502
 Eastern Cape,Regional Hospital,Cecilia Makiwane Hospital,043-7082135,27.74422,-32.92785
-Eastern Cape,CHC,Central CHC (Sandford),041 373 0014,25.601723,-33.958027
+Eastern Cape,CHC,Central CHC (Sandford),413730014,25.601723,-33.958027
 Eastern Cape,Clinic,Central Clinic (East London),043-7435465,27.906105,-33.016927
-Eastern Cape,Clinic,Central Clinic (Port Elizabeth),041 506 2847,25.612789,-33.964585
-Eastern Cape,Clinic,Chatty Clinic,041 506 3070,25.495512,-33.873729
+Eastern Cape,Clinic,Central Clinic (Port Elizabeth),415062847,25.612789,-33.964585
+Eastern Cape,Clinic,Chatty Clinic,415063070,25.495512,-33.873729
 Eastern Cape,Clinic,Chris Hani Clinic,043-7485871,27.924749,-32.954635
 Eastern Cape,Clinic,Cimezile Clinic,040-8610401,26.636344,-32.262829
 Eastern Cape,Clinic,Civic Centre Clinic (Mthatha),047-5014038,28.78992,-31.58265
 Eastern Cape,Clinic,Clarkebury Clinic,083-3780557,28.286925,-31.790883
-Eastern Cape,Clinic,Clarkson Clinic,042 282 20028,24.348788,-34.010403
+Eastern Cape,Clinic,Clarkson Clinic,4228220028,24.348788,-34.010403
 Eastern Cape,District Hospital,Cloete Joubert (Barkly East) Hospital,045-9710091,27.586734,-30.967559
-Eastern Cape,District Hospital,Cofimvaba Hospital,047 874 800,27.581767,-32.011347
+Eastern Cape,District Hospital,Cofimvaba Hospital,47874800,27.581767,-32.011347
 Eastern Cape,Satellite Clinic,Coldstream Satellite Clinic,073-2256942,23.700766,-33.961849
 Eastern Cape,Satellite Clinic,Collondale Satellite Clinic,043-7366178,27.818606,-33.03977
 Eastern Cape,District Hospital,Cradock Hospital,048-8812123,25.622912,-32.167989
-Eastern Cape,Clinic,Cumakala 1 Clinic,043 681 0024,27.44754,-32.55717
+Eastern Cape,Clinic,Cumakala 1 Clinic,436810024,27.44754,-32.55717
 Eastern Cape,Clinic,Cumakala 2 Clinic,043-6810023,27.44868,-32.56293
 Eastern Cape,Clinic,Cuyler Youth Centre,082-7397717,25.392124,-33.765979
 Eastern Cape,Clinic,Cwecweni Clinic,083-3781184,28.054667,-31.936795
@@ -112,7 +112,7 @@ Eastern Cape,Clinic,Cwele Clinic,073-4275221,29.24055,-31.672414
 Eastern Cape,Clinic,Cwili Clinic,043-8411274,28.363489,-32.676982
 Eastern Cape,Clinic,Daliwe Clinic,045-8431024,27.151704,-32.301795
 Eastern Cape,Clinic,Daliwonga Clinic,039-9251311,29.904348,-31.103457
-Eastern Cape,Clinic,Debe Nek Clinic,040 657 0385,27.13793,-32.84583
+Eastern Cape,Clinic,Debe Nek Clinic,406570385,27.13793,-32.84583
 Eastern Cape,Clinic,Didimana Clinic,040-8451022,26.611464,-32.121421
 Eastern Cape,CHC,Dimbaza CHC,040-6562022,27.214074,-32.835462
 Eastern Cape,Clinic,Donnington Clinic,040-6361018,27.42576,-32.72367
@@ -123,11 +123,11 @@ Eastern Cape,Clinic,Double Falls Clinic,083-3781127,29.383525,-31.627443
 Eastern Cape,Clinic,Dr CL Bikitsha Clinic,082-4274423,28.105042,-32.278377
 Eastern Cape,District Hospital,Dr Malizo Mpehle Memorial Hospital,047-5426300,28.777753,-31.316606
 Eastern Cape,Clinic,Drake Road Clinic,043-7351608,27.929081,-32.985686
-Eastern Cape,Clinic,Du Preez Street Clinic,041 506 1970,25.463042,-33.803141
+Eastern Cape,Clinic,Du Preez Street Clinic,415061970,25.463042,-33.803141
 Eastern Cape,CHC,Duncan Village CHC,043-7424762,27.886691,-33.00773
 Eastern Cape,Clinic,Dundee Clinic,083-3031691,29.42436,-30.74694
 Eastern Cape,Clinic,Dungu Clinic,082-8651440,29.206274,-31.222931
-Eastern Cape,Clinic,Edamini Clinic,041 506 2080,25.385955,-33.832414
+Eastern Cape,Clinic,Edamini Clinic,415062080,25.385955,-33.832414
 Eastern Cape,Clinic,Efata Clinic,047-5360527,28.71823,-31.568563
 Eastern Cape,Clinic,Ekuphumleni Clinic,040-8410130,26.782093,-32.178409
 Eastern Cape,Specialised Psychiatric Hospital,Elizabeth Donkin Hospital,041-5852323,25.627584,-33.979422
@@ -150,37 +150,37 @@ Eastern Cape,Clinic,Ezingcuka Clinic,083-3780616,28.657982,-31.300924
 Eastern Cape,Clinic,Fezeka NU 3 Clinic,043-7611314,27.753004,-32.931768
 Eastern Cape,Clinic,Fish River Clinic,048-8813958,25.415886,-31.911817
 Eastern Cape,Clinic,Flagstaff Clinic,039-2520136,29.496124,-31.080063
-Eastern Cape,Clinic,Fort Beaufort Gateway Clinic,046 645 1111,26.6348,-32.7816
+Eastern Cape,Clinic,Fort Beaufort Gateway Clinic,466451111,26.6348,-32.7816
 Eastern Cape,District Hospital,Fort Beaufort Hospital,046-6451111,26.63483,-32.7817
-Eastern Cape,Specialised Psychiatric Hospital,Fort England Hospital,046 622 7003,26.543186,-33.315436
+Eastern Cape,Specialised Psychiatric Hospital,Fort England Hospital,466227003,26.543186,-33.315436
 Eastern Cape,Clinic,Fort Grey Clinic,076-1285655,27.8031,-33.036973
 Eastern Cape,Specialised Tb Hospital,Fort Grey TB Hospital,043-7369850,27.82122,-33.02207
-Eastern Cape,Clinic,Fort Malan Clinic,073 396 8238,28.523716,-32.150659
+Eastern Cape,Clinic,Fort Malan Clinic,733968238,28.523716,-32.150659
 Eastern Cape,Clinic,Frankfort Clinic,040-6360394,27.45267,-32.72026
 Eastern Cape,Satellite Clinic,Fransbury Satellite Clinic,073-8554151,27.07867,-31.964426
-Eastern Cape,Clinic,Frere Gateway Clinic,043 709 2146,27.891186,-32.996458
+Eastern Cape,Clinic,Frere Gateway Clinic,437092146,27.891186,-32.996458
 Eastern Cape,Regional Hospital,Frere Hospital,043-7092111,27.89156,-32.99599
 Eastern Cape,District Hospital,Frontier Hospital,045-8084200,26.871405,-31.889209
 Eastern Cape,Clinic,Gardens Clinic,045-8072704,26.874388,-31.893643
 Eastern Cape,Clinic,Gcaleka Clinic,083-3780561,28.319415,-32.338445
-Eastern Cape,Clinic,Gelvandale Clinic,041 506 2810,25.55013,-33.9163
-Eastern Cape,Clinic,Gilton Clinic,040 653 8905,26.94244,-32.66184
+Eastern Cape,Clinic,Gelvandale Clinic,415062810,25.55013,-33.9163
+Eastern Cape,Clinic,Gilton Clinic,406538905,26.94244,-32.66184
 Eastern Cape,Clinic,Ginsberg Clinic,043-6421280,27.385266,-32.892174
 Eastern Cape,District Hospital,Glen Grey Hospital,047-8782800,27.199579,-31.719037
 Eastern Cape,Clinic,Glenmore Clinic,040-6750188,26.858592,-33.142572
 Eastern Cape,Clinic,Gompo A Ndende Clinic,043-7052309,27.876342,-33.007219
 Eastern Cape,Clinic,Gompo B Jwayi Clinic,043-7334100,27.858008,-33.016742
 Eastern Cape,Clinic,Gompo C Jabavu Clinic,082-2640530,27.864001,-33.011861
-Eastern Cape,Clinic,Gonubie Clinic,043 705 9736,28.021826,-32.941637
+Eastern Cape,Clinic,Gonubie Clinic,437059736,28.021826,-32.941637
 Eastern Cape,Clinic,Goso Forest Clinic,039-2538998,29.622249,-31.38858
-Eastern Cape,Clinic,Govan Mbeki Clinic,041 506 1861,25.535381,-33.857166
+Eastern Cape,Clinic,Govan Mbeki Clinic,415061861,25.535381,-33.857166
 Eastern Cape,Clinic,Gqaga Clinic,083-3781188,28.213019,-31.544896
 Eastern Cape,Clinic,Gqaqhala Clinic,047-5428908,28.387733,-31.282466
-Eastern Cape,CHC,Gqebera CHC,041 506 1611,25.588864,-33.986143
+Eastern Cape,CHC,Gqebera CHC,415061611,25.588864,-33.986143
 Eastern Cape,Clinic,Gqogqora Clinic,073-2441851,27.887051,-31.98243
 Eastern Cape,Clinic,Gqunqe Clinic,083-2431086,28.562297,-32.468859
-Eastern Cape,CHC,Graaff-Reinet Day Hospital,049 893 0049/893 0051,24.555366,-32.275577
-Eastern Cape,Clinic,Gracey Clinic,042 246 1454,25.133514,-32.582041
+Eastern Cape,CHC,Graaff-Reinet Day Hospital,0498930049/8930051,24.555366,-32.275577
+Eastern Cape,Clinic,Gracey Clinic,422461454,25.133514,-32.582041
 Eastern Cape,Clinic,Grainvalley Clinic,083-3780560,28.048927,-32.237561
 Eastern Cape,Clinic,Greenfields Clinic,043-7366084,27.864482,-33.03499
 Eastern Cape,District Hospital,Greenville Hospital,039-2513009,30.108987,-30.930565
@@ -190,10 +190,10 @@ Eastern Cape,District Hospital,Grey Hospital,043-6433304,27.39579,-32.87932
 Eastern Cape,Clinic,Guba Clinic,083-3781189,27.30681,-31.51514
 Eastern Cape,Clinic,Gubenxa Clinic,083-3780591,27.820856,-31.717355
 Eastern Cape,Clinic,Gura Clinic,083-3580989,28.833393,-31.027071
-Eastern Cape,Clinic,Gustav Lamour Clinic,041 506 3060,25.46398,-33.815938
+Eastern Cape,Clinic,Gustav Lamour Clinic,415063060,25.46398,-33.815938
 Eastern Cape,Clinic,Gwabeni Clinic,040-6759917,26.961981,-33.09613
-Eastern Cape,Clinic,Gwadana Clinic,083 378 0546,28.290675,-32.214998
-Eastern Cape,Clinic,Gwadu Clinic,083 378 0545,28.66811,-32.220094
+Eastern Cape,Clinic,Gwadana Clinic,833780546,28.290675,-32.214998
+Eastern Cape,Clinic,Gwadu Clinic,833780545,28.66811,-32.220094
 Eastern Cape,Clinic,Gwatyu Clinic,083-3780650,27.321933,-32.006477
 Eastern Cape,Clinic,Gxulu Clinic,040-6589143,27.110173,-32.645222
 Eastern Cape,Clinic,Gxwederha Clinic,078-7206072,26.78648,-32.84161
@@ -202,12 +202,12 @@ Eastern Cape,Clinic,Hamburg Clinic,040-6781117,27.473226,-33.290568
 Eastern Cape,Clinic,Haytor Clinic,040-8428943,26.771021,-32.294688
 Eastern Cape,Clinic,Healdtown Clinic,046-6521020,26.70145,-32.73159
 Eastern Cape,Clinic,Hebe-Hebe Clinic,083-3780190,27.83032,-32.23609
-Eastern Cape,Clinic,Helenvale Clinic,041 506 3168,25.551799,-33.911279
+Eastern Cape,Clinic,Helenvale Clinic,415063168,25.551799,-33.911279
 Eastern Cape,Clinic,Herschel Clinic,083-3031711,27.16345,-30.61497
 Eastern Cape,District Hospital,Hewu Hospital,040-8410133,26.792752,-32.168393
 Eastern Cape,Clinic,High Street Clinic,048-8015072,25.616341,-32.167248
 Eastern Cape,Clinic,Highview Clinic,083-3780540,27.947188,-32.434991
-Eastern Cape,Clinic,Hillside Clinic (Nkonkobe),046 645 7446,26.63978,-32.75227
+Eastern Cape,Clinic,Hillside Clinic (Nkonkobe),466457446,26.63978,-32.75227
 Eastern Cape,Clinic,Hillside Clinic (Senqu),083-3781135,27.563748,-30.561099
 Eastern Cape,Clinic,Hilton Clinic,051-6341062,26.69755,-30.698823
 Eastern Cape,Clinic,Hlabatshane Clinic,047-5735351,28.856835,-31.745112
@@ -216,52 +216,52 @@ Eastern Cape,Clinic,Hlamandana Clinic,083-3781167/083-7513458,29.720654,-30.8176
 Eastern Cape,Clinic,Hlangalane Clinic,083-3780738,28.529668,-30.963845
 Eastern Cape,Clinic,Hlankomo Clinic,071-8543779,28.419166,-30.929601
 Eastern Cape,Clinic,Hlomendlini Clinic,071-8543803,27.263198,-30.5861
-Eastern Cape,Clinic,Hobeni Clinic,083 3033 912,28.878765,-32.184044
+Eastern Cape,Clinic,Hobeni Clinic,833033912,28.878765,-32.184044
 Eastern Cape,Clinic,Hofmeyer Clinic,048-8850078,25.804267,-31.655724
-Eastern Cape,District Hospital,Holy Cross Hospital,0392523000-1 / 0392522026-7,29.676084,-31.148278
+Eastern Cape,District Hospital,Holy Cross Hospital,0392523000/0392523001/0392522026/0392522027,29.676084,-31.148278
 Eastern Cape,Clinic,Holy Cross PHC Clinic,039-2537522,29.676084,-31.148278
-Eastern Cape,Clinic,Horseshoe Clinic,049 807 5700,24.534568,-32.248514
+Eastern Cape,Clinic,Horseshoe Clinic,498075700,24.534568,-32.248514
 Eastern Cape,Clinic,Horton Clinic,040-6739189,27.021561,-33.112276
 Eastern Cape,Clinic,Hukuwa Clinic,040-8419398,26.6598,-32.155198
-Eastern Cape,Clinic,Humansdorp Clinic,042 200 8319,24.775393,-34.035093
-Eastern Cape,District Hospital,Humansdorp Hospital,042 200 4201,24.780098,-34.029998
+Eastern Cape,Clinic,Humansdorp Clinic,422008319,24.775393,-34.035093
+Eastern Cape,District Hospital,Humansdorp Hospital,422004201,24.780098,-34.029998
 Eastern Cape,Clinic,Ibika Clinic,076-4409095,28.213494,-32.301684
-Eastern Cape,Clinic,Idutywa Nqabara Clinic,073 396 6194,28.454407,-32.101122
-Eastern Cape,CHC,Idutywa Village CHC,047 489 4000,28.3139,-32.107531
-Eastern Cape,Clinic,Ikamvelihle Clinic,041 506 1060/1132,25.613033,-33.793258
+Eastern Cape,Clinic,Idutywa Nqabara Clinic,733966194,28.454407,-32.101122
+Eastern Cape,CHC,Idutywa Village CHC,474894000,28.3139,-32.107531
+Eastern Cape,Clinic,Ikamvelihle Clinic,0415061060/0415061132,25.613033,-33.793258
 Eastern Cape,Clinic,Ilinge Clinic,047-8729053,27.040419,-31.977343
 Eastern Cape,Clinic,Ilita Clinic,040-6475006,27.534048,-32.889788
 Eastern Cape,Clinic,Imidange Clinic,040-6360222,27.486798,-32.779608
-Eastern Cape,Clinic,Imizamo Yetho Clinic,042 283 0546,24.796878,-33.742686
+Eastern Cape,Clinic,Imizamo Yetho Clinic,422830546,24.796878,-33.742686
 Eastern Cape,Clinic,Imizizi Clinic,039-2513044,29.969515,-30.904938
 Eastern Cape,District Hospital,Indwe Hospital,045-9521190,27.340628,-31.4676
 Eastern Cape,Clinic,Isikelo Clinic,071-8543837,29.767942,-30.786719
 Eastern Cape,Clinic,Isikhoba Clinic,083-3780552,27.610212,-32.983049
-Eastern Cape,Clinic,Isilimela Gateway Clinic,0475642805/6/11,29.359197,-31.733779
+Eastern Cape,Clinic,Isilimela Gateway Clinic,0475642805/0475642806/0475642811,29.359197,-31.733779
 Eastern Cape,District Hospital,Isilimela Hospital,047-5649608,29.359197,-31.733779
 Eastern Cape,Clinic,Isilindini Clinic,071-8595684,28.57801,-30.61905
-Eastern Cape,Clinic,Isolomzi Clinic,041 977 5298,25.375398,-33.825409
+Eastern Cape,Clinic,Isolomzi Clinic,419775298,25.375398,-33.825409
 Eastern Cape,Clinic,Jafta Clinic,083-3031921,27.310558,-32.798911
 Eastern Cape,Clinic,Jaji Clinic,040-6769013,27.119217,-33.345739
 Eastern Cape,Clinic,Jalamba Clinic,083-3031528,28.68011,-31.961948
 Eastern Cape,Clinic,Jama Clinic,040-6769011,27.093522,-33.377311
 Eastern Cape,Clinic,Jamestown Clinic,071-8543806,26.804023,-31.130482
 Eastern Cape,District Hospital,Jamestown Hospital,051-6410911,26.807276,-31.123632
-Eastern Cape,Clinic,Jingqi Clinic,083 3031 547,28.657679,-32.332831
-Eastern Cape,Clinic,Joe Slovo Clinic,041 506 1000,25.50272,-33.825072
+Eastern Cape,Clinic,Jingqi Clinic,833031547,28.657679,-32.332831
+Eastern Cape,Clinic,Joe Slovo Clinic,415061000,25.50272,-33.825072
 Eastern Cape,Clinic,John Dube Clinic,043-8495008,27.88565,-32.991561
-Eastern Cape,Specialised Tb Hospital,Jose Pearson TB Hospital,041 372 8000,25.468588,-33.891712
-Eastern Cape,CHC,Joubertina CHC,042 273 1531,23.865129,-33.82642
-Eastern Cape,Clinic,Joza Clinic,046 603 6026,26.560315,-33.291604
+Eastern Cape,Specialised Tb Hospital,Jose Pearson TB Hospital,413728000,25.468588,-33.891712
+Eastern Cape,CHC,Joubertina CHC,422731531,23.865129,-33.82642
+Eastern Cape,Clinic,Joza Clinic,466036026,26.560315,-33.291604
 Eastern Cape,Clinic,Kalankomo Clinic,083-3031562/083-6418260,28.70536,-30.9316
 Eastern Cape,Clinic,Kamastone Clinic,040-8451202,26.650088,-32.067226
 Eastern Cape,Clinic,Kambi Clinic,071-8543795,28.661469,-31.492821
 Eastern Cape,Clinic,Kanyayo (Bizana) Clinic,073-4021329/073-3363602,29.800673,-31.079268
-Eastern Cape,Clinic,Kareedouw Clinic,042 288 0544,24.305658,-33.951684
+Eastern Cape,Clinic,Kareedouw Clinic,422880544,24.305658,-33.951684
 Eastern Cape,Clinic,Kati-Kati Clinic,045-8431370,27.155862,-32.288389
 Eastern Cape,Clinic,Katkop Clinic,083-3781128,28.54957,-30.898011
 Eastern Cape,Clinic,KB Siswana Clinic,083-3780668,26.765965,-32.059339
-Eastern Cape,Clinic,Kenton-On-Sea Clinic,046 6481 531,26.66601,-33.676401
+Eastern Cape,Clinic,Kenton-On-Sea Clinic,466481531,26.66601,-33.676401
 Eastern Cape,Clinic,Keti Clinic,082-5918707,28.14104,-32.01328
 Eastern Cape,Clinic,Khanyayo (Holy Cross) Clinic,079-3914775,29.845441,-31.193877
 Eastern Cape,Clinic,Khayamnandi Clinic,048-8840034,25.811927,-31.281664
@@ -273,30 +273,30 @@ Eastern Cape,Clinic,Kolomana Clinic,071-8595807,26.78879,-32.42551
 Eastern Cape,Specialised Psychiatric Hospital,Komani Hospital,045-8588400,26.90732,-31.918073
 Eastern Cape,District Hospital,Komga Hospital,043-8311013,27.89576,-32.57606
 Eastern Cape,Clinic,Komga Rural Clinic,043-8311186,27.962895,-32.582127
-Eastern Cape,CHC,Korsten CHC,041 405 2684,25.56967,-33.925352
+Eastern Cape,CHC,Korsten CHC,414052684,25.56967,-33.925352
 Eastern Cape,Clinic,Kotana Clinic,083-3780739,28.14648,-32.14878
-Eastern Cape,Clinic,Kotyana Clinic,073 6080 159,28.999443,-32.043264
-Eastern Cape,Clinic,Krakeel Clinic,042 274 2056,23.7275,-33.814302
-Eastern Cape,Clinic,Kroonvale Clinic,049 807 5700,24.561326,-32.255736
-Eastern Cape,Clinic,Kruisfontein Clinic,042 295 2820,24.746691,-34.021866
+Eastern Cape,Clinic,Kotyana Clinic,736080159,28.999443,-32.043264
+Eastern Cape,Clinic,Krakeel Clinic,422742056,23.7275,-33.814302
+Eastern Cape,Clinic,Kroonvale Clinic,498075700,24.561326,-32.255736
+Eastern Cape,Clinic,Kruisfontein Clinic,422952820,24.746691,-34.021866
 Eastern Cape,Clinic,Kruisrivier Clinic,041-9925452,25.349225,-33.765623
 Eastern Cape,Clinic,Ku Bengu Clinic,071-5834324,27.61732,-32.14341
-Eastern Cape,Clinic,Kubusi Clinic,043 683 2271,27.41285,-32.59433
+Eastern Cape,Clinic,Kubusi Clinic,436832271,27.41285,-32.59433
 Eastern Cape,Clinic,Kungisizwe Clinic,074-4986082,28.604944,-30.828515
 Eastern Cape,CHC,Kuyasa CHC,083-3031492,27.58245,-32.00716
-Eastern Cape,Clinic,Kwa-Mkholoza Clinic,083 3780 544,28.594657,-32.320357
-Eastern Cape,Clinic,Kwa-Nonqubela Clinic,046 653 0326,26.420368,-33.656687
-Eastern Cape,Clinic,Kwa-Nonzwakazi Clinic,042 231 1019,26.090721,-33.317408
-Eastern Cape,Clinic,Kwadwesi Clinic,041 506 3176,25.51866,-33.848369
-Eastern Cape,Clinic,Kwamagxaki Clinic,041 463 2632,25.533908,-33.839579
+Eastern Cape,Clinic,Kwa-Mkholoza Clinic,833780544,28.594657,-32.320357
+Eastern Cape,Clinic,Kwa-Nonqubela Clinic,466530326,26.420368,-33.656687
+Eastern Cape,Clinic,Kwa-Nonzwakazi Clinic,422311019,26.090721,-33.317408
+Eastern Cape,Clinic,Kwadwesi Clinic,415063176,25.51866,-33.848369
+Eastern Cape,Clinic,Kwamagxaki Clinic,414632632,25.533908,-33.839579
 Eastern Cape,Clinic,Kwanonzame New Clinic,049-8421104,24.008493,-31.517377
 Eastern Cape,Clinic,Kwanonzame Old Clinic,049-8021352,25.003909,-31.508756
-Eastern Cape,CHC,Kwazakhele CHC,041 466 7109,25.585444,-33.87768
-Eastern Cape,Clinic,Kwazakhele Clinic,041 506 3092,25.591568,-33.883269
-Eastern Cape,Clinic,Kwazenzele Clinic,042 235 1082,25.710757,-33.522907
+Eastern Cape,CHC,Kwazakhele CHC,414667109,25.585444,-33.87768
+Eastern Cape,Clinic,Kwazakhele Clinic,415063092,25.591568,-33.883269
+Eastern Cape,Clinic,Kwazenzele Clinic,422351082,25.710757,-33.522907
 Eastern Cape,Clinic,Kwelera Clinic,043-7370233,27.962895,-32.823116
-Eastern Cape,District Hospital,Lady Grey Hospital,0516030093 / 0516030115,27.21163,-30.712482
-Eastern Cape,CHC,Laetitia Bam CHC,041 978 0711,25.550061,-33.916423
+Eastern Cape,District Hospital,Lady Grey Hospital,0516030093/0516030115,27.21163,-30.712482
+Eastern Cape,CHC,Laetitia Bam CHC,419780711,25.550061,-33.916423
 Eastern Cape,Clinic,Lahlangubo Clinic (Ngcobo),040-8419092,27.867814,-31.660669
 Eastern Cape,Clinic,Lahlangubo Clinic (Queenstown),040-8419092,26.665363,-32.187208
 Eastern Cape,Clinic,Langeni Clinic,083-3780558,28.484502,-31.481478
@@ -306,13 +306,13 @@ Eastern Cape,Clinic,Lesseyton Clinic,045-8393348,26.777496,-31.842416
 Eastern Cape,Clinic,Libode Clinic,047-5550267,29.024363,-31.540018
 Eastern Cape,Clinic,Likhetlane Clinic,078-0418930,28.527176,-30.356069
 Eastern Cape,Clinic,Lingelihle Clinic,048-8015072,25.6291,-32.180253
-Eastern Cape,Clinic,Linton Grange Clinic,041 506 3180,25.516064,-33.943404
-Eastern Cape,Tertiary Hospital,Livingstone Hospital,041 405 2100,25.56967,-33.925352
+Eastern Cape,Clinic,Linton Grange Clinic,415063180,25.516064,-33.943404
+Eastern Cape,Tertiary Hospital,Livingstone Hospital,414052100,25.56967,-33.925352
 Eastern Cape,Clinic,Lizo Ngcana Clinic,045-8547012,26.85484,-31.92061
-Eastern Cape,Clinic,Loerie Clinic,042 2370 697,25.019163,-33.87597
-Eastern Cape,Clinic,Lota Clinic,083 3780 543,28.335996,-31.863207
+Eastern Cape,Clinic,Loerie Clinic,422370697,25.019163,-33.87597
+Eastern Cape,Clinic,Lota Clinic,833780543,28.335996,-31.863207
 Eastern Cape,Clinic,Lotana Clinic,083-3781170,28.930174,-31.282835
-Eastern Cape,Clinic,Louterwater Clinic,042 272 1024,23.631313,-33.792884
+Eastern Cape,Clinic,Louterwater Clinic,422721024,23.631313,-33.792884
 Eastern Cape,Clinic,Lower Gungululu Clinic,082-9660579,28.821889,-31.463056
 Eastern Cape,Clinic,Lower Mncuncuzo Clinic,071-8595933,27.597924,-31.908552
 Eastern Cape,Clinic,Lower Regu Clinic,083-3780502,26.95249,-32.81815
@@ -324,10 +324,10 @@ Eastern Cape,Clinic,Lubisi Clinic,083-3780723,27.459879,-31.799026
 Eastern Cape,Clinic,Ludalasi Clinic,083-3781140,29.313878,-31.637786
 Eastern Cape,Clinic,Lugangeni Clinic,083-3031747,28.935054,-30.826852
 Eastern Cape,Clinic,Lujizweni Clinic,083-3781125,28.991354,-31.77005
-Eastern Cape,Clinic,Lukhanyiso Clinic,042 233 0011,25.711041,-33.522837
+Eastern Cape,Clinic,Lukhanyiso Clinic,422330011,25.711041,-33.522837
 Eastern Cape,Clinic,Lukhanyo Clinic,082-3508131,25.45617,-33.817418
 Eastern Cape,Clinic,Lulama Kama Clinic,046-6457433,26.65496,-32.7686
-Eastern Cape,Clinic,Lunga Kobese Clinic,041 506 3095,25.580512,-33.885237
+Eastern Cape,Clinic,Lunga Kobese Clinic,415063095,25.580512,-33.885237
 Eastern Cape,Clinic,Lusikisiki Village Clinic (Qaukeni),039-2531574,29.573178,-31.365064
 Eastern Cape,Clinic,Luthuli Clinic,082-5935541/083-3031762,27.738735,-31.120592
 Eastern Cape,Clinic,Lutshaya Clinic,082-3960065,29.36108,-31.322742
@@ -335,21 +335,21 @@ Eastern Cape,Clinic,Lutubeni Clinic,083-3031589,28.881764,-31.927063
 Eastern Cape,Clinic,Luyengweni Clinic,083-3031763,28.766053,-30.653885
 Eastern Cape,Clinic,Luyolo NU 9 Clinic,043-7623512,27.73391,-32.926063
 Eastern Cape,Clinic,Lwandile Clinic,071-8595966,29.213862,-31.867282
-Eastern Cape,Clinic,Mabandla Clinic,041 506 1950,25.369781,-33.806195
+Eastern Cape,Clinic,Mabandla Clinic,415061950,25.369781,-33.806195
 Eastern Cape,Clinic,Macacuma Satellite Clinic,071-8543832,27.352186,-30.457349
 Eastern Cape,Clinic,Machibini Clinic (Kwabhaca),060-5579727,28.726172,-30.72652
 Eastern Cape,Clinic,Machibini Clinic (Queenstown),083-5295915,27.024771,-31.920509
 Eastern Cape,Clinic,Machubeni Clinic,079-6180184/073-4399706,27.18929,-31.55987
 Eastern Cape,Clinic,Macibe Clinic,047-4981078,28.320286,-32.509413
 Eastern Cape,Clinic,Maclear Clinic,045-9321155,28.35162,-31.06886
-Eastern Cape,District Hospital,Maclear Hospital,0459321028 / 0459321219,28.347012,-31.075459
-Eastern Cape,Clinic,Madlangala Clinic,083 303 1820,28.3528,-30.1058
-Eastern Cape,District Hospital,Madwaleni Hospital,047 573 8901,28.88005,-32.0965
-Eastern Cape,District Hospital,Madzikane kaZulu Memorial Hospital,039 2550 333,29.002554,-30.881997
+Eastern Cape,District Hospital,Maclear Hospital,0459321028/0459321219,28.347012,-31.075459
+Eastern Cape,Clinic,Madlangala Clinic,833031820,28.3528,-30.1058
+Eastern Cape,District Hospital,Madwaleni Hospital,475738901,28.88005,-32.0965
+Eastern Cape,District Hospital,Madzikane kaZulu Memorial Hospital,392550333,29.002554,-30.881997
 Eastern Cape,Clinic,Magadla Clinic,083-3031764,28.681784,-30.338227
 Eastern Cape,Clinic,Magwa Clinic,083-3780688,29.671594,-31.4184
 Eastern Cape,Clinic,Magwala Clinic,071-8595914,27.549768,-32.006743
-Eastern Cape,Clinic,Mahasana Clinic,083 3644 150,28.727489,-32.33607
+Eastern Cape,Clinic,Mahasana Clinic,833644150,28.727489,-32.33607
 Eastern Cape,Clinic,Mahlubini Clinic,072-6113166,27.628132,-32.063537
 Eastern Cape,Clinic,Mahlungulu Clinic (KSD),083-3780496,28.49288,-31.57268
 Eastern Cape,Clinic,Mahlungulu Clinic (Mhlontlo),071-8595689,28.81672,-31.077384
@@ -360,7 +360,7 @@ Eastern Cape,Clinic,Malangeni Clinic,039-2538964,29.700685,-31.311207
 Eastern Cape,Clinic,Maletswai Clinic,051-6332321,26.692395,-30.692789
 Eastern Cape,Clinic,Malongwana Clinic,083-3031619/071-8595869,29.606057,-31.013647
 Eastern Cape,Clinic,Malusi Clinic,083-4931355,28.872701,-31.578922
-Eastern Cape,Clinic,Maluti CHC,039 2560 118,28.788844,-30.265329
+Eastern Cape,Clinic,Maluti CHC,392560118,28.788844,-30.265329
 Eastern Cape,Clinic,Mampondomiseni Clinic,072-1043752,29.09081,-31.63437
 Eastern Cape,Clinic,Mangcwanguleni Clinic,073-7429305,29.172623,-31.329304
 Eastern Cape,Clinic,Mangoloaneng Clinic,083-3780763,28.460799,-30.518884
@@ -373,28 +373,28 @@ Eastern Cape,Clinic,Mapheleni Clinic,072-9869333,29.2536,-30.78344
 Eastern Cape,Clinic,Mapuzi Clinic,047-5759020,29.130018,-31.959265
 Eastern Cape,Clinic,Maqanyeni Clinic,072-3631442,28.973141,-31.642225
 Eastern Cape,Clinic,Maqashu Clinic,047-8786534,27.334743,-31.743298
-Eastern Cape,Specialised Tb Hospital,Margery Parkes TB Hospital,049 8930 031,24.556476,-32.267834
-Eastern Cape,Specialised Tb Hospital,Marjorie Parrish TB Hospital,046 624 5306,26.88126,-33.56243
-Eastern Cape,Clinic,Marselle Clinic,046 648 2247,26.635121,-33.679336
+Eastern Cape,Specialised Tb Hospital,Margery Parkes TB Hospital,498930031,24.556476,-32.267834
+Eastern Cape,Specialised Tb Hospital,Marjorie Parrish TB Hospital,466245306,26.88126,-33.56243
+Eastern Cape,Clinic,Marselle Clinic,466482247,26.635121,-33.679336
 Eastern Cape,District Hospital,Martje Venter (Tarkastad) Hospital,045-8460053,26.258435,-32.009252
-Eastern Cape,Clinic,Masakhane Clinic (Aberdeen),049 846 0315,23.158642,-32.892649
+Eastern Cape,Clinic,Masakhane Clinic (Aberdeen),498460315,23.158642,-32.892649
 Eastern Cape,Clinic,Masakhane Clinic (Hankey),042-2840314,24.872886,-33.82773
-Eastern Cape,Clinic,Masakhane Clinic (N Mandela Metro),041 506 3100,25.44428,-33.92395
+Eastern Cape,Clinic,Masakhane Clinic (N Mandela Metro),415063100,25.44428,-33.92395
 Eastern Cape,Clinic,Masakhane Clinic (Zwelitsha),040-6557001,27.43269,-32.925458
 Eastern Cape,Clinic,Masakhe Clinic,045-9660085,25.444234,-33.923854
 Eastern Cape,Clinic,Masele Clinic,040-6598737,27.330889,-32.936187
 Eastern Cape,Clinic,Masibulele Clinic,071-8595783,27.735533,-30.598462
 Eastern Cape,Clinic,Masincedane Clinic,040-6588256,27.11374,-32.686116
 Eastern Cape,Clinic,Masiphile Clinic,043-7399341,27.788984,-32.8544
-Eastern Cape,Clinic,Matatiele Municipality Clinic,039 737 3513,28.808658,-30.333313
+Eastern Cape,Clinic,Matatiele Municipality Clinic,397373513,28.808658,-30.333313
 Eastern Cape,Clinic,Matomela Clinic,040-6757399,27.113743,-33.275743
 Eastern Cape,Clinic,Matubeni Clinic,083-3780710,29.315112,-30.112592
 Eastern Cape,Clinic,Matyantya Clinic,071-8543778,27.072034,-31.785279
 Eastern Cape,Clinic,Mawusheni Clinic,071-8595636,27.67016,-31.94064
-Eastern Cape,Clinic,Max Madlingozi Clinic,041 506 2288,25.58314,-33.869667
+Eastern Cape,Clinic,Max Madlingozi Clinic,415062288,25.58314,-33.869667
 Eastern Cape,Clinic,Maxwele Clinic,047-5387283,28.735492,-31.704023
 Eastern Cape,Clinic,Mbalisweni Clinic,083-3031631,29.115813,-31.267639
-Eastern Cape,CHC,Mbekweni CHC,0475380033 / 10,28.686582,-31.719949
+Eastern Cape,CHC,Mbekweni CHC,0475380033/0475380010,28.686582,-31.719949
 Eastern Cape,Clinic,Mbokotwana Clinic,071-8543784,28.805868,-31.259789
 Eastern Cape,Clinic,Mbulukweza Clinic,083-9596943,27.71693,-32.23262
 Eastern Cape,Clinic,Mcambalala Clinic,083-3780713,27.494611,-31.884384
@@ -405,12 +405,12 @@ Eastern Cape,Clinic,Mdingi Clinic,040-6567819,27.330355,-32.82356
 Eastern Cape,Clinic,Mdyobe Clinic,073-5371049,29.050711,-31.132259
 Eastern Cape,Clinic,Meje Clinic,039-2513099,29.8747,-31.05028
 Eastern Cape,Clinic,Melani Clinic,078-1903449,26.87394,-32.72545
-Eastern Cape,Clinic,Melitafa Clinic,073 3962 582,28.680142,-32.07117
+Eastern Cape,Clinic,Melitafa Clinic,733962582,28.680142,-32.07117
 Eastern Cape,Clinic,Mevana Clinic,083-3780622,29.296173,-31.528123
 Eastern Cape,Clinic,Mfundambini Clinic,071-8595963,29.519513,-30.898802
 Eastern Cape,Clinic,Mfundisweni Clinic,039-2523900,29.519502,-30.898846
 Eastern Cape,Clinic,Mgudu Clinic,083-3031790,28.34699,-31.478168
-Eastern Cape,Clinic,Mgwalana Clinic,040 653 5441,26.96204,-32.75516
+Eastern Cape,Clinic,Mgwalana Clinic,406535441,26.96204,-32.75516
 Eastern Cape,Clinic,Mgwali Clinic,043-6831574,27.606076,-32.461027
 Eastern Cape,Clinic,Mgwenyane Clinic,083-3780623,29.233211,-31.555307
 Eastern Cape,Clinic,Mhlahlane Clinic,083-3780746,28.54072,-31.41913
@@ -419,13 +419,13 @@ Eastern Cape,Clinic,Mhlanga Clinic,071-8595971,27.15988,-31.464525
 Eastern Cape,Clinic,Mhlopekazi Clinic,083-3780554,28.289607,-31.740331
 Eastern Cape,Clinic,Michausdal Clinic,048-8015055,25.645032,-32.173692
 Eastern Cape,Clinic,Middelburg Clinic,049-8421104,25.00754,-31.49488
-Eastern Cape,Clinic,Middle Street Clinic,041 922 4358,25.390842,-33.75772
-Eastern Cape,Clinic,Middle Terrace Clinic,046 603 6043,26.536497,-33.300141
+Eastern Cape,Clinic,Middle Street Clinic,419224358,25.390842,-33.75772
+Eastern Cape,Clinic,Middle Terrace Clinic,466036043,26.536497,-33.300141
 Eastern Cape,CHC,Middledrift CHC,040-6573152,26.98832,-32.81356
-Eastern Cape,District Hospital,Midland Hospital,049 807 7700,24.535453,-32.261339
+Eastern Cape,District Hospital,Midland Hospital,498077700,24.535453,-32.261339
 Eastern Cape,Clinic,Midros Clinic,049-8021364,25.026222,-31.50263
-Eastern Cape,Clinic,Misgund Clinic,042 275 1545,23.502387,-33.762563
-Eastern Cape,Clinic,Missionvale Clinic,041 506 1168,25.549961,-33.87666
+Eastern Cape,Clinic,Misgund Clinic,422751545,23.502387,-33.762563
+Eastern Cape,Clinic,Missionvale Clinic,415061168,25.549961,-33.87666
 Eastern Cape,Clinic,Mitford Clinic,040-8450187,26.532328,-31.990625
 Eastern Cape,Clinic,Mjanyana Clinic,083-3780553,28.095399,-31.842552
 Eastern Cape,District Hospital,Mjanyana Hospital,0475471001/2,28.106128,-31.83408
@@ -440,18 +440,18 @@ Eastern Cape,Clinic,Mnyibashe Clinic,073-3392037,27.801319,-32.128792
 Eastern Cape,Clinic,Mnyolo Clinic,083-3780711,28.289151,-31.494445
 Eastern Cape,Clinic,Molteno Clinic,045-9670269,31.23523,-26.21361
 Eastern Cape,District Hospital,Molteno Hospital,045-9670089,26.355799,-31.392238
-Eastern Cape,Clinic,Mooiplaas Clinic,0438511070 / 0438511059,28.054039,-32.737743
+Eastern Cape,Clinic,Mooiplaas Clinic,0438511070/0438511059,28.054039,-32.737743
 Eastern Cape,Clinic,Moore Street Clinic,043-7052316,27.915498,-33.012865
-Eastern Cape,Clinic,Moses Mabida Clinic,042 2301 659,25.481546,-33.397238
-Eastern Cape,CHC,Motherwell CHC,041 469 1155,25.597329,-33.811459
-Eastern Cape,Clinic,Motherwell NU 2 Clinic,041 506 1064,25.60322,-33.80062
+Eastern Cape,Clinic,Moses Mabida Clinic,422301659,25.481546,-33.397238
+Eastern Cape,CHC,Motherwell CHC,414691155,25.597329,-33.811459
+Eastern Cape,Clinic,Motherwell NU 2 Clinic,415061064,25.60322,-33.80062
 Eastern Cape,Clinic,Mount Arthur Clinic,083-3780732,27.031042,-31.697279
-Eastern Cape,District Hospital,Mount Ayliff Hospital,039 254 0236,29.370913,-30.797433
+Eastern Cape,District Hospital,Mount Ayliff Hospital,392540236,29.370913,-30.797433
 Eastern Cape,Clinic,Mount Ayliff PHC Clinic,083-3031768,29.370913,-30.797433
-Eastern Cape,CHC,Mount Coke CHC,0406548000-3,27.443461,-32.980932
+Eastern Cape,CHC,Mount Coke CHC,0406548000/0406548003,27.443461,-32.980932
 Eastern Cape,Clinic,Mount Frere PHC Clinic,083-3031775,28.995707,-30.900045
 Eastern Cape,Clinic,Mount Hargreaves Clinic,083-3031820,28.706004,-30.405267
-Eastern Cape,Clinic,Mpame Clinic,083 303 4011,29.041827,-32.097922
+Eastern Cape,Clinic,Mpame Clinic,833034011,29.041827,-32.097922
 Eastern Cape,Clinic,Mpeko Clinic,073-6303182/083-3781129,28.633102,-31.623736
 Eastern Cape,Clinic,Mpetsheni Clinic,0392570812/3,29.792508,-30.990764
 Eastern Cape,Clinic,Mpharane Clinic,076-8161724,28.47763,-30.263905
@@ -459,7 +459,7 @@ Eastern Cape,Clinic,Mpindweni Clinic,071-8543791,28.781015,-31.51167
 Eastern Cape,Clinic,Mpongo Clinic,043-7811636,27.526366,-33.157751
 Eastern Cape,Clinic,Mpoza Clinic (Lusikisiki),083-3780718,29.55686,-31.236078
 Eastern Cape,Clinic,Mpoza Clinic (Mount Frere),071-8595952,29.069586,-30.731786
-Eastern Cape,Clinic,Mpozolo Clinic,073 3963 400,28.779075,-32.181989
+Eastern Cape,Clinic,Mpozolo Clinic,733963400,28.779075,-32.181989
 Eastern Cape,Clinic,Mpukane Clinic,072-0788295,27.937202,-32.196401
 Eastern Cape,Clinic,Mpunzana Clinic,047-5775001,28.669877,-31.801862
 Eastern Cape,Clinic,Mqambeli Clinic,083-3780538,28.10859,-32.420046
@@ -467,7 +467,7 @@ Eastern Cape,CHC,Mqanduli CHC,047-5735013,28.766794,-31.819878
 Eastern Cape,Clinic,Mqhekezweni Clinic,073-3961924,28.46755,-31.73366
 Eastern Cape,Clinic,Mqhele Clinic,073-7445941,28.89164,-31.994178
 Eastern Cape,Clinic,Mqokolweni Clinic,083-3031497,28.549725,-31.121665
-Eastern Cape,Clinic,Msendo Clinic,083 389 7859,28.790078,-32.27135
+Eastern Cape,Clinic,Msendo Clinic,833897859,28.790078,-32.27135
 Eastern Cape,Clinic,Msobomvu Clinic,082-8165803,26.85278,-32.70058
 Eastern Cape,Clinic,Mtakatye Clinic,083-3168469,29.244806,-31.846699
 Eastern Cape,Clinic,Mtambalala Clinic,083-9293996,29.587904,-31.542039
@@ -476,13 +476,13 @@ Eastern Cape,District Hospital,Mthatha General Hospital,047-5024400,28.764181,-3
 Eastern Cape,Clinic,Mtingwevu Clinic,071-8595886,27.589545,-31.766053
 Eastern Cape,Clinic,Mtombe Clinic,040-6558833,27.334735,-33.054755
 Eastern Cape,Clinic,Mtyholo Clinic,040-6557004,27.35531,-32.99244
-Eastern Cape,Clinic,Musong Clinic,071 976 9332,27.548054,-30.490633
+Eastern Cape,Clinic,Musong Clinic,719769332,27.548054,-30.490633
 Eastern Cape,Clinic,Mvenyane Clinic,083-3031825,29.022961,-30.547871
-Eastern Cape,Clinic,Mwaca Clinic,039 254 7006,29.237779,-30.639996
-Eastern Cape,Clinic,Mxalanga Clinic,040 636 0201,27.36593,-32.73985
-Eastern Cape,Clinic,Mxhelo Clinic,083 303 1642,26.73477,-32.79465
+Eastern Cape,Clinic,Mwaca Clinic,392547006,29.237779,-30.639996
+Eastern Cape,Clinic,Mxalanga Clinic,406360201,27.36593,-32.73985
+Eastern Cape,Clinic,Mxhelo Clinic,833031642,26.73477,-32.79465
 Eastern Cape,Clinic,Mzamomhle Clinic (Albert),051-6531777,26.333976,-31.011357
-Eastern Cape,Clinic,Mzamomhle Clinic (Bedford),046 685 0076,26.09306,-32.69044
+Eastern Cape,Clinic,Mzamomhle Clinic (Bedford),466850076,26.09306,-32.69044
 Eastern Cape,Clinic,Mzintlava Clinic,083-3031647,29.510428,-31.40584
 Eastern Cape,Clinic,Mzongwana Clinic,083-5936254,29.057813,-30.166121
 Eastern Cape,Clinic,Ncambele Clinic,047-5348003,28.735943,-31.501461
@@ -504,14 +504,14 @@ Eastern Cape,Clinic,Ndwayana Clinic,040-6750011,26.872451,-33.160354
 Eastern Cape,Clinic,Needs Camp Clinic,043-7369015,27.647478,-33.005697
 Eastern Cape,Central Hospital,Nelson Mandela Academic Hospital,047-5024469,28.764181,-31.586633
 Eastern Cape,Clinic,Nessie Knight Clinic,047-5570722,28.682261,-31.010907
-Eastern Cape,District Hospital,Nessie Knight Hospital,0475536007/8/9,28.682261,-31.010907
-Eastern Cape,CHC,New Brighton CHC,041 451 1540,25.58468,-33.909006
-Eastern Cape,Clinic,New Brighton Clinic,041 506 1070,25.59775,-33.90498
+Eastern Cape,District Hospital,Nessie Knight Hospital,0475536007/0475536008/0475536009,28.682261,-31.010907
+Eastern Cape,CHC,New Brighton CHC,414511540,25.58468,-33.909006
+Eastern Cape,Clinic,New Brighton Clinic,415061070,25.59775,-33.90498
 Eastern Cape,Clinic,New Rest Clinic,045-8072676,26.870922,-31.903765
 Eastern Cape,Specialised Chronic Hospital,Newhaven Hospital,0437263225/6,27.90592,-32.98286
 Eastern Cape,Clinic,Newlands Clinic,043-7391068,27.749394,-32.878094
 Eastern Cape,Clinic,Newtown Clinic,046-6457421,26.61334,-32.77402
-Eastern Cape,Clinic,NG Dlukulu Clinic,046 603 6150/6089,26.578084,-33.278795
+Eastern Cape,Clinic,NG Dlukulu Clinic,0466036150/0466036089,26.578084,-33.278795
 Eastern Cape,CHC,Ngangelizwe CHC,047-5014326,28.799664,-31.601755
 Eastern Cape,Clinic,Ngcengane Clinic,047-5368005,28.604193,-31.537643
 Eastern Cape,Clinic,Ngceza Clinic,083-3031833,27.734427,-31.97469
@@ -530,21 +530,21 @@ Eastern Cape,Clinic,Ngwenya Clinic,071-8543776,28.76685,-31.949028
 Eastern Cape,Clinic,Ngxabangu Clinic,083-3031839,27.610413,-31.845464
 Eastern Cape,Clinic,Ngxaza Clinic,082-7077512,28.506984,-31.214288
 Eastern Cape,Clinic,Nier Clinic,071-8543505,27.243964,-33.357943
-Eastern Cape,Clinic,Nieu-Bethesda Clinic,049 8411 650,24.563037,-31.866433
-Eastern Cape,Clinic,Njwaxa Clinic,083 378 0503,26.9056,-32.8728
+Eastern Cape,Clinic,Nieu-Bethesda Clinic,498411650,24.563037,-31.866433
+Eastern Cape,Clinic,Njwaxa Clinic,833780503,26.9056,-32.8728
 Eastern Cape,Clinic,Nkanga Clinic,071-8595969,29.173588,-31.46512
-Eastern Cape,Clinic,Nkanunu Clinic,083-3781132 / 083-3787369,29.218386,-31.760938
-Eastern Cape,Clinic,Nkanya Clinic,073 575 4998,28.957965,-32.158091
+Eastern Cape,Clinic,Nkanunu Clinic,083-3781132/083-3787369,29.218386,-31.760938
+Eastern Cape,Clinic,Nkanya Clinic,735754998,28.957965,-32.158091
 Eastern Cape,Clinic,Nkozo Clinic,083-3780498,29.429369,-31.201744
 Eastern Cape,Specialised Tb Hospital,Nkqubela Hospital,043-7612131,27.74088,-32.93284
 Eastern Cape,Clinic,Nkumandeni Clinic,083-5277389,29.04818,-31.73017
 Eastern Cape,Clinic,Nkwenkwana Clinic,083-3781172,28.209782,-31.77252
-Eastern Cape,Clinic,Nkwenkwezi Clinic,046 6248 265,26.892501,-33.577391
+Eastern Cape,Clinic,Nkwenkwezi Clinic,466248265,26.892501,-33.577391
 Eastern Cape,Clinic,Nobuhle NU 8 Clinic,043-7622912,27.725112,-32.940955
 Eastern Cape,Clinic,Nolita Clinic,083-5470164,28.946166,-31.700004
-Eastern Cape,Clinic,Nolukhanyo Clinic,046 625 0713,26.831371,-33.493656
+Eastern Cape,Clinic,Nolukhanyo Clinic,466250713,26.831371,-33.493656
 Eastern Cape,Clinic,Nomakhwezi Makhenyane Clinic,083-7627419,26.31339,-32.69297
-Eastern Cape,Clinic,Nomangesi Jayiya Clinic,041 506 1959,25.38441,-33.820734
+Eastern Cape,Clinic,Nomangesi Jayiya Clinic,415061959,25.38441,-33.820734
 Eastern Cape,Clinic,Nomonde Clinic,045-9670317,26.359538,-31.385671
 Eastern Cape,District Hospital,Nompumelelo (Peddie) Hospital,040-6733321,27.13244,-33.20921
 Eastern Cape,Clinic,Nompumelelo Clinic,045-9521137,27.347688,-31.471441
@@ -554,10 +554,10 @@ Eastern Cape,Clinic,Nontsikelelo Biko Clinic,071-8543825,28.908798,-31.473275
 Eastern Cape,CHC,Nontyatyambo CHC,043-7600420,27.757677,-32.940608
 Eastern Cape,Clinic,Norah Clinic,040-6779860,27.308463,-33.227757
 Eastern Cape,Clinic,Nozuko Clinic,083-5588203,28.16784,-32.323487
-Eastern Cape,Clinic,Nqabara Clinic,083 378 0516,28.720745,-32.247098
-Eastern Cape,Clinic,Nqabeni Clinic,083 3780 741,28.58487,-32.118704
+Eastern Cape,Clinic,Nqabara Clinic,833780516,28.720745,-32.247098
+Eastern Cape,Clinic,Nqabeni Clinic,833780741,28.58487,-32.118704
 Eastern Cape,Clinic,Nqadu 2 Satellite Clinic,073-4221581,28.3782,-32.21347
-Eastern Cape,Clinic,Nqadu Clinic (Mbhashe),083 3780 564,28.420523,-32.234666
+Eastern Cape,Clinic,Nqadu Clinic (Mbhashe),833780564,28.420523,-32.234666
 Eastern Cape,CHC,Nqamakwe CHC,0474870166/7,27.935438,-32.208453
 Eastern Cape,Clinic,Nqancule Clinic,083-5846150,27.79323,-32.35216
 Eastern Cape,Clinic,Nqanda A Clinic,083-4014385,28.921562,-31.77641
@@ -577,34 +577,34 @@ Eastern Cape,Clinic,Ntshele Clinic,047-5376223,28.722022,-31.67264
 Eastern Cape,Clinic,Ntshentshe Clinic,073-6066274,29.535137,-30.707612
 Eastern Cape,Clinic,Ntshingeni Clinic,082-9297477,27.425382,-32.048493
 Eastern Cape,Clinic,Ntsimba Clinic,083-3781181,28.218207,-31.859216
-Eastern Cape,Specialised Tb Hospital,Orsmond TB Hospital,041 988 1111,25.381374,-33.747537
-Eastern Cape,District Hospital,Port Alfred Hospital,046 604 4000,26.884317,-33.595282
-Eastern Cape,Tertiary Hospital,Port Elizabeth Provincial Hospital,041 392 3911,25.597672,-33.957052
-Eastern Cape,Specialised Tb Hospital,PZ Meyer Hospital,042 291 2064,24.757935,-34.022949
-Eastern Cape,District Hospital,SAWAS Memorial (Jansenville) Hospital,049 8360 588,24.663282,-32.941457
-Eastern Cape,CHC,Settlers Day Hospital,046 622 3033,26.532283,-33.307725
-Eastern Cape,District Hospital,Settlers Hospital,046 602 5000,26.51781,-33.302811
-Eastern Cape,District Hospital,Sipetu Hospital,0392550077/82/84/93,29.186149,-31.091683
+Eastern Cape,Specialised Tb Hospital,Orsmond TB Hospital,419881111,25.381374,-33.747537
+Eastern Cape,District Hospital,Port Alfred Hospital,466044000,26.884317,-33.595282
+Eastern Cape,Tertiary Hospital,Port Elizabeth Provincial Hospital,413923911,25.597672,-33.957052
+Eastern Cape,Specialised Tb Hospital,PZ Meyer Hospital,422912064,24.757935,-34.022949
+Eastern Cape,District Hospital,SAWAS Memorial (Jansenville) Hospital,498360588,24.663282,-32.941457
+Eastern Cape,CHC,Settlers Day Hospital,466223033,26.532283,-33.307725
+Eastern Cape,District Hospital,Settlers Hospital,466025000,26.51781,-33.302811
+Eastern Cape,District Hospital,Sipetu Hospital,0392550077/0392550082/0392550084/0392550093,29.186149,-31.091683
 Eastern Cape,District Hospital,SS Gida Hospital,040-6580043,27.1435,-32.67458
 Eastern Cape,District Hospital,St Barnabas Hospital,047-5555300,29.117353,-31.565208
 Eastern Cape,District Hospital,St Elizabeth's Hospital,039-2531111,29.566687,-31.359015
 Eastern Cape,Specialised Chronic Hospital,St Francis Hospital,051-6332741,26.694036,-30.691221
-Eastern Cape,District Hospital,St Lucy's Hospital,0475459631 / 0475459324,28.631337,-31.297475
+Eastern Cape,District Hospital,St Lucy's Hospital,0475459631/0475459324,28.631337,-31.297475
 Eastern Cape,District Hospital,St Patrick's Hospital,039-2510236,29.854665,-30.863285
 Eastern Cape,District Hospital,Sterkstroom Hospital,045-9660268,26.554269,-31.55323
 Eastern Cape,District Hospital,Steynsburg Hospital,048-8840241,25.814894,-31.294032
 Eastern Cape,District Hospital,Stutterheim Hospital,043-6831313,27.42256,-32.56883
-Eastern Cape,District Hospital,Sundays Valley (Kirkwood) Hospital,042 230 0406,25.440339,-33.394723
+Eastern Cape,District Hospital,Sundays Valley (Kirkwood) Hospital,422300406,25.440339,-33.394723
 Eastern Cape,District Hospital,Tafalofefe Hospital,047-4980026,28.473167,-32.429283
-Eastern Cape,District Hospital,Tayler Bequest Hospital (Matatiele),039 737 3107,28.821537,-30.347181
+Eastern Cape,District Hospital,Tayler Bequest Hospital (Matatiele),397373107,28.821537,-30.347181
 Eastern Cape,District Hospital,Taylor Bequest Hospital (Elundini),039-2570043,28.510369,-30.689528
 Eastern Cape,Specialised Tb Hospital,Temba TB Hospital,083-3781045,26.550712,-33.309938
 Eastern Cape,Specialised Psychiatric Hospital,Tower Hospital,046-6451223,26.63678,-32.77024
-Eastern Cape,District Hospital,Uitenhage Hospital,041 995 1111/041 995 1130,25.405996,-33.742323
+Eastern Cape,District Hospital,Uitenhage Hospital,0419951111/0419951130,25.405996,-33.742323
 Eastern Cape,District Hospital,Umlamli Hospital,0516110079/90,27.467215,-30.549714
 Eastern Cape,District Hospital,Victoria Hospital,0406531141/0406531142,26.84678,-32.77527
 Eastern Cape,District Hospital,Wilhelm Stahl (Middelburg) Hospital,049-8421111,24.99351,-31.49173
-Eastern Cape,District Hospital,Willowmore Hospital,044 923 1148,23.477751,-33.300296
+Eastern Cape,District Hospital,Willowmore Hospital,449231148,23.477751,-33.300296
 Eastern Cape,Specialised Tb Hospital,Winterberg TB Hospital,046-6451142,26.65807,-32.77916
 Eastern Cape,District Hospital,Zitulele Hospital,047-5750037,29.059165,-32.049093
 Free State,Clinic,Albert Luthuli Memorial Clinic,057-8992397,26.3668,-27.8362
@@ -621,9 +621,9 @@ Free State,Clinic,Bohlokong Clinic,058-8410723,28.316085,-28.224197
 Free State,Clinic,Boiketlo Clinic,058-7891753,28.825995,-28.549663
 Free State,Clinic,Boithusong Clinic,057-3610411,26.76047,-27.85522
 Free State,Clinic,Boitumelo (Senekal) Clinic,058-4814172,27.631297,-28.34366
-Free State,Regional Hospital,Boitumelo Hospital,056 216 5200,27.213199,-27.644355
-Free State,Clinic,Bolata Clinic,058 7210037,28.795654,-28.563647
-Free State,Regional Hospital,Bongani Hospital,057 9,26.7862,-27.95315
+Free State,Regional Hospital,Boitumelo Hospital,562165200,27.213199,-27.644355
+Free State,Clinic,Bolata Clinic,587210037,28.795654,-28.563647
+Free State,Regional Hospital,Bongani Hospital,579168000,26.7862,-27.95315
 Free State,Clinic,Bophelong (Allanridge) Clinic,057-4512214,26.657327,-27.777146
 Free State,Clinic,Bophelong (Botshabelo) Clinic,051-5320614,26.73307,-29.2778
 Free State,Clinic,Bophelong (Kroonstad) Clinic,056-2170076,27.189161,-27.634798
@@ -646,13 +646,13 @@ Free State,Clinic,Dealesville Clinic,051-8110155,25.76528,-28.67175
 Free State,Clinic,Deneysville Clinic,016-3711131,28.097169,-26.89089
 Free State,Clinic,Dewetsdorp One Stop Clinic,051-5410700,26.66885,-29.58527
 Free State,District Hospital,Diamond/Diamant Hospital,051-7249391,25.423361,-29.760438
-Free State,Regional Hospital,Dihlabeng Hospital,058 303 5331,28.3197,-28.23317
+Free State,Regional Hospital,Dihlabeng Hospital,583035331,28.3197,-28.23317
 Free State,Clinic,Dinaane Clinic,083-2660209,26.831035,-29.22735
 Free State,Clinic,Dinkweng Clinic,058-7136096,28.896535,-28.627989
 Free State,District Hospital,Dr JS Moroka Hospital,051-8739800,26.83458,-29.20457
 Free State,Clinic,Dr Pedro Memorial Clinic,051-5330354,26.68177,-29.20793
 Free State,District Hospital,Elizabeth Ross Hospital,058-7184000,28.817369,-28.588888
-Free State,District Hospital,Embekweni Hospital,051 673 1200,27.07542,-30.29215
+Free State,District Hospital,Embekweni Hospital,516731200,27.07542,-30.29215
 Free State,Clinic,Ethembeni Clinic,053-2050779,24.991504,-29.393407
 Free State,Clinic,Eva Mota Clinic,058-7210146,28.86853,-28.633441
 Free State,Clinic,Excelsior Clinic,051-9730219,27.0566,-28.93298
@@ -660,7 +660,7 @@ Free State,Clinic,Fateng Tse Ntsho Clinic,058-4710537,27.967356,-28.298987
 Free State,Clinic,Fauna Clinic,051-4212971,26.18987,-29.16553
 Free State,Clinic,Fauresmith Clinic,051-7230080,25.309308,-29.744624
 Free State,Clinic,Fichardtpark Clinic,051-5225111,26.1818,-29.14387
-Free State,Clinic,Frankfort Clinic,058 8131972,28.492696,-27.277835
+Free State,Clinic,Frankfort Clinic,588131972,28.492696,-27.277835
 Free State,Specialised Psychiatric Hospital,Free State Psychiatric Complex Hospital,051-4079911,26.209265,-29.133855
 Free State,Clinic,Freedom Square Clinic,051-4372800,26.25365,-29.17383
 Free State,Clinic,Gaongalelwe Clinic,051-8716766,26.801011,-29.168317
@@ -668,8 +668,8 @@ Free State,Clinic,Geneva Clinic,057-3618125,26.748439,-27.850757
 Free State,Clinic,Hani Park Clinic,057-3521263/057-3521264,26.82359,-27.98719
 Free State,Clinic,Harrismith Clinic,058-6232093,29.126816,-28.272448
 Free State,Clinic,Harry Gwala (Botshabelo) Clinic,083-3043438,26.711908,-29.287732
-Free State,Clinic,Harry Gwala (Sasolburg) Clinic,016 9748139,27.878969,-26.850036
-Free State,CHC,Heidedal CHC,051 404 1200,26.245611,-29.138897
+Free State,Clinic,Harry Gwala (Sasolburg) Clinic,169748139,27.878969,-26.850036
+Free State,CHC,Heidedal CHC,514041200,26.245611,-29.138897
 Free State,Clinic,Heilbron Clinic,058-8852221,27.967882,-27.292016
 Free State,Clinic,Hennenman Clinic,057-5732538,27.01997,-27.9724
 Free State,Clinic,Highway Junction Clinic,072-6119251,29.13155,-28.28852
@@ -682,18 +682,18 @@ Free State,Clinic,Hydropark Clinic,051-7541034,25.49,-30.59
 Free State,Clinic,Ikaheng Clinic,051-9242243,27.45985,-29.16813
 Free State,Clinic,Ikgomotseng Clinic,051-8311106,26.1049,-28.736356
 Free State,Clinic,Intabazwe Clinic,058-6223402,29.096992,-28.252575
-Free State,District Hospital,Itemoheng Hospital,058 481 2114,27.606695,-28.32745
+Free State,District Hospital,Itemoheng Hospital,584812114,27.606695,-28.32745
 Free State,Clinic,Itumeleng (Botshabelo) Clinic,051-5322915,26.71965,-29.2854
 Free State,Clinic,Itumeleng (Clarens) Clinic,058-2561476,28.421194,-28.522482
 Free State,Clinic,Itumeleng (Jagersfontein) Clinic,051-7240466,25.434632,-29.767032
 Free State,Clinic,Jacobsdal Clinic,053-5910-100,24.771692,-29.13003
 Free State,Clinic,Jazzman Mokhothu Clinic,051-5321642,26.7139,-29.25728
-Free State,District Hospital,John Daniel Newberry Hospital,051 9430433,27.573522,-28.910094
+Free State,District Hospital,John Daniel Newberry Hospital,519430433,27.573522,-28.910094
 Free State,CHC,K-Maile Clinic,056-5136144,26.65739,-27.38379
 Free State,Clinic,Kagisanong Clinic,051-4358011,26.24503,-29.19625
 Free State,Clinic,Kamohelo Clinic,051-5881170,27.001763,-28.531027
 Free State,Clinic,Kananelo CHC,056-9310046,27.368437,-27.004423
-Free State,District Hospital,Katleho Hospital,057 2213300,26.85798,-28.11057
+Free State,District Hospital,Katleho Hospital,572213300,26.85798,-28.11057
 Free State,Clinic,Kgalala Clinic,051-8751107,26.80427,-28.98888
 Free State,CHC,Kganya CHC,056-7771777,27.58748,-27.23415
 Free State,CHC,Kgotso Clinic,056-7771777,27.58748,-27.23415
@@ -716,7 +716,7 @@ Free State,Clinic,Lindley Clinic,058-4630415,27.915887,-27.881338
 Free State,Clinic,Lourierpark Clinic,051-4111000,26.17435,-29.17788
 Free State,Clinic,Luckhoff Clinic,053-2060085,24.786245,-29.749866
 Free State,Clinic,Lusaka Clinic,057-7335910,26.697845,-28.4166777
-Free State,Clinic,Ma-haig Clinic,058713 6820,28.801373,-28.519185
+Free State,Clinic,Ma-haig Clinic,587136820,28.801373,-28.519185
 Free State,Clinic,Mafane Clinic,051-8732885,26.81338,-29.19897
 Free State,District Hospital,Mafube Hospital,058-8131040,28.50022,-27.278414
 Free State,Clinic,Makeneng Clinic,058-7891767,28.821457,-28.614535
@@ -724,7 +724,7 @@ Free State,Clinic,Makhalaneng Clinic,058-7134579,28.791306,-28.550874
 Free State,Clinic,Makoane Clinic,058-7210215,28.88815,-28.534665
 Free State,Clinic,Malesaona Clinic,058-7210072,28.720753,-28.559901
 Free State,Clinic,Maletsatsi Mabaso Clinic,051-5321723,26.73198,-29.25477
-Free State,CHC,Mamello CHC,051 991 0125/0781,27.42652,-28.66682
+Free State,CHC,Mamello CHC,0519910125/0519910781,27.42652,-28.66682
 Free State,Clinic,Mamello Clinic,051-7130531,25.779371,-30.027177
 Free State,District Hospital,Mantsopa Hospital,051-9243268,27.44822,-29.202793
 Free State,Clinic,Manyatseng Clinic,051-9240491,27.4656,-29.1724
@@ -741,7 +741,7 @@ Free State,Clinic,Meloding Clinic,057-2152324,26.897981,-28.129962
 Free State,Clinic,Memel Clinic,058-9240336,29.563683,-27.677704
 Free State,Clinic,Meqheleng Clinic,051-9330126,27.877124,-28.889958
 Free State,Clinic,Metsimaholo Clinic,016-3571637,28.210984,-26.979165
-Free State,District Hospital,Metsimaholo Hospital,016 970 9467,27.82768,-26.803029
+Free State,District Hospital,Metsimaholo Hospital,169709467,27.82768,-26.803029
 Free State,Clinic,Mmabana Clinic,051-4096782,26.24172,-29.15072
 Free State,Clinic,Mmamahabane Clinic,057-6515395,27.14768,-28.09173
 Free State,Regional Hospital,Mofumahadi Manapo Mopeli Hospital,059-7183200,28.805358,-28.535926
@@ -751,24 +751,24 @@ Free State,Clinic,Molefi Tau Clinic,051-5330315,26.71927,-29.21092
 Free State,Clinic,Monontsha Clinic,058-7210078,28.744397,-28.565432
 Free State,Clinic,Mphatlalatsane Clinic,058-7136660,28.836869,-28.509611
 Free State,Clinic,Mphohadi Clinic,058-3043159,28.325645,-28.197995
-Free State,CHC,MUCPP CHC,051- 435 6430,26.24293,-29.17923
-Free State,District Hospital,Nala Hospital,056 51552071,26.61783,-27.39465
+Free State,CHC,MUCPP CHC,051-4356430,26.24293,-29.17923
+Free State,District Hospital,Nala Hospital,5651552071,26.61783,-27.39465
 Free State,Clinic,Namahali Clinic,058-7891112,28.829549,-28.583799
 Free State,District Hospital,National Hospital,092-3695113,26.20619,-29.12721
 Free State,Clinic,National Hospital Gateway Clinic,051-4039642,26.20703,-29.12818
-Free State,Clinic,Nelson Mandela Clinic,051-743 1376,25.94157,-29.73105
+Free State,Clinic,Nelson Mandela Clinic,051-7431376,25.94157,-29.73105
 Free State,District Hospital,Nketoana Hospital,058-8632806,28.419555,-27.802701
-Free State,Clinic,Nothnagel Clinic,051 9910459,27.420239,-28.676592
+Free State,Clinic,Nothnagel Clinic,519910459,27.420239,-28.676592
 Free State,Clinic,Nthabiseng Clinic,058-7210040,28.78217,-28.5908
 Free State,Clinic,Opkoms Clinic,051-4096783,26.25227,-29.14452
 Free State,Clinic,Oppermansgronde Clinic,053-2095009,24.744904,-29.413521
 Free State,Clinic,OR Tambo Clinic,057-2151402,26.887343,-28.149773
 Free State,Clinic,Paballong Clinic,058-7210055,28.776782,-28.555154
 Free State,Clinic,Parys Clinic,056-8112046,27.457071,-26.899327
-Free State,District Hospital,Parys Hospital,056 816 8038,27.471882,-26.895794
+Free State,District Hospital,Parys Hospital,568168038,27.471882,-26.895794
 Free State,Clinic,Paul Roux Clinic,058-7105332,27.955559,-28.296049
 Free State,CHC,PAX CHC,056-3433115,26.949769,-27.189062
-Free State,Regional Hospital,Pelonomi Hospital,051 405 1929,26.2442,-29.14269
+Free State,Regional Hospital,Pelonomi Hospital,514051929,26.2442,-29.14269
 Free State,Clinic,Petsana Clinic,058-8632353,28.44652,-27.804
 Free State,Clinic,Phahameng (Bultfontein) Clinic,051-8532467,26.14848,-28.3007
 Free State,Clinic,Phahameng (Frankfort) Clinic,058-8131614,28.513955,-27.256396
@@ -782,9 +782,9 @@ Free State,Clinic,Philani Clinic,058-8131627,28.504511,-27.267877
 Free State,Clinic,Philippolis Clinic,051-7730186,25.274863,-30.266309
 Free State,Clinic,Phomolong (Ficksburg) Clinic,051-9380117,27.882392,-28.89358
 Free State,Clinic,Phomolong (Hennenman) Clinic,057-5745251,27.08118,-28.014
-Free State,District Hospital,Phumelela Hospital,058 9181044,29.155569,-27.433556
+Free State,District Hospital,Phumelela Hospital,589181044,29.155569,-27.433556
 Free State,Clinic,Phuthaditjhaba Clinic,058-7131320,28.820617,-28.520245
-Free State,District Hospital,Phuthuloha Hospital,051 933 2284,27.87173,-28.881586
+Free State,District Hospital,Phuthuloha Hospital,519332284,27.87173,-28.881586
 Free State,Clinic,Potlako Motlohi Clinic,083-3043478,26.72317,-29.27168
 Free State,Clinic,Pule Sefatsa Clinic,083-3043450,26.69123,-29.26142
 Free State,Clinic,Qalabotjha Clinic,058-8210363,28.616206,-27.014431
@@ -796,7 +796,7 @@ Free State,Clinic,Rearabetswe Clinic,058-8713167,28.128079,-27.65412
 Free State,Clinic,Refengkgotso Clinic,016-3711318,28.07193,-26.893497
 Free State,Clinic,Reitumetse Clinic,058-2230555,28.195531,-28.620655
 Free State,Clinic,Reitz Clinic,058-8632319,28.41965,-27.80303
-Free State,Clinic,Relebohile (Heilbron) Clinic,058852 1040,27.975467,-27.271558
+Free State,Clinic,Relebohile (Heilbron) Clinic,588521040,27.975467,-27.271558
 Free State,Clinic,Relebohile (Rosendal) Clinic,058-2110729,27.923094,-28.509234
 Free State,Clinic,Relebohile (Vredefort) Clinic,059-9310457,27.376143,-27.001756
 Free State,Clinic,Rheederspark Clinic,057-3528169,26.72002,-27.95453
@@ -807,20 +807,20 @@ Free State,Clinic,Sasolburg Clinic,016-9732782,27.8277,-26.81798
 Free State,Clinic,Schonkenville Clinic,056-8198461,27.462363,-26.933283
 Free State,Clinic,Seadimo Clinic,083-2660374,26.9845,-29.10045
 Free State,Clinic,Sediba Clinic,083-2660235,26.94302,-29.02893
-Free State,Clinic,Sedibeng sa Bophelo Clinic,0564710117/8,27.553952,-27.945436
+Free State,Clinic,Sedibeng sa Bophelo Clinic,0564710117/0564710118,27.553952,-27.945436
 Free State,Clinic,Seeisoville Clinic,056-2132535,27.210549,-27.653929
 Free State,Clinic,Sehularo Tau Clinic,051-7830072,25.714614,-30.261882
 Free State,Clinic,Sekamotho Mota Clinic,058-7210171,28.85226,-28.648787
 Free State,Clinic,Senekal Clinic,058-4812713,27.619398,-28.322917
 Free State,Clinic,Sizabantu Clinic,058-8521711,27.977631,-27.266284
 Free State,Clinic,Soetwater Clinic,051-9332281,27.875909,-28.874965
-Free State,District Hospital,Stoffel Coetzee Hospital,051 683 0168,26.523206,-30.223197
+Free State,District Hospital,Stoffel Coetzee Hospital,516830168,26.523206,-30.223197
 Free State,Clinic,Tebang Clinic,058-7131327,28.872349,-28.525901
 Free State,Clinic,Thaba Bosiu Clinic,058-7210139,28.883338,-28.598146
 Free State,Clinic,Thaba Nchu Clinic,051-8751298,26.848073,-29.21871
 Free State,Clinic,Thaba Phatswa Clinic,051-9640099,27.124904,-29.312954
 Free State,Clinic,Thabang Clinic,058-7131327,28.829767,-28.609871
-Free State,District Hospital,Thabong Clinic,057 354 2111,26.79163,-27.96402
+Free State,District Hospital,Thabong Clinic,573542111,26.79163,-27.96402
 Free State,District Hospital,Thebe Hospital,058-6241800,29.13666,-28.271947
 Free State,Clinic,Thembalethu Clinic,051-6830131,26.536054,-30.212867
 Free State,Clinic,Thusa Bophelo Clinic,058-6430028,28.978066,-27.835895
@@ -833,7 +833,7 @@ Free State,Clinic,Tiger River Clinic,073-2059786,26.78943,-29.12047
 Free State,Clinic,Tina Moloi Clinic,058-7894114,28.85617,-28.609704
 Free State,District Hospital,Tokollo Hospital,058-8523030,27.961691,-27.289189
 Free State,Clinic,TS Mahloko Clinic,051-5321641,26.71661,-29.24308
-Free State,Clinic,Tsatsi SPS Clinic,016 9742160,27.855738,-26.844407
+Free State,Clinic,Tsatsi SPS Clinic,169742160,27.855738,-26.844407
 Free State,Clinic,Tseki Clinic,058-7132435,28.772019,-28.585681
 Free State,Clinic,Tshepong (Kroonstad) Clinic,056-2144257,27.174082,-27.638847
 Free State,Clinic,Tshepong (Verkeerdevlei) Clinic,051-8411028,26.76212,-28.8401
@@ -843,10 +843,10 @@ Free State,Clinic,Tshwaraganang (Hertzogville) Clinic,053-4219622,25.49985,-28.1
 Free State,Clinic,Tumahole Clinic,056-8198970,27.467778,-26.916282
 Free State,Clinic,Tweefontein Clinic,083-2660439,26.92562,-29.37017
 Free State,Clinic,Tweespruit Clinic,051-9630111,27.029634,-29.185178
-Free State,Central Hospital,Universitas (C) Hospital,051-405 3557,26.183746,-29.116587
-Free State,Clinic,Vaal Rock Clinic,051 8212 024,26.46135,-28.68152
+Free State,Central Hospital,Universitas (C) Hospital,051-4053557,26.183746,-29.116587
+Free State,Clinic,Vaal Rock Clinic,518212024,26.46135,-28.68152
 Free State,Clinic,Vanstadensrus Clinic,051-5841118,27.0136,-29.9852
-Free State,Clinic,Villiers Clinic,058 8210390,28.59694,-27.028574
+Free State,Clinic,Villiers Clinic,588210390,28.59694,-27.028574
 Free State,Clinic,Virginia Clinic,057-2127078,26.86413,-28.10762
 Free State,Clinic,Vrede Clinic,058-1333197,29.155285,-27.434361
 Free State,Clinic,Welkom Clinic,057-3575432,26.7414,-27.98545
@@ -857,12 +857,12 @@ Free State,Clinic,Winnie Mandela (Botshabelo) Clinic,051-5330306,26.70333,-29.21
 Free State,Clinic,Winnie Mandela (Rouxville) Clinic,051-6630122,26.830899,-30.407733
 Free State,Clinic,Zamani Clinic,058-9240407,29.56125,-27.66872
 Free State,CHC,Zamdela CHC,016-9741110,27.846088,-26.842064
-Gauteng,Clinic,17 Esselen Street Clinic,011-7256711/2,28.044939,-26.190896
+Gauteng,Clinic,17 Esselen Street Clinic,011-7256711/011-7256712,28.044939,-26.190896
 Gauteng,Clinic,4th Avenue Clinic,011-882-8930,28.09007,-26.1051
 Gauteng,Clinic,80 Albert Street Clinic,011-3346009/0538,28.049984,-26.208026
 Gauteng,Clinic,Adelaide Tambo Clinic,082-4581023,28.23326,-25.58195
 Gauteng,Clinic,Albertina Sisulu Clinic,016-595-1093,27.84864,-26.57697
-Gauteng,Clinic,Alberton North Clinic,011-999-2263/2393,28.128664,-26.259778
+Gauteng,Clinic,Alberton North Clinic,011-999-2263/011-999-2393,28.128664,-26.259778
 Gauteng,Clinic,Alexandra 8th Avenue Clinic,011-4438211,28.096131,-26.109772
 Gauteng,CHC,Alexandra CHC,011-4401231,28.090625,-26.116169
 Gauteng,Clinic,Alexandra East Bank Clinic,011-882-0905,28.11028,-26.106843
@@ -873,13 +873,13 @@ Gauteng,Clinic,Azaadville Clinic,011-4131345,27.75829,-26.17092
 Gauteng,Clinic,Badirile Clinic,011-4162100,27.59278,-26.13027
 Gauteng,Clinic,Barcelona Clinic,011-999-6991,28.452586,-26.109221
 Gauteng,Clinic,Barney Molokoane Clinic,011-8506587,27.878977,-26.492298
-Gauteng,Clinic,Bedfordview Clinic,011-999-0077/75,28.134833,-26.178856
+Gauteng,Clinic,Bedfordview Clinic,011-999-0077/011-999-0075,28.134833,-26.178856
 Gauteng,Clinic,Bekkersdal East Clinic,076-6657525,27.70399,-26.28345
 Gauteng,CHC,Bekkersdal West CHC,011-7551946,27.6974,-26.28619
 Gauteng,Clinic,Berario Clinic,011-4765642,27.953049,-26.136176
 Gauteng,Clinic,Beverly Hills Clinic,016-590-4002,27.82381,-26.54248
 Gauteng,Clinic,Bezvalley Clinic,011-6480617/011-4322828,28.088153,-26.186704
-Gauteng,Clinic,Birchleigh Clinic,011-999-4190/3,28.228115,-26.067763
+Gauteng,Clinic,Birchleigh Clinic,011-999-4190/011-999-4193,28.228115,-26.067763
 Gauteng,Clinic,Birchleigh North Clinic,011-999-9147,28.22992,-26.052617
 Gauteng,Satellite Clinic,Blybank Satellite Clinic,083-4277043,27.472684,-26.342542
 Gauteng,Clinic,Blyvooruitsig Clinic,018-7899623,27.37695,-26.39638
@@ -889,47 +889,47 @@ Gauteng,CHC,Boipatong CHC,016-988-3487,27.84787,-26.67216
 Gauteng,Clinic,Boitumelo Clinic,016-989-7098,27.82432,-26.56237
 Gauteng,Clinic,Boksburg Civic Centre Clinic,011-999-5929,28.251016,-26.222354
 Gauteng,Clinic,Boksburg North Clinic,011-999-5541,28.252593,-26.208984
-Gauteng,Clinic,Bonaero Park Clinic,011-999-3506/08,28.256042,-26.119863
+Gauteng,Clinic,Bonaero Park Clinic,011-999-3506/011-999-3508,28.256042,-26.119863
 Gauteng,Clinic,Bophelong (Region 2) Clinic,011-2611212,28.190368,-26.004592
 Gauteng,Clinic,Bophelong (Region 6) Clinic,011-9319001,27.80778,-26.24417
 Gauteng,CDC,Bophelong (Region B) CDC,011-9862409,27.79729,-26.6939
 Gauteng,Clinic,Bophelong (Region C) Clinic,012-375-6085,28.0534,-25.77192
 Gauteng,Clinic,Bosmont Clinic,011-4743413,27.957303,-26.189144
-Gauteng,Clinic,Brackenhurst Clinic,011-867-3610/1,28.097271,-26.31419
+Gauteng,Clinic,Brackenhurst Clinic,011-867-3610/011-867-3611,28.097271,-26.31419
 Gauteng,Clinic,Bristlecone Clinic,082-3731179,27.856613,-26.450595
 Gauteng,Clinic,Bronkhorstspruit Clinic,013-9326283,28.743217,-25.809217
 Gauteng,Clinic,Calcot Dhlephu Clinic,011-999-8007,28.378194,-26.376669
 Gauteng,Clinic,Carletonville Central Clinic,018-7889634,27.39726,-26.35791
 Gauteng,District Hospital,Carletonville hospital,018-7881700,27.39446,-26.34704
-Gauteng,Central Hospital,Charlotte Maxeke Hospital,011-4883792/4911,28.044255,-26.176728
-Gauteng,CHC,Chiawelo CHC,011 9862159,27.865437,-26.279299
+Gauteng,Central Hospital,Charlotte Maxeke Hospital,011-4883792/011-4884911,28.044255,-26.176728
+Gauteng,CHC,Chiawelo CHC,119862159,27.865437,-26.279299
 Gauteng,Clinic,Chief Albert Luthuli Clinic,011-999-6954,28.387513,-26.158635
 Gauteng,Central Hospital,Chris Hani Baragwanath Hospital,011-9338000,27.943919,-26.260553
 Gauteng,Clinic,Claremont Clinic,011-4779936,27.955838,-26.178211
 Gauteng,Clinic,Crosby Clinic,011-8379119,27.989892,-26.1926
-Gauteng,Clinic,Crown Gardens Clinic,011-4332351/2335,28.00458,-26.24917
+Gauteng,Clinic,Crown Gardens Clinic,011-4332351/011-4332335,28.00458,-26.24917
 Gauteng,Clinic,Crystal Park Clinic,011-999-6690,28.370709,-26.137101
 Gauteng,Specialised Psychiatric Hospital,Cullinan Rehabilitation Hospital,012-7347000,28.538929,-25.691202
 Gauteng,Clinic,Dan Kubheka Clinic,011-999-6666,28.394479,-26.187793
 Gauteng,Clinic,Danville Clinic,012-386-6052,28.13359,-25.74772
 Gauteng,CHC,Dark City CHC,013-9357027,28.726485,-25.674777
 Gauteng,Clinic,Daspoort Poli Clinic,012-379-3453,28.13167,-25.71389
-Gauteng,Clinic,Daveyton East Clinic,011-999-6926/4,28.439658,-26.134454
-Gauteng,Clinic,Daveyton Ext Clinic,011-999-6926/4,28.261911,-26.075501
+Gauteng,Clinic,Daveyton East Clinic,011-999-6926/011-999-6924,28.439658,-26.134454
+Gauteng,Clinic,Daveyton Ext Clinic,011-999-6926/011-999-6924,28.261911,-26.075501
 Gauteng,Clinic,Davidsonville Clinic,011-7635932,27.848818,-26.154778
 Gauteng,Clinic,Dawn Park Clinic,011-862-1008,28.257654,-26.306469
 Gauteng,Clinic,De Wagensdrift Satellite Clinic,012-7352337,28.3141,-25.3051
 Gauteng,Clinic,Diepkloof LA Clinic,011-9851104,27.946145,-26.237208
 Gauteng,Clinic,Diepkloof Prov Clinic,011-9854501,27.94776,-26.240192
 Gauteng,Clinic,Diepsloot South Clinic,011-4647182,28.00507,-25.93107
-Gauteng,Clinic,Dilopye Clinic,012 710 2903,28.19353,-25.38296
+Gauteng,Clinic,Dilopye Clinic,127102903,28.19353,-25.38296
 Gauteng,CHC,Discoverers CHC,011-6741200,27.894437,-26.166661
 Gauteng,Clinic,DMA Kromdraai Clinic,083-4108454,27.78312,-25.98821
 Gauteng,Satellite Clinic,Doornpoort Satellite Clinic,082-612-0511,28.25141,-25.6559
 Gauteng,Central Hospital,Dr George Mukhari Hospital,012-5293875,28.01216,-25.61904
 Gauteng,Clinic,Dr Helga Kuhn Clinic,016-581-0812,27.83708,-26.49727
 Gauteng,Clinic,Dr Ramirez Martinez Clinic,011-6608737,27.75266,-26.07464
-Gauteng,Clinic,Dr Yusuf Dadoo Gateway Clinic,011-951-6213/14,27.78333,-26.09934
+Gauteng,Clinic,Dr Yusuf Dadoo Gateway Clinic,011-951-6213/011-951-6214,27.78333,-26.09934
 Gauteng,District Hospital,Dr Yusuf Dadoo Hospital,011-951-6000,27.78386,-26.09965
 Gauteng,Clinic,Dresser Clinic,011-999-2850,28.135943,-26.355038
 Gauteng,Clinic,Driehoek Clinic,016-932-5679,27.8462,-26.72609
@@ -937,7 +937,7 @@ Gauteng,Clinic,Duduza Clinic,011-999-9099,28.415497,-26.373584
 Gauteng,Clinic,Dukathole Clinic,011-872-1777,28.190854,-26.22604
 Gauteng,Clinic,East Lynne Clinic,012-8002288,28.2846,-25.70512
 Gauteng,Clinic,Ebony Park / Kaalfontein Clinic,011-2610228,28.179631,-25.994083
-Gauteng,Clinic,Eden Park Clinic,011-999-2114(2741),28.125998,-26.377001
+Gauteng,Clinic,Eden Park Clinic,011-999-2114/011-999-2741,28.125998,-26.377001
 Gauteng,Clinic,Edenvale Clinic,011-4525168,28.148708,-26.134842
 Gauteng,Regional Hospital,Edenvale Hospital,011-321-6000,28.128374,-26.127921
 Gauteng,CHC,Eersterust CHC,012-8061300,28.30801,-25.71645
@@ -986,10 +986,10 @@ Gauteng,Clinic,Helderkruin Clinic,011-7645403,27.869461,-26.13764
 Gauteng,Regional Hospital,Helen Joseph Hospital,011-4891011,27.99031,-26.183916
 Gauteng,Clinic,Hercules Clinic,082-6120511,28.1477,-25.712
 Gauteng,Clinic,Hikhensile Clinic,011-3102147,28.204485,-25.992591
-Gauteng,CHC,Hillbrow CHC,011-6943775/6,28.045768,-26.19298
+Gauteng,CHC,Hillbrow CHC,011-6943775/011-6943776,28.045768,-26.19298
 Gauteng,Clinic,Holani Clinic,012-8125026,28.37559,-25.70436
 Gauteng,Clinic,Itireleng (Region B) Clinic,011-999-4371,28.178177,-26.045024
-Gauteng,CHC,Itireleng CHC,011 9890304,27.871354,-26.217873
+Gauteng,CHC,Itireleng CHC,119890304,27.871354,-26.217873
 Gauteng,Clinic,Itumeleng Clinic,014-5761019,27.60122,-25.89636
 Gauteng,Clinic,Jabavu/Vusabantu Clinic,011-9844014,27.871703,-26.253394
 Gauteng,CHC,Jabulane Dumane CHC,011-863-7791,28.218952,-26.367295
@@ -1037,7 +1037,7 @@ Gauteng,Clinic,Lawley Clinic,011-855-5869,27.81197,-26.391423
 Gauteng,Clinic,Lenasia Clinic,011-8520216/011-8526073/4/5,27.850776,-26.314757
 Gauteng,Clinic,Lenasia Ext 10 Clinic,011-857-1559,27.872674,-26.339735
 Gauteng,Clinic,Lenasia Ext 2 Clinic,011-8521055,27.825311,-26.32109
-Gauteng,CHC,Lenasia South CHC,011-2139600/9612,27.850052,-26.378414
+Gauteng,CHC,Lenasia South CHC,011-2139600/011-2139612,27.850052,-26.378414
 Gauteng,Clinic,Lenasia South Civic Centre Clinic,011-855-1617,27.862299,-26.388664
 Gauteng,Clinic,Leondale Clinic,011-999-1354,28.18256,-26.30198
 Gauteng,Regional Hospital,Leratong Hospital,011-4113531,27.80774,-26.17133
@@ -1061,7 +1061,7 @@ Gauteng,Clinic,Mary Moodley Memorial Clinic,011-4218680,28.300647,-26.213975
 Gauteng,Clinic,Mayfair Clinic,011-8372380,28.01577,-26.207251
 Gauteng,Clinic,Mayibuye Clinic,011-311-2021,28.171429,-26.033668
 Gauteng,Clinic,Meadowlands Zone 2 Prov Clinic,011-9363087,27.899035,-26.219355
-Gauteng,Clinic,Mercy Winterveldt NGO Clinic,012 704 1023,28.059747,-25.452144
+Gauteng,Clinic,Mercy Winterveldt NGO Clinic,127041023,28.059747,-25.452144
 Gauteng,Clinic,Michael Maponya Prov Clinic,011-9332503,27.908911,-26.263189
 Gauteng,Clinic,Mid Ennerdale Clinic,011-855-5615,27.846871,-26.413982
 Gauteng,Clinic,Midrand West Clinic,011-3154379,28.11205,-25.986831
@@ -1073,13 +1073,13 @@ Gauteng,Clinic,Mogale Clinic,014-5771817,27.5358,-25.99729
 Gauteng,CHC,Mohlakeng CHC,011-4143108,27.69409,-26.2213
 Gauteng,Clinic,Moleleki Clinic,011-999-1661,28.178108,-26.384481
 Gauteng,Clinic,Moroka Clinic,011-9841914,27.865939,-26.261762
-Gauteng,Clinic,Motsamai Clinic,011-999-1436/39,28.162993,-26.325499
+Gauteng,Clinic,Motsamai Clinic,011-999-1436/011-999-1439,28.162993,-26.325499
 Gauteng,Clinic,Mountain View Clinic,083-4009102,27.861698,-26.431908
 Gauteng,Clinic,Mpumelelo (Evaton North) Clinic,016-583-1736,27.85491,-26.51176
 Gauteng,Clinic,Mpumelelo Clinic,011-2610910,28.208712,-25.985886
 Gauteng,Clinic,Muldersdrift Clinic,082-4950953,27.85714,-26.0157
 Gauteng,Clinic,Naledi Porta Cabin,011-9804926,27.82008,-26.25998
-Gauteng,Regional Hospital,Natalspruit Hospital,011-3890664/0518,28.145342,-26.32597
+Gauteng,Regional Hospital,Natalspruit Hospital,011-3890664/011-3890518,28.145342,-26.32597
 Gauteng,Clinic,Nellmapius Clinic,012-3585779,28.35031,-25.73672
 Gauteng,Clinic,New Eersterus Clinic,083-2886942,28.14467,-25.40667
 Gauteng,Clinic,Nigel Clinic,011-999-9324,28.467894,-26.418988
@@ -1087,7 +1087,7 @@ Gauteng,Clinic,Nokuphila Clinic,011-9887924,27.851058,-26.230513
 Gauteng,CHC,Nokuthela Ngwenya CHC,011-7379700,28.421001,-26.350594
 Gauteng,Clinic,Noordgesig Prov Clinic,011-9351129,27.936081,-26.22547
 Gauteng,Satellite Clinic,Noordheuwel Satellite Clinic,011-9541491,27.80777,-26.0896
-Gauteng,Clinic,Northmead Clinic,011-4250744/42,28.312602,-26.159321
+Gauteng,Clinic,Northmead Clinic,011-4250744/011-4250742,28.312602,-26.159321
 Gauteng,District Hospital,Odi Hospital,012-725-2300,28.02245,-25.5184
 Gauteng,Clinic,Odirileng Maponya Clinic,011-4108433,27.78325,-26.15897
 Gauteng,Clinic,Olievenhoutbosch Ext 13 Clinic,012-6521149,28.09309,-25.91141
@@ -1095,7 +1095,7 @@ Gauteng,Clinic,Olifantsfontein Clinic,011-999-4440,28.22838,-25.956484
 Gauteng,Clinic,Onverwacht Clinic,082-8564582,28.3556,-25.3611
 Gauteng,Clinic,OR Tambo Clinic,011-0522854,28.01842,-25.92222
 Gauteng,Clinic,Orange Farm Ext 7 Clinic,011-8503527,27.848239,-26.481881
-Gauteng,Clinic,Orchards Clinic,011-6407233/7265,28.085518,-26.154668
+Gauteng,Clinic,Orchards Clinic,011-6407233/011-6407265,28.085518,-26.154668
 Gauteng,Clinic,Orlando Prov Clinic,011-9355681,27.919191,-26.237367
 Gauteng,Clinic,Osizweni Clinic,016-590-4004,27.83468,-26.5225
 Gauteng,Clinic,Palmridge Clinic,011-999-0925,28.143303,-26.387353
@@ -1108,7 +1108,7 @@ Gauteng,Clinic,Phedisong 1 MOU,012-7032993,27.98804,-25.61499
 Gauteng,CHC,Phedisong 4 CHC,012-7032993,27.98139,-25.59972
 Gauteng,Clinic,Phedisong 6 Clinic,012-703-4700,28.00799,-25.60489
 Gauteng,Clinic,Phenduka Clinic,011-905-3939,28.141876,-26.339783
-Gauteng,CHC,Phillip Moyo CHC,011-4264902/3,28.484631,-26.11976
+Gauteng,CHC,Phillip Moyo CHC,011-4264902/011-4264903,28.484631,-26.11976
 Gauteng,CHC,Phola Park CHC,011-3851764/011-9992660,28.132076,-26.371772
 Gauteng,Regional Hospital,Pholosong Hospital,011-8125152,28.377519,-26.340965
 Gauteng,Clinic,Phomolong Clinic,012-358-9989,28.0427,-25.7804
@@ -1122,7 +1122,7 @@ Gauteng,Clinic,Protea South Clinic,010-233-0062,27.840407,-26.285585
 Gauteng,Clinic,Rabie Ridge Clinic,011-3101977,28.171823,-26.019409
 Gauteng,Regional Hospital,Rahima Moosa Hospital,011-4709034,27.973852,-26.188128
 Gauteng,CHC,Ramokonopi CHC,011-903-1795,28.161819,-26.360614
-Gauteng,Clinic,Ramotse Clinic,012 719 8171,28.29507,-25.3576
+Gauteng,Clinic,Ramotse Clinic,127198171,28.29507,-25.3576
 Gauteng,Clinic,Randburg Clinic,011-7879393,28.005052,-26.095585
 Gauteng,Clinic,Randgate Clinic,011-6931854,27.68361,-26.16919
 Gauteng,Clinic,Randvaal Clinic,016-360-5836,28.04482,-26.51518
@@ -1164,7 +1164,7 @@ Gauteng,Clinic,Sinqobile Clinic,011-9880788,27.885253,-26.219591
 Gauteng,Clinic,Siphumlile Clinic,011-7658085,27.83265,-26.222248
 Gauteng,Specialised Tb Hospital,Sizwe Tropical Diseases Hospital,011-5314300,28.12496,-26.13745
 Gauteng,Clinic,Skinner Street Clinic,012-354-1654,28.1998,-25.73271
-Gauteng,Clinic,Slovo Park Clinic,011 999 6661,28.489241,-26.214283
+Gauteng,Clinic,Slovo Park Clinic,119996661,28.489241,-26.214283
 Gauteng,Clinic,Sokhulumi Clinic,082-3352802,28.89733,-25.602948
 Gauteng,Clinic,Sol Plaatjies Clinic,011-0265104,27.86061,-26.162742
 Gauteng,Clinic,Sonto Thobela Clinic,011-999-9277,28.395179,-26.383828
@@ -1183,7 +1183,7 @@ Gauteng,Specialised Psychiatric Hospital,Sterkfontein Hospital,011-951-8000,27.7
 Gauteng,Central Hospital,Steve Biko Academic Hospital,012-3541657,28.19978,-25.73271
 Gauteng,CHC,Stretford CHC,011-8504578,27.869155,-26.469747
 Gauteng,Clinic,Sunriseview Clinic,011-999-1915,28.19707,-26.39157
-Gauteng,Clinic,Suurman Clinic,012 710 0059,28.210284,-25.377977
+Gauteng,Clinic,Suurman Clinic,127100059,28.210284,-25.377977
 Gauteng,Clinic,Tamaho Clinic,084-3260692,28.143252,-26.310812
 Gauteng,Regional Hospital,Tambo Memorial Hospital,011-898-8000,28.245817,-26.218691
 Gauteng,Specialised Psychiatric Hospital,Tara H Moross Centre Hospital,011-5353000,28.036975,-26.108635
@@ -1206,7 +1206,7 @@ Gauteng,Clinic,Tsakane Ext 10 Clinic,011-9996661,28.37905,-26.38442
 Gauteng,Clinic,Tshepiso Clinic,016-451-8939,27.86821,-26.6741
 Gauteng,Clinic,Tshepisong Clinic,011-7658396,27.81243,-26.19072
 Gauteng,District Hospital,Tshwane District Hospital,012-3545602,28.1998,-25.73271
-Gauteng,Specialised Rehabilitation Hospital,Tshwane Rehabilitation Hospital,"0123546131, 0123546163",28.19899,-25.73651
+Gauteng,Specialised Rehabilitation Hospital,Tshwane Rehabilitation Hospital,"0123546131,0123546163",28.19899,-25.73651
 Gauteng,Clinic,Tswelopele Clinic,011-999-6027,28.19216,-26.32825
 Gauteng,Clinic,Ubuntu Clinic,079-8799304,28.431111,-25.791111
 Gauteng,Clinic,Usizolwethu Clinic,071-688-0141,28.77772,-26.35174
@@ -1215,7 +1215,7 @@ Gauteng,Clinic,Venterspos Clinic,011-6980316,27.62203,-26.27367
 Gauteng,Clinic,Vischuil Clinic,071-6869983,28.58501,-26.2993
 Gauteng,Clinic,Vlakfontein Clinic,011-213-9900,27.876804,-26.371493
 Gauteng,Clinic,Vosloorus Ext 28 Clinic,011-999-5315,28.203143,-26.377715
-Gauteng,Clinic,Vosloorus Ext 9 Clinic,011-999-6249/30,28.218515,-26.348032
+Gauteng,Clinic,Vosloorus Ext 9 Clinic,011-999-6249/011-999-6230,28.218515,-26.348032
 Gauteng,Clinic,Vosloorus Poly Clinic,011-999-6238,28.197825,-26.349342
 Gauteng,Clinic,Wannenburg Clinic,011-8284836,28.168334,-26.189315
 Gauteng,Clinic,Wedela Clinic,018-7801021,27.38799,-26.46024
@@ -1249,13 +1249,13 @@ Gauteng,Clinic,Zuurbekom Clinic,076-7004899,27.70312,-26.31693
 KwaZulu-Natal,Clinic,Acaciavale Clinic,036-6376833,29.796258,-28.586948
 KwaZulu-Natal,Clinic,Adams Mission Clinic,072-2566880,30.817782,-30.017686
 KwaZulu-Natal,Clinic,Addington Gateway Clinic,031-3272796,31.041237,-29.860627
-KwaZulu-Natal,Regional Hospital,Addington Hospital,031 327 2000,31.041967,-29.861953
-KwaZulu-Natal,Clinic,AE Haviland Memorial Clinic,036 3541872,30.093066,-28.854031
-KwaZulu-Natal,Clinic,Altona Clinic,034 413 8000,31.2124,-27.3812
-KwaZulu-Natal,Clinic,Amakhabela Clinic,033 444 0662,30.85931,-28.85421
+KwaZulu-Natal,Regional Hospital,Addington Hospital,313272000,31.041967,-29.861953
+KwaZulu-Natal,Clinic,AE Haviland Memorial Clinic,363541872,30.093066,-28.854031
+KwaZulu-Natal,Clinic,Altona Clinic,344138000,31.2124,-27.3812
+KwaZulu-Natal,Clinic,Amakhabela Clinic,334440662,30.85931,-28.85421
 KwaZulu-Natal,Clinic,Amandlalathi Clinic,033-4440840,30.985713,-28.87761
 KwaZulu-Natal,Clinic,Amanzimtoti Clinic,031-3115601,30.880621,-30.054121
-KwaZulu-Natal,Clinic,Amaoti Clinic,031 5797159,30.97942,-29.68804
+KwaZulu-Natal,Clinic,Amaoti Clinic,315797159,30.97942,-29.68804
 KwaZulu-Natal,Clinic,Amatimatolo Clinic,033-4459319,30.823939,-29.139533
 KwaZulu-Natal,Clinic,Amazizi Clinic,036-4389926,29.042509,-28.680084
 KwaZulu-Natal,Clinic,Appelsbosch Gateway Clinic,032-2948000,30.843395,-29.390638
@@ -1270,18 +1270,18 @@ KwaZulu-Natal,Clinic,Ballito Clinic,032-9468009,31.206064,-29.528464
 KwaZulu-Natal,Clinic,Bambanani Clinic,033-5040071,30.847694,-29.269278
 KwaZulu-Natal,Clinic,Baniyena Clinic,031-9769201,30.587649,-30.118487
 KwaZulu-Natal,Clinic,Baphumile Clinic,039-6847000,30.35442,-30.55292
-KwaZulu-Natal,Clinic,Beatrice Street Clinic,0313091646/7931,31.018057,-29.85175
+KwaZulu-Natal,Clinic,Beatrice Street Clinic,0313091646/03130917931,31.018057,-29.85175
 KwaZulu-Natal,Clinic,Belgrade Clinic,034-4138011,31.282969,-27.267152
 KwaZulu-Natal,District Hospital,Benedictine Hospital,035-8317151,31.639414,-27.892169
 KwaZulu-Natal,Clinic,Bergville Clinic,036-4481805,29.34958,-28.73002
 KwaZulu-Natal,Clinic,Besters Clinic,031-5031165,30.985479,-29.727671
-KwaZulu-Natal,Clinic,Bethesda Gateway Clinic,035 595 1004,32.08113,-27.57445
+KwaZulu-Natal,Clinic,Bethesda Gateway Clinic,355951004,32.08113,-27.57445
 KwaZulu-Natal,District Hospital,Bethesda Hospital,035-5951004,32.081838,-27.575072
 KwaZulu-Natal,Clinic,Bhekabantu Clinic,035-5928010,30.336229,-26.945103
 KwaZulu-Natal,Clinic,Bhekimpilo Trust - Bekulwandle Clinic,076-6888891,30.89166,-29.98935
 KwaZulu-Natal,Clinic,Bhekimpilo Trust - Kusakusa Clinic,031-3272000,30.893843,-30.013642
-KwaZulu-Natal,Clinic,Bhekumthetho Clinic,083 236 7570,30.73798,-27.97316
-KwaZulu-Natal,Clinic,Bhekuzulu Clinic,034 981 4892,30.821972,-27.777203
+KwaZulu-Natal,Clinic,Bhekumthetho Clinic,832367570,30.73798,-27.97316
+KwaZulu-Natal,Clinic,Bhekuzulu Clinic,349814892,30.821972,-27.777203
 KwaZulu-Natal,Clinic,Bhobhoyi Clinic,039-6877311,30.38568,-30.74127
 KwaZulu-Natal,Clinic,Bhomela Clinic,039-6850176,30.338863,-30.76862
 KwaZulu-Natal,Clinic,Bluff Clinic,031-4661970,31.025825,-29.90041
@@ -1290,7 +1290,7 @@ KwaZulu-Natal,CHC,Bruntville CHC,033-2631545,30.010947,-29.214887
 KwaZulu-Natal,Clinic,Buchanana Clinic,035-7927046,31.756491,-28.593299
 KwaZulu-Natal,Clinic,Busingatha Clinic,036-4389997,28.99807,-28.70648
 KwaZulu-Natal,Clinic,Buxedene Clinic,035-8380296,31.85108,-28.00432
-KwaZulu-Natal,Clinic,Caluza Clinic,0333994362/4062,30.311067,-29.645524
+KwaZulu-Natal,Clinic,Caluza Clinic,0333994362/0333994062,30.311067,-29.645524
 KwaZulu-Natal,Clinic,Caneside Clinic,031-5051268,31.016716,-29.68658
 KwaZulu-Natal,District Hospital,Catherine Booth Hospital,035-4748407,31.474355,-28.998663
 KwaZulu-Natal,CHC,Cato Manor CHC,031-2614260,30.970065,-29.862055
@@ -1299,7 +1299,7 @@ KwaZulu-Natal,Clinic,Ceza Gateway Clinic,035-8325000,31.377532,-27.996182
 KwaZulu-Natal,District Hospital,Ceza Hospital,0358320056/0358325000,31.377532,-27.996182
 KwaZulu-Natal,Specialised Tb Hospital,Charles James TB Hospital,031-9057800,30.885401,-30.017405
 KwaZulu-Natal,Clinic,Charles Johnson Memorial Gateway Clinic,034-2710144,30.67332,-28.21757
-KwaZulu-Natal,District Hospital,Charles Johnson Memorial Hospital,034 2716400,30.674552,-28.210575
+KwaZulu-Natal,District Hospital,Charles Johnson Memorial Hospital,342716400,30.674552,-28.210575
 KwaZulu-Natal,Clinic,Charlestown Clinic,071-7355009,29.872714,-27.423586
 KwaZulu-Natal,Clinic,Chatsworth Township Centre Clinic,031-4013180,30.879537,-29.911454
 KwaZulu-Natal,Clinic,Chesterville Provincial Clinic,031-2640854,30.94979,-29.85591
@@ -1307,65 +1307,65 @@ KwaZulu-Natal,Clinic,Chibini Clinic,032-2949353,30.932286,-29.274769
 KwaZulu-Natal,Clinic,Christ the King Gateway Clinic,039-8347500,30.078866,-30.162433
 KwaZulu-Natal,District Hospital,Christ the King Hospital,039-8347500,30.078866,-30.162433
 KwaZulu-Natal,Clinic,Church of Scotland Gateway Clinic,033-4930117,30.45009,-28.74667
-KwaZulu-Natal,District Hospital,Church of Scotland Hospital,033 4930004,30.449435,-28.746026
+KwaZulu-Natal,District Hospital,Church of Scotland Hospital,334930004,30.449435,-28.746026
 KwaZulu-Natal,Clinic,Church Street TB Clinic,033-3922377,30.381542,-29.599394
 KwaZulu-Natal,Clinic,Chwezi Clinic,035-4761006,30.989723,-28.44769
 KwaZulu-Natal,Clinic,Cinci Clinic,035-5510290,32.115585,-28.477693
 KwaZulu-Natal,Clinic,Clairwood Gateway Clinic,031-4515011,30.956962,-29.935579
-KwaZulu-Natal,Specialised Chronic Hospital,Clairwood Hospital,031 4515180,30.956962,-29.935579
-KwaZulu-Natal,Clinic,Clare Estate Clinic,0312692955/3131,30.974434,-29.820894
+KwaZulu-Natal,Specialised Chronic Hospital,Clairwood Hospital,314515180,30.956962,-29.935579
+KwaZulu-Natal,Clinic,Clare Estate Clinic,0312692955/0312693131,30.974434,-29.820894
 KwaZulu-Natal,Clinic,Clermont Clinic,031-7073482,30.892895,-29.795223
 KwaZulu-Natal,Clinic,Collessie Clinic,078-8529693,30.522552,-28.682122
-KwaZulu-Natal,Clinic,Commercial City FP Clinic,0313055016/44836,30.021807,-29.856426
+KwaZulu-Natal,Clinic,Commercial City FP Clinic,0313055016/0313044836,30.021807,-29.856426
 KwaZulu-Natal,Clinic,Connor Street Clinic,036-3427873,29.874672,-29.009264
 KwaZulu-Natal,Clinic,Copesville Clinic,033-3931470,30.423481,-29.554028
-KwaZulu-Natal,Clinic,Cornfields Clinic,036 4222900,29.86327,-28.862579
+KwaZulu-Natal,Clinic,Cornfields Clinic,364222900,29.86327,-28.862579
 KwaZulu-Natal,Clinic,Craigieburn Clinic,031-3115402,30.753844,-30.199527
 KwaZulu-Natal,Clinic,Cramond Satellite Clinic,033-5691881,30.407163,-29.38045
-KwaZulu-Natal,Clinic,Cwaka Clinic,034 6621235,30.464294,-28.65783
+KwaZulu-Natal,Clinic,Cwaka Clinic,346621235,30.464294,-28.65783
 KwaZulu-Natal,Clinic,Danganya Clinic,039-9730136,30.816935,-30.171927
 KwaZulu-Natal,Clinic,Darnall Clinic,032-4861590,31.35502,-29.27401
 KwaZulu-Natal,Clinic,Dengeni Clinic,072-1010964,31.78213,-28.00168
 KwaZulu-Natal,Clinic,Dinintuli Clinic,035-3346010,30.672664,-28.704888
 KwaZulu-Natal,Clinic,Dlangezwa Clinic,039-9796057,30.67767,-30.17947
 KwaZulu-Natal,Clinic,Dokodweni Clinic,072-9909499,31.623657,-29.075387
-KwaZulu-Natal,Specialised Tb Hospital,Don McKenzie TB Hospital,031 7771155,30.738249,-29.739894
+KwaZulu-Natal,Specialised Tb Hospital,Don McKenzie TB Hospital,317771155,30.738249,-29.739894
 KwaZulu-Natal,Clinic,Dondotha Clinic,035-7959018,31.945737,-28.54413
 KwaZulu-Natal,Specialised Tb Hospital,Doris Goodwin TB Hospital,033-3981038,30.336945,-29.6484
-KwaZulu-Natal,Clinic,Douglas Clinic,034 2619108,30.283556,-28.529431
+KwaZulu-Natal,Clinic,Douglas Clinic,342619108,30.283556,-28.529431
 KwaZulu-Natal,Clinic,Driefontein Clinic,036-6319255,29.70243,-28.34324
 KwaZulu-Natal,Clinic,Dududu Clinic,039-9740985,30.60341,-30.19445
 KwaZulu-Natal,Clinic,Dukuza Clinic,036-4386633,29.20812,-28.75036
-KwaZulu-Natal,District Hospital,Dundee Hospital,034 2121111,30.229241,-28.172115
-KwaZulu-Natal,Specialised Tb Hospital,Dunstan Farrell TB Hospital,0396991469/70,30.5125,-30.5357
-KwaZulu-Natal,Clinic,Durnacol Clinic,034 6225002,30.021392,-28.047426
+KwaZulu-Natal,District Hospital,Dundee Hospital,342121111,30.229241,-28.172115
+KwaZulu-Natal,Specialised Tb Hospital,Dunstan Farrell TB Hospital,0396991469/0396991470,30.5125,-30.5357
+KwaZulu-Natal,Clinic,Durnacol Clinic,346225002,30.021392,-28.047426
 KwaZulu-Natal,Clinic,East Griqualand and Usher Memorial Gateway Clinic,039-7978187,29.4156,-30.54558
 KwaZulu-Natal,District Hospital,East Griqualand and Usher Memorial Hospital,039-7978000,29.4156,-30.54558
-KwaZulu-Natal,CHC,East/Boom CHC,0332644910/43200,30.386767,-29.588866
+KwaZulu-Natal,CHC,East/Boom CHC,0332644910/0332643200,30.386767,-29.588866
 KwaZulu-Natal,Clinic,Eastwood Clinic,033-3903524,30.42559,-29.5862
 KwaZulu-Natal,Clinic,Edendale Gateway Clinic,033-3954153,30.332083,-29.646661
-KwaZulu-Natal,Regional Hospital,Edendale Hospital,033 395 4000,30.332083,-29.646661
+KwaZulu-Natal,Regional Hospital,Edendale Hospital,333954000,30.332083,-29.646661
 KwaZulu-Natal,CHC,eDumbe CHC,034-9958501,30.824096,-27.408138
 KwaZulu-Natal,Clinic,Efaye Clinic,033-5049048,30.795456,-29.277401
 KwaZulu-Natal,Clinic,Ehlanzeni Clinic,076-9614325,30.69705,-28.8611
 KwaZulu-Natal,District Hospital,Ekhombe Hospital,035-8345000,30.893909,-28.642879
 KwaZulu-Natal,Clinic,Ekubungazeleni Clinic,072-2631358,31.767322,-27.875263
-KwaZulu-Natal,Clinic,Ekuhlehleni Clinic,035 591 0627,32.04265,-26.85419
-KwaZulu-Natal,Specialised Psychiatric Hospital,Ekuhlengeni Sanatorium Hospital,031 9057500,30.902481,-30.006791
+KwaZulu-Natal,Clinic,Ekuhlehleni Clinic,355910627,32.04265,-26.85419
+KwaZulu-Natal,Specialised Psychiatric Hospital,Ekuhlengeni Sanatorium Hospital,319057500,30.902481,-30.006791
 KwaZulu-Natal,Clinic,Ekuphileni (Umlazi L) Clinic,031-9081212,30.86333,-29.96793
 KwaZulu-Natal,Clinic,Ekuphumuleni Clinic,073-0562019,31.761099,-28.78098
-KwaZulu-Natal,Clinic,Ekuvukeni Clinic,034 2611018,30.157814,-28.465213
+KwaZulu-Natal,Clinic,Ekuvukeni Clinic,342611018,30.157814,-28.465213
 KwaZulu-Natal,Clinic,Elim Clinic,039-5430262,29.99437,-30.72638
 KwaZulu-Natal,Clinic,Embo CHC,031-7811116,30.552356,-30.078049
-KwaZulu-Natal,Clinic,Emfundweni Clinic,034 3667315,30.1975,-27.88854
+KwaZulu-Natal,Clinic,Emfundweni Clinic,343667315,30.1975,-27.88854
 KwaZulu-Natal,Clinic,Emkhwakhweni Clinic,034-4138004,31.52314,-27.34978
 KwaZulu-Natal,Clinic,Emmaus Gateway Clinic,036-4881570,29.38176,-28.85267
 KwaZulu-Natal,District Hospital,Emmaus Hospital,036-4881570,29.381454,-28.853704
 KwaZulu-Natal,Clinic,Empangeni Clinic,035-9075684,31.891809,-28.74827
-KwaZulu-Natal,Clinic,Empathe Clinic,034 2122121,30.23433,-28.16354
+KwaZulu-Natal,Clinic,Empathe Clinic,342122121,30.23433,-28.16354
 KwaZulu-Natal,Clinic,Emtulwa Clinic,033-5040155,30.763034,-29.233352
 KwaZulu-Natal,Clinic,Ensingweni Clinic,035-3374324,31.639692,-28.95678
-KwaZulu-Natal,Clinic,Eshane Clinic,033 4459595,30.833846,-29.101948
+KwaZulu-Natal,Clinic,Eshane Clinic,334459595,30.833846,-29.101948
 KwaZulu-Natal,Clinic,Eshowe Clinic,035-4733300,31.467966,-28.897908
 KwaZulu-Natal,Clinic,Eshowe Gateway Clinic,035-4734500,31.46631,-28.88894
 KwaZulu-Natal,District Hospital,Eshowe Hospital,035-4734500,31.465225,-28.888956
@@ -1374,22 +1374,22 @@ KwaZulu-Natal,Clinic,Esidakeni Clinic,035-8329001,31.34506,-28.01487
 KwaZulu-Natal,Clinic,Esidumbini Clinic,032-2949654,30.996251,-29.382577
 KwaZulu-Natal,Clinic,Esigodini Clinic,033-3993332,30.272098,-29.646573
 KwaZulu-Natal,Clinic,Esiyembeni Clinic,035-5507910,32.00485,-28.32931
-KwaZulu-Natal,Clinic,Estcourt Gateway Clinic,036 3427015,29.8939,-29.01992
-KwaZulu-Natal,District Hospital,Estcourt Hospital,036 3427000,29.894893,-29.0206
+KwaZulu-Natal,Clinic,Estcourt Gateway Clinic,363427015,29.8939,-29.01992
+KwaZulu-Natal,District Hospital,Estcourt Hospital,363427000,29.894893,-29.0206
 KwaZulu-Natal,Clinic,Ethembeni Clinic,033-4820003,30.497709,-28.856655
 KwaZulu-Natal,Clinic,Ewangu Clinic,035-4761002,31.290146,-28.789894
-KwaZulu-Natal,Clinic,Ezakheni 2 Clinic,036 6361045,29.916973,-28.618837
+KwaZulu-Natal,Clinic,Ezakheni 2 Clinic,366361045,29.916973,-28.618837
 KwaZulu-Natal,Clinic,Ezakheni E Clinic,036-6341283,29.88067,-28.63037
 KwaZulu-Natal,Clinic,Ezimfabeni Clinic,035-8739003,31.43037,-28.10519
-KwaZulu-Natal,Clinic,Ezimpondweni Clinic,035 562 9050,32.45963,-27.79844
+KwaZulu-Natal,Clinic,Ezimpondweni Clinic,355629050,32.45963,-27.79844
 KwaZulu-Natal,Clinic,EZwenelisha Clinic,035-5507906,32.31265,-28.41239
 KwaZulu-Natal,Clinic,Felani Clinic,034-2718319,30.77684,-28.41207
 KwaZulu-Natal,Clinic,Folweni Clinic,031-9000501,30.86357,-29.96785
 KwaZulu-Natal,Clinic,Forderville Clinic,036-3427887,29.87048,-28.99564
 KwaZulu-Natal,Specialised Psychiatric Hospital,Fort Napier Hospital(Psychiatric),033-3454221,30.369751,-29.613135
-KwaZulu-Natal,Specialised Tb Hospital,FOSA TB Hospital,031 5771215,30.968179,-29.785926
-KwaZulu-Natal,Clinic,Fredville Clinic,0317839001/2,30.666964,-29.707263
-KwaZulu-Natal,Clinic,Friesgewacht Clinic,034 996 0024,30.953454,-27.3900902
+KwaZulu-Natal,Specialised Tb Hospital,FOSA TB Hospital,315771215,30.968179,-29.785926
+KwaZulu-Natal,Clinic,Fredville Clinic,0317839001/0317839002,30.666964,-29.707263
+KwaZulu-Natal,Clinic,Friesgewacht Clinic,349960024,30.953454,-27.3900902
 KwaZulu-Natal,CHC,Gamalakhe CHC,039-3181113,30.3336,-30.81067
 KwaZulu-Natal,Clinic,Gcilima Clinic,039-3139208,30.24526,-30.91044
 KwaZulu-Natal,Clinic,Gcinalishone Clinic,072-6917850,30.134192,-28.687957
@@ -1397,8 +1397,8 @@ KwaZulu-Natal,Clinic,Gcinokuhle Clinic,039-8350253,30.10782,-30.25716
 KwaZulu-Natal,Clinic,Gcumisa Clinic,033-5030188,30.69363,-29.51635
 KwaZulu-Natal,Clinic,Gedleza Clinic,035-5958111,32.21283,-27.48284
 KwaZulu-Natal,Clinic,Gingindlovu Clinic,035-3310198,31.587356,-29.02951
-KwaZulu-Natal,Clinic,GJ Crooke's Gateway Clinic,0399787132/33,30.74493,-30.28832
-KwaZulu-Natal,District Hospital,GJ Crooke's Hospital,0399787081/ 0399787067,30.74487,-30.28821
+KwaZulu-Natal,Clinic,GJ Crooke's Gateway Clinic,0399787132/0399787133,30.74493,-30.28832
+KwaZulu-Natal,District Hospital,GJ Crooke's Hospital,0399787081/0399787067,30.74487,-30.28821
 KwaZulu-Natal,Clinic,Glen Earle Clinic,031-5777503,30.979407,-29.780132
 KwaZulu-Natal,Clinic,Glenhills Clinic,032-4375079,31.26562,-29.337937
 KwaZulu-Natal,Clinic,Glenridge Clinic,083-9429114,30.14547,-28.17563
@@ -1408,45 +1408,45 @@ KwaZulu-Natal,Clinic,Gomane Clinic,033-9960828,29.864386,-29.605339
 KwaZulu-Natal,Clinic,Goodwins Clinic,031-5032230,30.993794,-29.735995
 KwaZulu-Natal,Clinic,Gowanlee Clinic,072-2266063,29.702541,-30.348926
 KwaZulu-Natal,Clinic,Gqayinyanga Clinic,039-6847022,30.477437,-30.570723
-KwaZulu-Natal,Clinic,Gqumeni Clinic,0398329901/2,29.725834,-30.016764
+KwaZulu-Natal,Clinic,Gqumeni Clinic,0398329901/0398329902,29.725834,-30.016764
 KwaZulu-Natal,Clinic,Grange Clinic,033-3868403,30.372257,-29.641367
-KwaZulu-Natal,Clinic,Greenock Clinic,034 3665599,30.26868,-27.857005
+KwaZulu-Natal,Clinic,Greenock Clinic,343665599,30.26868,-27.857005
 KwaZulu-Natal,Clinic,Greytown Gateway Clinic,033-4139400,30.59935,-29.0664
-KwaZulu-Natal,District Hospital,Greytown Hospital,033 4139400,30.59998,-29.067508
+KwaZulu-Natal,District Hospital,Greytown Hospital,334139400,30.59998,-29.067508
 KwaZulu-Natal,Clinic,Groenvlei Clinic,073-3577965,30.229923,-27.462986
 KwaZulu-Natal,Clinic,Groutville Clinic,032-5599057,31.252102,-29.391439
-KwaZulu-Natal,Clinic,Grove End Clinic,031 5023582,31.02438,-29.69796
+KwaZulu-Natal,Clinic,Grove End Clinic,315023582,31.02438,-29.69796
 KwaZulu-Natal,Clinic,Gugwini Clinic,083-7560832,29.936687,-30.492112
-KwaZulu-Natal,Clinic,Gunjana Clinic,034 6421650,30.337509,-28.636876
+KwaZulu-Natal,Clinic,Gunjana Clinic,346421650,30.337509,-28.636876
 KwaZulu-Natal,Clinic,Gunjaneni Clinic,035-5508096,32.08803,-28.24489
 KwaZulu-Natal,Clinic,Gwala Clinic,039-8329604,29.790317,-29.857454
-KwaZulu-Natal,Clinic,Gwaliweni Clinic,035 591 8003,31.97787,-27.30716
+KwaZulu-Natal,Clinic,Gwaliweni Clinic,355918003,31.97787,-27.30716
 KwaZulu-Natal,Clinic,Halambu Clinic,035-4761005,31.104843,-28.773264
 KwaZulu-Natal,Clinic,Halley Stott Clinic,031-7166840,30.736442,-29.738799
 KwaZulu-Natal,Clinic,Hambanathi Clinic,032-9454701,31.11963,-29.558689
 KwaZulu-Natal,Clinic,Harding Clinic,039-4331628,29.88308,-30.57485
 KwaZulu-Natal,Clinic,Hartland Clinic,071-6493496,31.043302,-27.426652
-KwaZulu-Natal,Specialised Chronic Hospital,Hillcrest Hospital,031 7651316,30.761274,-29.78757
-KwaZulu-Natal,Clinic,Hlabisa Gateway Clinic,035 838 1003,31.8807,-28.14555
+KwaZulu-Natal,Specialised Chronic Hospital,Hillcrest Hospital,317651316,30.761274,-29.78757
+KwaZulu-Natal,Clinic,Hlabisa Gateway Clinic,358381003,31.8807,-28.14555
 KwaZulu-Natal,District Hospital,Hlabisa Hospital,035-8381003,31.8807,-28.14555
-KwaZulu-Natal,Clinic,Hlathi Dam Clinic,034 2719268,30.54339,-28.237784
+KwaZulu-Natal,Clinic,Hlathi Dam Clinic,342719268,30.54339,-28.237784
 KwaZulu-Natal,Clinic,Hlengimpilo Clinic,079-9543397,31.672275,-28.111742
-KwaZulu-Natal,CHC,Hlengisizwe CHC,031 7740084,30.65465,-29.8229
+KwaZulu-Natal,CHC,Hlengisizwe CHC,317740084,30.65465,-29.8229
 KwaZulu-Natal,Clinic,Hlobane Clinic,083-2367326,31.00125,-27.72022
 KwaZulu-Natal,Clinic,Hlokozi Clinic,039-8350345,30.293695,-30.361299
 KwaZulu-Natal,Clinic,Hlomendlini Clinic,032-4552040,31.396925,-29.185932
-KwaZulu-Natal,Clinic,Howick Clinic,0332399237/43,30.23167,-29.48696
+KwaZulu-Natal,Clinic,Howick Clinic,0332399237/0332399243,30.23167,-29.48696
 KwaZulu-Natal,Clinic,Ibisi Clinic,039-2596023,29.892882,-30.413102
 KwaZulu-Natal,Clinic,Idlebe Clinic,034-9847001,31.118903,-28.696374
 KwaZulu-Natal,CHC,Imbalenhle CHC,033-3989100,30.342361,-29.656899
 KwaZulu-Natal,Clinic,Impilwenhle Clinic,033-3222790,30.350775,-29.677914
-KwaZulu-Natal,CHC,Inanda C CHC,031 5190455,30.973047,-29.71126
+KwaZulu-Natal,CHC,Inanda C CHC,315190455,30.973047,-29.71126
 KwaZulu-Natal,Clinic,Inanda Seminary Clinic,031-5101900,30.921691,-29.707992
-KwaZulu-Natal,Clinic,Inhlwathi Clinic,035 838 0155,31.97459,-28.01706
+KwaZulu-Natal,Clinic,Inhlwathi Clinic,358380155,31.97459,-28.01706
 KwaZulu-Natal,Clinic,Injabulo Clinic,031-7828078,30.632683,-29.602547
 KwaZulu-Natal,Clinic,Injisuthi Clinic,036-4318133,29.577502,-28.940223
-KwaZulu-Natal,Central Hospital,Inkosi Albert Luthuli Central Hospital,031 2401001,30.961694,-29.87308
-KwaZulu-Natal,Clinic,Isandlwana Clinic,034 2718050,30.673117,-28.360695
+KwaZulu-Natal,Central Hospital,Inkosi Albert Luthuli Central Hospital,312401001,30.961694,-29.87308
+KwaZulu-Natal,Clinic,Isandlwana Clinic,342718050,30.673117,-28.360695
 KwaZulu-Natal,Clinic,Isiboniso Clinic,035-7969008,31.984811,-28.858375
 KwaZulu-Natal,Clinic,Isipingo Clinic,031-9021328,30.920151,-29.996027
 KwaZulu-Natal,Clinic,Isithebe Clinic,032-4596500,31.428339,-29.091272
@@ -1463,18 +1463,18 @@ KwaZulu-Natal,Clinic,Khan Road Clinic,033-3914921,30.405242,-29.549249
 KwaZulu-Natal,Clinic,Khandisa Clinic,035-7933642,31.832508,-28.859913
 KwaZulu-Natal,Clinic,Khayelihle Clinic,039-9779125,30.5347,-30.45197
 KwaZulu-Natal,Clinic,Khombe Gateway Clinic,035-8348000,30.89349,-28.64248
-KwaZulu-Natal,Clinic,Khula Village Clinic,035 5504 250,32.37694,-28.367646
+KwaZulu-Natal,Clinic,Khula Village Clinic,355504250,32.37694,-28.367646
 KwaZulu-Natal,Clinic,Kilmun Clinic,033-7012178,29.5515,-29.95343
 KwaZulu-Natal,Clinic,King Dinizulu Clinic,035-4734500,31.496625,-28.88861
-KwaZulu-Natal,Central Hospital,King Edward VIII Hospital,031 3603020,30.991155,-29.881546
-KwaZulu-Natal,Regional Hospital,King George V Hospital,031 2426242,30.98704,-29.82358
+KwaZulu-Natal,Central Hospital,King Edward VIII Hospital,313603020,30.991155,-29.881546
+KwaZulu-Natal,Regional Hospital,King George V Hospital,312426242,30.98704,-29.82358
 KwaZulu-Natal,Clinic,Kingsburgh Clinic,031-3115805,30.855832,-30.095418
 KwaZulu-Natal,Clinic,Klaarwater Clinic,031-7061447,30.829573,-29.883058
 KwaZulu-Natal,Clinic,Kleinfontein Clinic,079-9836558,29.649627,-28.36273
 KwaZulu-Natal,Clinic,Kloof Clinic,073-2171584,30.832089,-29.791667
 KwaZulu-Natal,Clinic,Kokstad Clinic,039-7271033,29.42898,-30.550172
-KwaZulu-Natal,Clinic,Kranskop Clinic,033 4441746,30.86425,-28.96863
-KwaZulu-Natal,CHC,KwaDabeka CHC,031 7143703,30.897393,-29.777203
+KwaZulu-Natal,Clinic,Kranskop Clinic,334441746,30.86425,-28.96863
+KwaZulu-Natal,CHC,KwaDabeka CHC,317143703,30.897393,-29.777203
 KwaZulu-Natal,Clinic,KwaDukuza Clinic,032-5513686,31.289111,-29.342585
 KwaZulu-Natal,Clinic,KwaJali Clinic,039-5530230,29.73749,-30.65991
 KwaZulu-Natal,Clinic,KwaMagwaza Gateway Clinic,035-4508263,31.34073,-28.62904
@@ -1487,32 +1487,32 @@ KwaZulu-Natal,Clinic,Kwamashumi Clinic,039-8357044,30.126558,-30.339933
 KwaZulu-Natal,Clinic,Kwambiza Clinic,035-8799011,31.643715,-28.553239
 KwaZulu-Natal,Clinic,KwaMbonambi Clinic,035-7730455,32.165541,-28.713302
 KwaZulu-Natal,Clinic,KwaMbuzi Clinic,035-5910216,32.19022,-27.18156
-KwaZulu-Natal,Clinic,KwaMsane Clinic,035 551 0038,32.14819,-28.42785
+KwaZulu-Natal,Clinic,KwaMsane Clinic,355510038,32.14819,-28.42785
 KwaZulu-Natal,Clinic,KwaMteyi Clinic,082-2272646,30.070913,-28.629776
-KwaZulu-Natal,Clinic,KwaNdaba Clinic,035 5910339,32.30583,-27.02172
+KwaZulu-Natal,Clinic,KwaNdaba Clinic,355910339,32.30583,-27.02172
 KwaZulu-Natal,Clinic,KwaNdengezi Clinic,031-7046269,30.768089,-29.85098
 KwaZulu-Natal,Clinic,KwaNgcolosi Clinic,031-7669135,30.838642,-29.70213
 KwaZulu-Natal,Clinic,KwaNkundla Clinic,034-4138003,31.26791,-27.39877
-KwaZulu-Natal,Clinic,KwaNyezi Clinic,034 2717018,30.75887,-28.32554
+KwaZulu-Natal,Clinic,KwaNyezi Clinic,342717018,30.75887,-28.32554
 KwaZulu-Natal,Clinic,KwaNyuswa Clinic,032-5322361,30.957802,-29.440032
 KwaZulu-Natal,Clinic,KwaSenge Clinic,076-4222088/071-2179537,30.77531,-28.80828
 KwaZulu-Natal,Clinic,KwaShoba Clinic,034-4132081,31.47444,-27.3677
 KwaZulu-Natal,Clinic,KwaSimama Clinic,031-5031570,30.97158,-29.748918
 KwaZulu-Natal,Clinic,KwaYanguye Clinic,035-4500972,31.550707,-28.488611
-KwaZulu-Natal,Clinic,KwaZibi Clinic,035 5748160,32.75479,-27.14578
+KwaZulu-Natal,Clinic,KwaZibi Clinic,355748160,32.75479,-27.14578
 KwaZulu-Natal,Clinic,La Lucia Clinic,031-5723547,31.062797,-29.754598
 KwaZulu-Natal,Clinic,Ladam Irene Clinic,072-2949453,29.792921,-30.315488
-KwaZulu-Natal,Clinic,Ladybank Clinic,034 3669401,30.2154,-27.96416
-KwaZulu-Natal,Clinic,Ladysmith Gateway Clinic,0366355001/2/3,29.76511,-28.55897
+KwaZulu-Natal,Clinic,Ladybank Clinic,343669401,30.2154,-27.96416
+KwaZulu-Natal,Clinic,Ladysmith Gateway Clinic,0366355001/0366355002/0366355003,29.76511,-28.55897
 KwaZulu-Natal,Regional Hospital,Ladysmith Hospital,036-6372111,29.765278,-28.558185
 KwaZulu-Natal,Clinic,Lamontville Clinic,031-4692367,30.943653,-29.950115
 KwaZulu-Natal,Clinic,Lancers Road Clinic,031-3077574,31.009689,-29.857864
-KwaZulu-Natal,Clinic,Limehill Clinic,034 2610595,30.244248,-28.438355
+KwaZulu-Natal,Clinic,Limehill Clinic,342610595,30.244248,-28.438355
 KwaZulu-Natal,Clinic,Limit Hill Clinic,036-6373185,29.80534,-28.53881
 KwaZulu-Natal,Clinic,Lindelani Clinic,083-4571168,30.933847,-29.750253
 KwaZulu-Natal,Clinic,Lomo Clinic,035-8799014,31.63445,-28.21684
 KwaZulu-Natal,Clinic,Lourdes Clinic,039-2597012,29.705948,-30.208685
-KwaZulu-Natal,Clinic,Louwsburg Clinic,034 907 5948,31.30045,-27.57801
+KwaZulu-Natal,Clinic,Louwsburg Clinic,349075948,31.30045,-27.57801
 KwaZulu-Natal,Clinic,Lovu Clinic,031-3229016,30.826977,-30.062207
 KwaZulu-Natal,District Hospital,Lower Umfolozi War Memorial Hospital,035-5907000,31.895639,-28.739507
 KwaZulu-Natal,Clinic,Ludimala Clinic,039-3149594,30.28333,-30.86893
@@ -1524,28 +1524,28 @@ KwaZulu-Natal,Clinic,Mabedlane Clinic,035-8799007,31.3839,-28.29981
 KwaZulu-Natal,Clinic,Mabheleni Clinic,039-6999082,30.32103,-30.44209
 KwaZulu-Natal,Clinic,Mabhuqweni Clinic,035-8338006,30.835555,-28.510373
 KwaZulu-Natal,Clinic,Mabibi Clinic,035-5928088,32.73092,-27.32839
-KwaZulu-Natal,Clinic,Macabuzela Clinic,035 562 7008,32.15997,-28.02811
+KwaZulu-Natal,Clinic,Macabuzela Clinic,355627008,32.15997,-28.02811
 KwaZulu-Natal,Clinic,Macambini Clinic,032-4539013,31.57012,-29.125901
 KwaZulu-Natal,Clinic,Machibini Clinic,035-5507911,32.04522,-28.28121
-KwaZulu-Natal,Clinic,Madadeni 1 Clinic,034 3292122,30.024138,-27.752218
-KwaZulu-Natal,Clinic,Madadeni 5 Clinic,034 3292123,30.042055,-27.756412
-KwaZulu-Natal,Clinic,Madadeni 7 Clinic,034 3143701,30.033073,-27.74861
-KwaZulu-Natal,Clinic,Madadeni Gateway Clinic,034 3288 346,30.0508,-27.7636
-KwaZulu-Natal,Regional Hospital,Madadeni Hospital,034 3288000,30.050536,-27.76339
+KwaZulu-Natal,Clinic,Madadeni 1 Clinic,343292122,30.024138,-27.752218
+KwaZulu-Natal,Clinic,Madadeni 5 Clinic,343292123,30.042055,-27.756412
+KwaZulu-Natal,Clinic,Madadeni 7 Clinic,343143701,30.033073,-27.74861
+KwaZulu-Natal,Clinic,Madadeni Gateway Clinic,343288346,30.0508,-27.7636
+KwaZulu-Natal,Regional Hospital,Madadeni Hospital,343288000,30.050536,-27.76339
 KwaZulu-Natal,Clinic,Madiba Clinic,036-3528940,29.69263,-28.97938
 KwaZulu-Natal,Clinic,Madlala Clinic,039-6959003,30.42725,-30.63114
-KwaZulu-Natal,Clinic,Madonela Clinic,035 5725050,32.26248,-27.34288
+KwaZulu-Natal,Clinic,Madonela Clinic,355725050,32.26248,-27.34288
 KwaZulu-Natal,Clinic,Madwaleni Clinic,035-5507909,32.22208,-28.26372
 KwaZulu-Natal,Clinic,Mafakathini Clinic,033-9970600,30.1476,-29.64405
 KwaZulu-Natal,Clinic,Magabheni Clinic,039-9707015,30.76575,-30.173469
 KwaZulu-Natal,Clinic,Magagadolo Clinic,035-8329000,31.407391,-28.032014
 KwaZulu-Natal,Clinic,Maguzu Clinic,033-3909021,30.564448,-29.581533
 KwaZulu-Natal,Clinic,Mahashini Clinic,072-1417073,31.52567,-27.87648
-KwaZulu-Natal,Regional Hospital,Mahatma Gandhi Hospital,031 5021719,31.029532,-29.718741
-KwaZulu-Natal,Clinic,Mahlungulu Clinic,035 5929988,32.81163,-26.88633
+KwaZulu-Natal,Regional Hospital,Mahatma Gandhi Hospital,315021719,31.029532,-29.718741
+KwaZulu-Natal,Clinic,Mahlungulu Clinic,355929988,32.81163,-26.88633
 KwaZulu-Natal,Clinic,Makhathini Clinic,035-5725590,32.16026,-27.44383
 KwaZulu-Natal,Clinic,Makhosini Clinic,035-4500914,31.271612,-28.37908
-KwaZulu-Natal,Clinic,Makhowe Clinic,035 562 7006,32.14029,-27.96078
+KwaZulu-Natal,Clinic,Makhowe Clinic,355627006,32.14029,-27.96078
 KwaZulu-Natal,Clinic,Makhwela Clinic,083-2367517,31.34952,-27.68678
 KwaZulu-Natal,Clinic,Malenge Clinic,039-2597013,29.62289,-30.147924
 KwaZulu-Natal,Clinic,Malunga Clinic,035-8338005,30.901824,-28.53696
@@ -1553,11 +1553,11 @@ KwaZulu-Natal,Clinic,Manaba Clinic,035-5748161,32.43432,-27.28726
 KwaZulu-Natal,Clinic,Mandaba Clinic,035-8338007,31.215809,-28.680314
 KwaZulu-Natal,Clinic,Mandeni Clinic,032-4568246,31.410068,-29.153318
 KwaZulu-Natal,Clinic,Mandlanzini Clinic,035-7860929,32.104379,-28.738355
-KwaZulu-Natal,Clinic,Mandleni Clinic,033 4939501,30.357789,-28.72373
+KwaZulu-Natal,Clinic,Mandleni Clinic,334939501,30.357789,-28.72373
 KwaZulu-Natal,Clinic,Mangeni Clinic,034-2718114,30.772946,-28.46614
-KwaZulu-Natal,District Hospital,Manguzi Hospital,035 5920150,32.75637,-26.98403
+KwaZulu-Natal,District Hospital,Manguzi Hospital,355920150,32.75637,-26.98403
 KwaZulu-Natal,Clinic,Manyane Clinic,035-8346000,30.903431,-28.775324
-KwaZulu-Natal,Clinic,Manyiseni Clinic,035 5911 0045,32.03564,-26.914
+KwaZulu-Natal,Clinic,Manyiseni Clinic,3559110045,32.03564,-26.914
 KwaZulu-Natal,Clinic,Maphephetheni Clinic,031-7777707,30.792355,-29.645426
 KwaZulu-Natal,Clinic,Maphophoma Clinic,071-5608622,31.679984,-28.037503
 KwaZulu-Natal,Clinic,Maphumulo Clinic,032-4816842,31.066447,-29.15686
@@ -1566,23 +1566,23 @@ KwaZulu-Natal,Clinic,Maqumbi Clinic,032-4816024,31.202736,-29.173628
 KwaZulu-Natal,Clinic,Marburg Clinic,039-6882182,30.42966,-30.74754
 KwaZulu-Natal,Clinic,Margate Clinic,039-3128382,30.364194,-30.867209
 KwaZulu-Natal,Clinic,Mariannridge Clinic,031-7031625,30.82117,-29.862495
-KwaZulu-Natal,Clinic,Mason Street Clinic,034 982 1972,30.80109,-27.76578
+KwaZulu-Natal,Clinic,Mason Street Clinic,349821972,30.80109,-27.76578
 KwaZulu-Natal,Clinic,Masons Clinic,033-3931095,30.434774,-29.555652
-KwaZulu-Natal,Clinic,Masotsheni Clinic,034 2718164,30.576856,-28.286975
+KwaZulu-Natal,Clinic,Masotsheni Clinic,342718164,30.576856,-28.286975
 KwaZulu-Natal,Clinic,Mathungela Clinic,035-4761008,31.080979,-28.89687
 KwaZulu-Natal,Clinic,Matiwaneskop Clinic,036-4211825,29.897825,-28.350763
 KwaZulu-Natal,Clinic,Mawele Clinic,034-6627008,30.556283,-28.694371
 KwaZulu-Natal,Clinic,Mayizekane Clinic,033-5030155,30.625094,-29.531123
-KwaZulu-Natal,Clinic,Mazabeko Clinic,034 6427000,30.586576,-28.530478
+KwaZulu-Natal,Clinic,Mazabeko Clinic,346427000,30.586576,-28.530478
 KwaZulu-Natal,Clinic,Mbadleni Clinic,035-5910249,32.13522,-26.96269
-KwaZulu-Natal,Clinic,Mbangweni Clinic,033 4961308,30.403156,-28.821915
+KwaZulu-Natal,Clinic,Mbangweni Clinic,334961308,30.403156,-28.821915
 KwaZulu-Natal,Clinic,Mbazwana Clinic,035-5710211,32.586,-27.48544
 KwaZulu-Natal,Clinic,Mbekaphansi Clinic,032-4817776,30.967514,-29.092299
 KwaZulu-Natal,District Hospital,Mbongolwane Hospital,035-4766242,31.196129,-28.93597
 KwaZulu-Natal,Clinic,Mbonwa Clinic,039-5530057,29.800769,-30.618058
-KwaZulu-Natal,Clinic,Mboza Clinic,035 5918012,32.26986,-27.18032
+KwaZulu-Natal,Clinic,Mboza Clinic,355918012,32.26986,-27.18032
 KwaZulu-Natal,Clinic,Mbuthisweni Clinic,033-2129410,30.457975,-30.059767
-KwaZulu-Natal,Clinic,Mduku Clinic,035 562 0219,32.38807,-27.8281
+KwaZulu-Natal,Clinic,Mduku Clinic,355620219,32.38807,-27.8281
 KwaZulu-Natal,Clinic,Mdumezulu Clinic,035-8701025,31.42811,-28.28497
 KwaZulu-Natal,Clinic,Meadow Sweet Clinic,039-4330299,30.03235,-30.63895
 KwaZulu-Natal,Clinic,Melmoth Clinic,035-4508020,31.397772,-28.589129
@@ -1591,21 +1591,21 @@ KwaZulu-Natal,Clinic,Mfongosi Clinic,035-8346001,30.806482,-28.715751
 KwaZulu-Natal,Clinic,Mfume Clinic,031-9768006,30.74404,-30.11986
 KwaZulu-Natal,Clinic,Mgangeni Clinic,039-9719142,30.38099,-30.237236
 KwaZulu-Natal,Clinic,Mgayi Clinic,039-9779200,30.47667,-30.38428
-KwaZulu-Natal,Clinic,Mhlangana Clinic,033 4961152,30.301398,-28.837005
+KwaZulu-Natal,Clinic,Mhlangana Clinic,334961152,30.301398,-28.837005
 KwaZulu-Natal,Clinic,Mhlungwane Clinic,073-2203822/078-1876085,30.837083,-28.13813
-KwaZulu-Natal,Clinic,Mkhonjane Clinic,034 2718005,30.577392,-28.150461
-KwaZulu-Natal,Clinic,Mkuze Clinic,035 5731082,32.03188,-27.61855
+KwaZulu-Natal,Clinic,Mkhonjane Clinic,342718005,30.577392,-28.150461
+KwaZulu-Natal,Clinic,Mkuze Clinic,355731082,32.03188,-27.61855
 KwaZulu-Natal,Clinic,Mndozo Clinic,071-2546303,30.190258,-27.747401
-KwaZulu-Natal,Clinic,Mnqobokazi Clinic,035 562 8022,32.45598,-27.7059
+KwaZulu-Natal,Clinic,Mnqobokazi Clinic,355628022,32.45598,-27.7059
 KwaZulu-Natal,Clinic,Mntungwana Clinic,039-8350322,30.305561,-30.146621
 KwaZulu-Natal,Clinic,Mnyamana Clinic,039-8328053,29.9335,-29.81545
 KwaZulu-Natal,Clinic,Molokohlo Clinic,032-5323142,31.036248,-29.492258
-KwaZulu-Natal,Clinic,Molweni Clinic,031 7763364,30.878746,-29.739899
+KwaZulu-Natal,Clinic,Molweni Clinic,317763364,30.878746,-29.739899
 KwaZulu-Natal,Clinic,Mondlo 2 Clinic,034-9331135,30.70956,-27.9764
 KwaZulu-Natal,District Hospital,Montebello Hospital,033-5067000,30.807206,-29.439345
 KwaZulu-Natal,Clinic,Mooi River Clinic,033-2631439,29.996071,-29.207438
 KwaZulu-Natal,Clinic,Morrison's Post Clinic,039-6849210,30.42173,-30.56581
-KwaZulu-Natal,Clinic,Mosvold Gateway Clinic,035 591 0122,32.004842,-27.135974
+KwaZulu-Natal,Clinic,Mosvold Gateway Clinic,355910122,32.004842,-27.135974
 KwaZulu-Natal,District Hospital,Mosvold Hospital,035-5910122,32.004842,-27.135974
 KwaZulu-Natal,Clinic,Mpandleni Clinic,035-8330476,31.088608,-28.620445
 KwaZulu-Natal,Clinic,Mpembeni Clinic,082-6403433/072-5867056,31.94133,-28.13231
@@ -1613,12 +1613,12 @@ KwaZulu-Natal,Clinic,Mphise Clinic,032-4815714,31.101029,-29.017171
 KwaZulu-Natal,Clinic,Mpola Clinic,031-7032622,30.810712,-29.85356
 KwaZulu-Natal,Clinic,Mpophomeni Clinic,033-2380026,30.186578,-29.566174
 KwaZulu-Natal,Clinic,Mpukunyoni Clinic,035-5509142,32.17427,-28.36738
-KwaZulu-Natal,Clinic,Mpumalanga Clinic,031 7720078,30.621675,-29.803945
+KwaZulu-Natal,Clinic,Mpumalanga Clinic,317720078,30.621675,-29.803945
 KwaZulu-Natal,Clinic,Mpumelelo Clinic,032-4837665,31.291157,-29.194312
 KwaZulu-Natal,Clinic,Mpumuza Clinic,033-3241181,30.27101,-29.60599
 KwaZulu-Natal,Clinic,Mpungamhlophe Clinic,035-5400915,31.25377,-28.26602
-KwaZulu-Natal,District Hospital,Mseleni Hospital,035-5741004/8,32.55664,-27.32566
-KwaZulu-Natal,Clinic,Mshudu Clinic,035 5929100,32.71829,-26.93222
+KwaZulu-Natal,District Hospital,Mseleni Hospital,035-5741004/035-5741008,32.55664,-27.32566
+KwaZulu-Natal,Clinic,Mshudu Clinic,355929100,32.71829,-26.93222
 KwaZulu-Natal,Clinic,Msunduze Bridge Clinic,031-7829028,30.636814,-29.662982
 KwaZulu-Natal,Clinic,Mthandeni Clinic,032-4802042,31.077659,-29.262169
 KwaZulu-Natal,Clinic,Mthimude Clinic,039-5430348,30.04155,-30.79748
@@ -1627,14 +1627,14 @@ KwaZulu-Natal,Clinic,Mtubatuba Clinic,035-5510599,32.18526,-28.41123
 KwaZulu-Natal,Clinic,Mumbe Clinic,084-0242589,30.548577,-28.753328
 KwaZulu-Natal,Clinic,Murchison Gateway Clinic,039-6877290,30.34402,-30.72804
 KwaZulu-Natal,District Hospital,Murchison Hospital,039-6877311,30.34402,-30.72804
-KwaZulu-Natal,Clinic,Mvelabusha Clinic,035 5748162,32.71321,-27.15918
+KwaZulu-Natal,Clinic,Mvelabusha Clinic,355748162,32.71321,-27.15918
 KwaZulu-Natal,Clinic,Mvoti Clinic,039-2597018,29.52058,-30.11531
 KwaZulu-Natal,Clinic,Mvubukazi Clinic,082-2652333,29.847091,-30.281271
 KwaZulu-Natal,Clinic,Mvutshini Clinic (Hibiscus Coast),039-3144387,30.37167,-30.86013
 KwaZulu-Natal,Clinic,Mvutshini Clinic (uMlalazi),035-3374183,31.569289,-28.951687
-KwaZulu-Natal,Clinic,Mzamo Clinic,0317063629/710,30.830021,-29.872292
-KwaZulu-Natal,Clinic,Naas Farm Clinic,034 3669166,30.225972,-27.827587
-KwaZulu-Natal,Clinic,Nagina Clinic,0317062778/9278,30.812235,-29.870115
+KwaZulu-Natal,Clinic,Mzamo Clinic,0317063629/0317063710,30.830021,-29.872292
+KwaZulu-Natal,Clinic,Naas Farm Clinic,343669166,30.225972,-27.827587
+KwaZulu-Natal,Clinic,Nagina Clinic,0317062778/0317069278,30.812235,-29.870115
 KwaZulu-Natal,Clinic,Nandi Clinic,032-4375078,31.302538,-29.322463
 KwaZulu-Natal,Clinic,Ncemaneni Clinic,035-8799017,31.66601,-28.33601
 KwaZulu-Natal,Clinic,Ncibidwane Clinic,036-3538999,29.63677,-29.1874
@@ -1649,17 +1649,17 @@ KwaZulu-Natal,Clinic,Ndumo Clinic,035-5910150,32.25149,-26.9251
 KwaZulu-Natal,Clinic,Ndundulu Clinic,072-4647531,31.51057,-28.679204
 KwaZulu-Natal,Clinic,Ndwebu Clinic,039-8350259,30.939442,-29.511451
 KwaZulu-Natal,CHC,Ndwedwe CHC,032-5323050,30.937473,-29.513342
-KwaZulu-Natal,Clinic,Nellies Farm Clinic,034 3667783,30.168082,-27.927014
-KwaZulu-Natal,Clinic,New Germany Clinic,0313116524/25,30.875748,-29.798154
+KwaZulu-Natal,Clinic,Nellies Farm Clinic,343667783,30.168082,-27.927014
+KwaZulu-Natal,Clinic,New Germany Clinic,0313116524/0313116525,30.875748,-29.798154
 KwaZulu-Natal,Clinic,Newcastle Clinic,034-3287754,29.93014,-27.75689
 KwaZulu-Natal,Clinic,Newcastle Gateway Clinic,034-3280061,29.93597,-27.76253
-KwaZulu-Natal,Regional Hospital,Newcastle Hospital,034 3280000,29.938189,-27.762146
+KwaZulu-Natal,Regional Hospital,Newcastle Hospital,343280000,29.938189,-27.762146
 KwaZulu-Natal,Clinic,Newlands East Clinic,031-5772913,30.969906,-29.787812
-KwaZulu-Natal,Clinic,Newlands West Clinic,031 5785756,30.95483,-29.779087
-KwaZulu-Natal,CHC,Newtown A CHC,031 5104100,30.941888,-29.711684
+KwaZulu-Natal,Clinic,Newlands West Clinic,315785756,30.95483,-29.779087
+KwaZulu-Natal,CHC,Newtown A CHC,315104100,30.941888,-29.711684
 KwaZulu-Natal,Clinic,Ngqeku Clinic,035-8314053,31.59507,-27.876136
 KwaZulu-Natal,Clinic,Ngubeni Clinic,033-5050308,30.234093,-29.697086
-KwaZulu-Natal,Clinic,Ngubevu Clinic,033 4131724,30.620232,-28.740558
+KwaZulu-Natal,Clinic,Ngubevu Clinic,334131724,30.620232,-28.740558
 KwaZulu-Natal,Clinic,Ngudwini Clinic,032-4569011,31.250876,-29.050737
 KwaZulu-Natal,Clinic,Ngwelezana Clinic,035-7941051,31.861982,-28.773922
 KwaZulu-Natal,Tertiary Hospital,Ngwelezana Hospital,035-5901700,31.864665,-28.77774
@@ -1667,9 +1667,9 @@ KwaZulu-Natal,Clinic,Nhlabane Clinic,035-7730193,32.239047,-28.641838
 KwaZulu-Natal,Clinic,Nhlalwane Clinic,039-8350258,30.08512,-30.45653
 KwaZulu-Natal,Clinic,Nhlungwana Clinic,035-8702101,31.50194,-28.30692
 KwaZulu-Natal,Clinic,Niemeyer Gateway Clinic,034-3313011,30.31595,-27.66179
-KwaZulu-Natal,District Hospital,Niemeyer Memorial Hospital,034 3313011,30.316676,-27.662444
+KwaZulu-Natal,District Hospital,Niemeyer Memorial Hospital,343313011,30.316676,-27.662444
 KwaZulu-Natal,Clinic,Njoko Clinic,072-5285681,31.85331,-27.8086
-KwaZulu-Natal,Clinic,Nkande Clinic,034 9339230,30.623824,-27.992658
+KwaZulu-Natal,Clinic,Nkande Clinic,349339230,30.623824,-27.992658
 KwaZulu-Natal,District Hospital,Nkandla Hospital,035-8335000,31.087494,-28.623753
 KwaZulu-Natal,Clinic,Nkonjeni Gateway Clinic,035-8730013,31.41517,-28.22664
 KwaZulu-Natal,District Hospital,Nkonjeni Hospital,035-8730013,31.41517,-28.22664
@@ -1683,7 +1683,7 @@ KwaZulu-Natal,Clinic,Nokweja Clinic,039-8349210,30.02097,-30.297344
 KwaZulu-Natal,Clinic,Nomdiya Clinic,035-8799026,31.377822,-28.227386
 KwaZulu-Natal,Clinic,Nomponjwana Clinic,082-2397738,31.579838,-28.638359
 KwaZulu-Natal,Clinic,Nondabuya Clinic,035-8381003,32.15599,-27.34592
-KwaZulu-Natal,Clinic,Nondweni Clinic,034 2718037,30.81723,-28.19461
+KwaZulu-Natal,Clinic,Nondweni Clinic,342718037,30.81723,-28.19461
 KwaZulu-Natal,Clinic,Nongamlane Clinic,035-8337004,30.923011,-28.428968
 KwaZulu-Natal,Clinic,Nongoma Clinic,035-8313243,31.650186,-27.89991
 KwaZulu-Natal,Clinic,Northdale Clinic,033-3871821,30.402485,-29.566573
@@ -1696,15 +1696,15 @@ KwaZulu-Natal,Clinic,Ntabamhlope Clinic,036-3538607,29.688698,-29.103963
 KwaZulu-Natal,Clinic,Ntabeni Clinic,039-3192643,30.23546,-30.97163
 KwaZulu-Natal,Clinic,Ntambanana Clinic,035-7928388,31.746755,-28.604568
 KwaZulu-Natal,Clinic,Ntembeni Clinic,033-5050323,30.248985,-29.715798
-KwaZulu-Natal,Clinic,Ntembisweni Clinic,033 4459697,30.760544,-29.165278
+KwaZulu-Natal,Clinic,Ntembisweni Clinic,334459697,30.760544,-29.165278
 KwaZulu-Natal,Clinic,Ntimbankulu Clinic,039-6959483,30.27177,-30.55663
 KwaZulu-Natal,Clinic,Ntinini Clinic,084-8918817,30.898104,-28.269396
 KwaZulu-Natal,Clinic,Ntondweni Clinic,035-5507900,32.16822,-28.1998
 KwaZulu-Natal,Clinic,Ntshongwe Clinic,035-5719105,32.37124,-27.43392
-KwaZulu-Natal,Clinic,Ntshongweni Clinic,031 7759014,30.687574,-29.853065
+KwaZulu-Natal,Clinic,Ntshongweni Clinic,317759014,30.687574,-29.853065
 KwaZulu-Natal,Clinic,Ntumeni Clinic,035-4761007,31.322448,-28.858903
 KwaZulu-Natal,Clinic,Ntuze Clinic,035-3404266,31.740918,-28.890278
-KwaZulu-Natal,Clinic,Ntuzuma Clinic,031 5091747,30.947116,-29.72779
+KwaZulu-Natal,Clinic,Ntuzuma Clinic,315091747,30.947116,-29.72779
 KwaZulu-Natal,Clinic,Nxamalala Clinic (Eshowe),035-4761005,31.117795,-28.832613
 KwaZulu-Natal,Clinic,Nxamalala Clinic (Impendle),033-9967000,29.770905,-29.599548
 KwaZulu-Natal,Clinic,Nyangwini Happy Hours Clinic,039-9721631,30.59327,-30.50311
@@ -1713,16 +1713,16 @@ KwaZulu-Natal,Clinic,Odidini Clinic,031-9151502,30.680936,-30.035226
 KwaZulu-Natal,Clinic,Ohwebede Clinic,032-4589001,31.512155,-29.180473
 KwaZulu-Natal,Clinic,Oliviershoek Clinic,036-4482661,29.156985,-28.699105
 KwaZulu-Natal,Clinic,Ophansi Clinic,035-5958398,32.31415,-27.58916
-KwaZulu-Natal,Clinic,Ophondweni Clinic,035 572 5592,32.09982,-27.30026
+KwaZulu-Natal,Clinic,Ophondweni Clinic,355725592,32.09982,-27.30026
 KwaZulu-Natal,Clinic,Ophuzana Clinic,078-5492853,30.950839,-27.469497
 KwaZulu-Natal,Clinic,Oqaqeni Clinic,032-4816023,31.160861,-29.14053
 KwaZulu-Natal,Clinic,Oqondweni Clinic,035-5717000,32.44586,-27.57185
 KwaZulu-Natal,Clinic,Oribi Clinic,033-3864947,30.3963,-29.63804
-KwaZulu-Natal,District Hospital,Osindisweni Hospital,032 5419200,30.982711,-29.608445
+KwaZulu-Natal,District Hospital,Osindisweni Hospital,325419200,30.982711,-29.608445
 KwaZulu-Natal,Clinic,Osizweni (Umlazi Q) Clinic,031-9071150,30.895303,-29.974846
-KwaZulu-Natal,Clinic,Osizweni 1 Clinic,034 3660002,30.130767,-27.791203
-KwaZulu-Natal,Clinic,Osizweni 2 Clinic,034 3660061,30.12162,-27.79198
-KwaZulu-Natal,Clinic,Osizweni 3 Clinic,034 3137639,30.161097,-27.784274
+KwaZulu-Natal,Clinic,Osizweni 1 Clinic,343660002,30.130767,-27.791203
+KwaZulu-Natal,Clinic,Osizweni 2 Clinic,343660061,30.12162,-27.79198
+KwaZulu-Natal,Clinic,Osizweni 3 Clinic,343137639,30.161097,-27.784274
 KwaZulu-Natal,Clinic,Osungulweni Clinic,035-4761009,31.204307,-28.843985
 KwaZulu-Natal,Clinic,Otimati Clinic,032-4816778,31.148987,-29.199323
 KwaZulu-Natal,Clinic,Pata Clinic,033-3238157,30.326176,-29.662022
@@ -1733,11 +1733,11 @@ KwaZulu-Natal,Clinic,Phaphamani Clinic,035-7960135,31.893576,-28.889787
 KwaZulu-Natal,Clinic,Phatheni Clinic,033-2129414,30.21231,-29.95411
 KwaZulu-Natal,Clinic,Phelandaba Clinic,035-5921040,32.55651,-27.08398
 KwaZulu-Natal,Clinic,Philani Clinic,039-9740053,30.68312,-30.25138
-KwaZulu-Natal,CHC,Phoenix CHC,031 5380800,30.992609,-29.707382
+KwaZulu-Natal,CHC,Phoenix CHC,315380800,30.992609,-29.707382
 KwaZulu-Natal,Specialised Rehabilitation Hospital,Phoenix Rehabilitation Centre,031-5007401,30.99653,-29.691208
 KwaZulu-Natal,CHC,Pholela CHC,039-8329491,29.858579,-29.763837
 KwaZulu-Natal,Clinic,Phungashe Clinic,039-8350315,30.15072,-30.42536
-KwaZulu-Natal,Clinic,Pine Street (Greytown) Clinic,033 4139147,30.59368,-29.05854
+KwaZulu-Natal,Clinic,Pine Street (Greytown) Clinic,334139147,30.59368,-29.05854
 KwaZulu-Natal,Clinic,Pinetown Clinic,031-3116839,30.858986,-29.817413
 KwaZulu-Natal,Clinic,Pisgah Clinic,039-4330540,29.879229,-30.683914
 KwaZulu-Natal,Clinic,Pongola Clinic,0344131772/0344132318,31.610831,-27.37877
@@ -1745,15 +1745,15 @@ KwaZulu-Natal,Clinic,Port Edward Clinic,039-3112304,30.21088,-31.04673
 KwaZulu-Natal,Clinic,Port Shepstone Clinic,039-6882173,30.44332,-30.73751
 KwaZulu-Natal,Regional Hospital,Port Shepstone Hospital,039-6886000,30.45173,-30.743339
 KwaZulu-Natal,Clinic,Prince Mshiyeni Gateway Clinic,031-9078111,30.94162,-29.957593
-KwaZulu-Natal,Regional Hospital,Prince Mshiyeni Memorial Hospital,031 9078111,30.93235,-29.956366
+KwaZulu-Natal,Regional Hospital,Prince Mshiyeni Memorial Hospital,319078111,30.93235,-29.956366
 KwaZulu-Natal,Clinic,Prince Zulu Communicable Diseases Centre Clinic,031-3224250,31.009549,-29.859227
 KwaZulu-Natal,Clinic,Princess Mhlosheni Clinic,034-9968100,30.986513,-27.435309
 KwaZulu-Natal,Clinic,Qadi Clinic,031-5181170,30.903122,-29.66748
 KwaZulu-Natal,Clinic,Qalukubheka Clinic,034-9699000,31.165243,-27.488516
 KwaZulu-Natal,Clinic,Qinelani Clinic,076-7880628,30.510675,-28.531774
-KwaZulu-Natal,Clinic,Queen Nolonolo Clinic,0358313243/3023,31.649809,-27.899103
-KwaZulu-Natal,Clinic,Qulashe Clinic,0337019002/3,29.725834,-30.016764
-KwaZulu-Natal,Clinic,Redcliffe Clinic,032 5333431,31.021614,-29.639621
+KwaZulu-Natal,Clinic,Queen Nolonolo Clinic,0358313243/0358313023,31.649809,-27.899103
+KwaZulu-Natal,Clinic,Qulashe Clinic,0337019002/0337019003,29.725834,-30.016764
+KwaZulu-Natal,Clinic,Redcliffe Clinic,325333431,31.021614,-29.639621
 KwaZulu-Natal,Clinic,Redhill Clinic,031-5641211,31.020262,-29.777967
 KwaZulu-Natal,Clinic,Reservoir Hills Clinic,031-2624912,30.952156,-29.803137
 KwaZulu-Natal,Clinic,Richards Bay Clinic,035-9075303,32.05025,-28.7555
@@ -1763,23 +1763,23 @@ KwaZulu-Natal,Clinic,Rietvlei Clinic,078-6852469,29.83286,-30.48627
 KwaZulu-Natal,District Hospital,Rietvlei Hospital,039-2605000,29.827468,-30.487004
 KwaZulu-Natal,Clinic,Riverside Clinic,039-3809200,29.70181,-30.08038
 KwaZulu-Natal,Clinic,RK Khan Gateway Clinic,031-4596337,30.886307,-29.917127
-KwaZulu-Natal,Regional Hospital,RK Khan Hospital,031 4596000,30.886307,-29.917127
-KwaZulu-Natal,Clinic,Rockcliff Clinic,034 2612010,30.20779,-28.50071
-KwaZulu-Natal,Clinic,Rorke's Drift Clinic,034 642 1048,30.54022,-28.36278
+KwaZulu-Natal,Regional Hospital,RK Khan Hospital,314596000,30.886307,-29.917127
+KwaZulu-Natal,Clinic,Rockcliff Clinic,342612010,30.20779,-28.50071
+KwaZulu-Natal,Clinic,Rorke's Drift Clinic,346421048,30.54022,-28.36278
 KwaZulu-Natal,Clinic,Rydalvale Clinic,031-5032990,30.970521,-29.748175
-KwaZulu-Natal,Clinic,Sahlumbe Clinic,036 3547022,30.19308,-28.739084
+KwaZulu-Natal,Clinic,Sahlumbe Clinic,363547022,30.19308,-28.739084
 KwaZulu-Natal,Clinic,Sakhimpilo Clinic,082-3980105,30.23671,-28.18352
 KwaZulu-Natal,Clinic,Samungu Clinic,032-4559000,31.325476,-28.999062
 KwaZulu-Natal,Clinic,Sandanezwe Clinic,039-8318222,30.00039,-29.86822
 KwaZulu-Natal,Clinic,Sangcwaba Clinic,039-8350035,30.406675,-30.185584
-KwaZulu-Natal,Clinic,Santombe Clinic,039 4339907/8/9,30.024852,-30.530032
+KwaZulu-Natal,Clinic,Santombe Clinic,0394339907/0394339908/0394339909,30.024852,-30.530032
 KwaZulu-Natal,Clinic,Sappi Clinic (Umbonambi),035-5801736,32.090136,-28.594555
 KwaZulu-Natal,Clinic,Savannah Park Clinic,073-0089616,30.847142,-29.883202
 KwaZulu-Natal,Clinic,Scottburgh Clinic,039-9761202,30.75435,-30.28622
 KwaZulu-Natal,Clinic,Scottsville Clinic,033-3867311,30.394272,-29.624998
 KwaZulu-Natal,Clinic,Sea Cow Lake Clinic,031-1532443,31.00205,-29.796352
 KwaZulu-Natal,Clinic,Shakaskraal Clinic,032-9471455,31.218507,-29.451725
-KwaZulu-Natal,Clinic,Shallcross Clinic,0313112571/84,30.878636,-29.889258
+KwaZulu-Natal,Clinic,Shallcross Clinic,0313112571/0313112584,30.878636,-29.889258
 KwaZulu-Natal,Clinic,Shelly Beach Clinic,0393159231/0,30.4118,-30.8007
 KwaZulu-Natal,Clinic,Shemula Clinic,035-5911004,32.22862,-27.082
 KwaZulu-Natal,Clinic,Sibuyane Clinic,033-4440000,30.89924,-28.84451
@@ -1788,17 +1788,17 @@ KwaZulu-Natal,Clinic,Sinathing Clinic,033-3999009,30.294848,-29.675089
 KwaZulu-Natal,Clinic,Singisi Clinic,039-7474380,29.546893,-30.251018
 KwaZulu-Natal,Clinic,Siphamandla Clinic,039-2597010,29.819325,-30.132959
 KwaZulu-Natal,Clinic,Siphilile Clinic,084-5073278,31.503258,-28.82402
-KwaZulu-Natal,Clinic,Siphimpilo Clinic,034 3931121,30.159158,-28.195
-KwaZulu-Natal,Clinic,Sivananda Clinic,031 5190310/75/65,30.957273,-29.699255
-KwaZulu-Natal,Clinic,Siyakhathala Clinic,034 +933 5117,30.787954,-28.093513
+KwaZulu-Natal,Clinic,Siphimpilo Clinic,343931121,30.159158,-28.195
+KwaZulu-Natal,Clinic,Sivananda Clinic,0315190310/0315190375/0315190365,30.957273,-29.699255
+KwaZulu-Natal,Clinic,Siyakhathala Clinic,034+9335117,30.787954,-28.093513
 KwaZulu-Natal,Clinic,Sizana Clinic,034-9679105,31.40055,-27.92889
 KwaZulu-Natal,Clinic,Sobantu Clinic,033-3903519,30.424884,-29.595262
 KwaZulu-Natal,Clinic,Sokhulu Clinic,035-5308107,32.314385,-28.553517
 KwaZulu-Natal,Clinic,Somkhele Clinic,035-5507913,32.10105,-28.33076
 KwaZulu-Natal,Clinic,Songonzima Clinic,033-9970197,30.12528,-29.69794
-KwaZulu-Natal,Clinic,Southport Clinic,0396813257/3372,30.50544,-30.67819
+KwaZulu-Natal,Clinic,Southport Clinic,0396813257/0396813372,30.50544,-30.67819
 KwaZulu-Natal,Clinic,Sovane Clinic,035-5958011,31.79266,-27.65295
-KwaZulu-Natal,Regional Hospital,St Aidans Hospital,031 3142200,31.010982,-29.850741
+KwaZulu-Natal,Regional Hospital,St Aidans Hospital,313142200,31.010982,-29.850741
 KwaZulu-Natal,Clinic,St Andrew's Gateway Clinic,083-3780595,28.04807,-30.575155
 KwaZulu-Natal,District Hospital,St Andrew's Hospital,039-4331955,29.88928,-30.57556
 KwaZulu-Natal,Clinic,St Apollinaris Gateway Clinic,039-8338000,29.727421,-30.017389
@@ -1808,36 +1808,36 @@ KwaZulu-Natal,Clinic,St Francis Gateway Clinic,035-8730203,31.47712,-28.22367
 KwaZulu-Natal,District Hospital,St Francis Hospital,035-8730203,31.47673,-28.22467
 KwaZulu-Natal,Clinic,St Margaret's Clinic,083-5184389,29.939128,-30.294234
 KwaZulu-Natal,Specialised Tb Hospital,St Margaret's TB Hospital,071-0466360,29.93272,-30.26925
-KwaZulu-Natal,Clinic,Stafford Clinic,034 3745800,30.080899,-27.768868
+KwaZulu-Natal,Clinic,Stafford Clinic,343745800,30.080899,-27.768868
 KwaZulu-Natal,Regional Hospital,Stanger Hospital,032-4376000,31.285581,-29.335753
-KwaZulu-Natal,Clinic,Starwood Clinic,031 5079325,31.006368,-29.703323
+KwaZulu-Natal,Clinic,Starwood Clinic,315079325,31.006368,-29.703323
 KwaZulu-Natal,Clinic,Steadville Clinic,036-6376832,29.81747,-28.56131
 KwaZulu-Natal,Clinic,Stedham Clinic,035-8739000,31.30274,-28.0628
-KwaZulu-Natal,Clinic,Stonebridge Clinic,031 5391552,31.017907,-29.723963
+KwaZulu-Natal,Clinic,Stonebridge Clinic,315391552,31.017907,-29.723963
 KwaZulu-Natal,Clinic,Stott Road Clinic,033-3441665,30.33705,-29.60682
-KwaZulu-Natal,Clinic,Sukumani Clinic,034 3667389,30.096295,-27.780449
+KwaZulu-Natal,Clinic,Sukumani Clinic,343667389,30.096295,-27.780449
 KwaZulu-Natal,CHC,Sundumbili CHC,032-4547500,31.400921,-29.13652
-KwaZulu-Natal,Clinic,Swart Mfolozi Clinic,034 952 1407,31.210172,-27.93459
+KwaZulu-Natal,Clinic,Swart Mfolozi Clinic,349521407,31.210172,-27.93459
 KwaZulu-Natal,Clinic,Sydenham Heights Clinic,031-2098663,30.981558,-29.827214
 KwaZulu-Natal,Clinic,Taylors Halt Clinic,033-5050043,30.191312,-29.682034
 KwaZulu-Natal,Clinic,Thafamasi Clinic,032-5320050,30.856175,-29.535507
 KwaZulu-Natal,Clinic,Thalaneni Clinic,035-8337002,31.045354,-28.553786
-KwaZulu-Natal,Clinic,Thandanani Clinic (Dannhauser),034 621 2666,30.060128,-28.029623
+KwaZulu-Natal,Clinic,Thandanani Clinic (Dannhauser),346212666,30.060128,-28.029623
 KwaZulu-Natal,Clinic,Thembalesizwe Clinic,039-3139419,30.15106,-30.86096
-KwaZulu-Natal,Clinic,Thembalihle Clinic,034 3669318,30.2477,-27.92863
+KwaZulu-Natal,Clinic,Thembalihle Clinic,343669318,30.2477,-27.92863
 KwaZulu-Natal,Clinic,Thembumusa Clinic,034-9331011,30.72538,-27.98956
 KwaZulu-Natal,Clinic,Thengane Clinic,079-3173429/083-5898782,32.69127,-27.01977
 KwaZulu-Natal,Clinic,Thokozani Clinic,035-7960109,31.910061,-28.86794
-KwaZulu-Natal,Clinic,Tholusizo Clinic,036 4222315,29.838567,-28.736713
+KwaZulu-Natal,Clinic,Tholusizo Clinic,364222315,29.838567,-28.736713
 KwaZulu-Natal,Clinic,Thonjeni Clinic,039-4330320,30.12131,-30.64673
 KwaZulu-Natal,Specialised Tb Hospital,Thulasizwe Hospital,035-8326000,31.367512,-27.952137
 KwaZulu-Natal,Clinic,Tobolsk Clinic,034-4132080,31.22592,-27.30378
-KwaZulu-Natal,CHC,Tongaat CHC,032 9445054,31.116977,-29.568754
+KwaZulu-Natal,CHC,Tongaat CHC,329445054,31.116977,-29.568754
 KwaZulu-Natal,Specialised Psychiatric Hospital,Townhill Hospital (Psychiatric),033-3415505,30.37065,-29.58822
 KwaZulu-Natal,Clinic,Trenance Park Clinic,032-5357115,31.004367,-29.653803
 KwaZulu-Natal,Clinic,Tsatsi Memorial Clinic,039-8328055,29.6722,-29.64956
 KwaZulu-Natal,Clinic,Tshelimnyama Clinic,031-7000641,30.808952,-29.84314
-KwaZulu-Natal,Clinic,Ukuthula Clinic,033 4139160,30.606097,-29.071788
+KwaZulu-Natal,Clinic,Ukuthula Clinic,334139160,30.606097,-29.071788
 KwaZulu-Natal,Clinic,Ulundi A Clinic,035-8791544,31.41422,-28.33395
 KwaZulu-Natal,Clinic,Umbumbulu Clinic,031-9150174,30.699194,-29.981191
 KwaZulu-Natal,Specialised Psychiatric Hospital,Umgeni Waterfall Institute Hospital,033-3306146,30.232358,-29.500816
@@ -1854,7 +1854,7 @@ KwaZulu-Natal,Clinic,Umnini Clinic,031-4769202,30.823766,-30.12931
 KwaZulu-Natal,District Hospital,Umphumulo Hospital,032-4814101,31.041884,-29.141566
 KwaZulu-Natal,Clinic,Umtentweni Clinic,039-6950030,30.47349,-30.71964
 KwaZulu-Natal,Clinic,Umzimkhulu Clinic,084-3839941,29.930041,-30.260717
-KwaZulu-Natal,Specialised Psychiatric Hospital,Umzimkhulu Hospital,039 259 0310,29.930041,-30.260717
+KwaZulu-Natal,Specialised Psychiatric Hospital,Umzimkhulu Hospital,392590310,29.930041,-30.260717
 KwaZulu-Natal,Clinic,Umzinto Clinic,039-9742094,30.66762,-30.30439
 KwaZulu-Natal,Clinic,Umzinto North Clinic,039-9742094,30.66793,-30.30441
 KwaZulu-Natal,Clinic,Umzomuhle (Umlazi H) Clinic,031-9081115,30.86832,-29.950912
@@ -1864,25 +1864,25 @@ KwaZulu-Natal,Clinic,Usuthu Clinic,082-9533122,31.49389,-27.96356
 KwaZulu-Natal,Clinic,Verdriet Clinic,082-5930875,30.146356,-27.991332
 KwaZulu-Natal,Clinic,Verulam Clinic,031-3221722,31.0471,-29.645994
 KwaZulu-Natal,Clinic,Vryheid Gateway Clinic,034-9822111,30.79666,-27.7585
-KwaZulu-Natal,District Hospital,Vryheid Hospital,034 982 2111,30.796942,-27.75871
+KwaZulu-Natal,District Hospital,Vryheid Hospital,349822111,30.796942,-27.75871
 KwaZulu-Natal,Clinic,Vumanhlamvu Clinic,035-5833709,31.116382,-28.685324
 KwaZulu-Natal,Clinic,Walton Clinic,036-6372194,29.77847,-28.55752
-KwaZulu-Natal,Clinic,Wasbank Clinic,034 6511139,30.09895,-28.31371
+KwaZulu-Natal,Clinic,Wasbank Clinic,346511139,30.09895,-28.31371
 KwaZulu-Natal,Clinic,Waterfall Clinic,031-7621510,30.818257,-29.749316
 KwaZulu-Natal,Clinic,Watersmeet Clinic,036-6312749,29.734626,-28.396294
 KwaZulu-Natal,Clinic,Wela Clinic,035-8739052,31.56834,-28.2261
 KwaZulu-Natal,Clinic,Welbedacht Clinic,031-4063796,30.859922,-29.925196
 KwaZulu-Natal,Clinic,Wembezi Clinic,036-3532396,29.78524,-29.05206
-KwaZulu-Natal,District Hospital,Wentworth Hospital,031 4605000,30.993783,-29.92789
+KwaZulu-Natal,District Hospital,Wentworth Hospital,314605000,30.993783,-29.92789
 KwaZulu-Natal,Clinic,Westville Clinic,031-3116697,30.911947,-29.83398
 KwaZulu-Natal,Clinic,Weza Clinic,039-5530272,29.74543,-30.59111
 KwaZulu-Natal,Clinic,Willowfountain Clinic,033-3219356,30.326965,-29.704106
 KwaZulu-Natal,Clinic,Woodlands Clinic,033-3876667,30.392658,-29.579886
 KwaZulu-Natal,Clinic,Wosiyane Clinic,032-5320048,30.782637,-29.555043
-KwaZulu-Natal,Clinic,Wyebank Clinic,031 7110989,30.876689,-29.77072
+KwaZulu-Natal,Clinic,Wyebank Clinic,317110989,30.876689,-29.77072
 KwaZulu-Natal,Clinic,Xhamini Clinic,039-4330400,29.90819,-30.74335
 KwaZulu-Natal,Clinic,Xulu Clinic,035-8346002,30.941558,-28.648761
-KwaZulu-Natal,Clinic,Zama Zama Clinic,035 591-0490,32.28077,-27.12576
+KwaZulu-Natal,Clinic,Zama Zama Clinic,035591-0490,32.28077,-27.12576
 KwaZulu-Natal,Clinic,Zilulwane Clinic,035-8799010,31.60549,-28.33705
 KwaZulu-Natal,Clinic,Zwelibomvu Clinic,031-7031697,30.70911,-29.885579
 KwaZulu-Natal,Clinic,Zwelisha Clinic,036-3539333,29.736734,-29.059236
@@ -1890,11 +1890,11 @@ Limpopo,Clinic,A Mamabolo Clinic,015-2674835,29.820583,-23.879333
 Limpopo,Clinic,Abbotspoort Clinic,014-7632444,28.094192,-23.454984
 Limpopo,Clinic,Alldays Clinic,015-5751527,29.10583,-22.68309
 Limpopo,Clinic,Alma Clinic,071-6059665,28.07,-24.48883
-Limpopo,Clinic,Ambergate Clinic,015 228 0902/3,28.93679,-23.51674
+Limpopo,Clinic,Ambergate Clinic,0152280902/0152280903,28.93679,-23.51674
 Limpopo,Clinic,Armoed Clinic,082-8440683,28.98525,-23.95502
 Limpopo,Clinic,Bakenberg Clinic,015-4230038,28.755931,-23.864862
 Limpopo,Clinic,Basani Clinic,071-8831186,30.519226,-23.369387
-Limpopo,Clinic,Bavaria Clinic,015 483 3900/0,28.83294,-23.52411
+Limpopo,Clinic,Bavaria Clinic,154833900,28.83294,-23.52411
 Limpopo,Clinic,Beaconsfield Clinic,015-9736835,30.118812,-22.921626
 Limpopo,Clinic,Bela-Bela Clinic,014-7377483,28.31111,-24.88501
 Limpopo,Clinic,Bellevue Clinic,015-3106006,30.420756,-23.41218
@@ -1907,12 +1907,12 @@ Limpopo,Clinic,Bokwalakwala Clinic,082-4085059,28.95101,-24.147287
 Limpopo,Clinic,Bolobedu Clinic,015-3110072,30.346306,-23.623606
 Limpopo,Clinic,Boschkloof Clinic,013-2609900,30.093535,-24.803867
 Limpopo,Clinic,Boschplaats Clinic,071-4428785,29.551583,-24.458639
-Limpopo,Clinic,Botlokwa Gateway Clinic,015 527 8037/63,29.742715,-23.49267
-Limpopo,District Hospital,Botlokwa Hospital,015 527 8061,29.742715,-23.49267
+Limpopo,Clinic,Botlokwa Gateway Clinic,0155278037/63,29.742715,-23.49267
+Limpopo,District Hospital,Botlokwa Hospital,155278061,29.742715,-23.49267
 Limpopo,Clinic,Buffelshoek Clinic (Blouberg),015-5059009,28.924309,-23.149402
 Limpopo,Clinic,Buitestraat Clinic,0152976852/0152975403,29.44171,-23.90203
 Limpopo,CHC,Bungeni CHC,015-8730065,30.197559,-23.202958
-Limpopo,Clinic,Burgerecht Clinic,05 59 9904,28.95354,-22.987281
+Limpopo,Clinic,Burgerecht Clinic,5599904,28.95354,-22.987281
 Limpopo,CHC,Burgersfort CHC,013-2317843,30.322735,-24.665504
 Limpopo,Clinic,Byldrift Clinic,015-6620135,29.50373,-24.5457
 Limpopo,Clinic,Calais Clinic,083-3954723,30.33522,-24.13552
@@ -1925,18 +1925,18 @@ Limpopo,Clinic,Damani Clinic,072-2572749/082-9907123,30.512069,-22.835295
 Limpopo,Clinic,Dan Village Clinic,015-3030962,30.1617,-23.5414
 Limpopo,Clinic,Davhana Clinic,015-5961473,30.456778,-23.209845
 Limpopo,Clinic,De Hoop Clinic,073-1307468,30.276443,-23.187468
-Limpopo,Clinic,De Vrede Clinic,0155059027/28,29.02086,-22.91736
+Limpopo,Clinic,De Vrede Clinic,0155059027/0155059028,29.02086,-22.91736
 Limpopo,Clinic,Dendron Clinic,015-5010059,29.3275,-23.36725
 Limpopo,Clinic,Diana Clinic,015-2249902,29.06661,-23.86978
 Limpopo,Clinic,Dichoeung Clinic,013-2667114,29.887812,-24.752302
 Limpopo,Clinic,Dikgalaopeng Clinic,013-2678100,29.457291,-24.985494
 Limpopo,Clinic,Dikgale Clinic,015-2674833,29.773139,-23.750333
 Limpopo,Clinic,Dilokong Gateway Clinic,013-2147138,30.170742,-24.614375
-Limpopo,District Hospital,Dilokong Hospital,013 214 7265,30.170742,-24.614375
+Limpopo,District Hospital,Dilokong Hospital,132147265,30.170742,-24.614375
 Limpopo,Clinic,Dithabaneng Clinic,015-6341910,29.577611,-24.370444
 Limpopo,District Hospital,Donald Fraser Hospital,015-9631778,30.479041,-22.886534
 Limpopo,District Hospital,Dr CN Phatudi Hospital,015-3558000,30.28052,-24.027411
-Limpopo,Clinic,Dr Hugo Nkabinde Clinic,0153127900/1,30.426295,-23.668715
+Limpopo,Clinic,Dr Hugo Nkabinde Clinic,0153127900/0153127901,30.426295,-23.668715
 Limpopo,CHC,Dr Machupe Mphahlele CHC,076-3594882,29.337278,-24.310972
 Limpopo,CHC,Duiwelskloof CHC,015-3099241,30.1349,-23.688903
 Limpopo,Clinic,Duiwelskloof Gateway Clinic,015-3099074,30.1349,-23.688903
@@ -1955,14 +1955,14 @@ Limpopo,Clinic,Ellisras Clinic,014-7632627,27.745816,-23.667839
 Limpopo,District Hospital,Ellisras Hospital,014-763-2227,27.701297,-23.678034
 Limpopo,Clinic,Evelyn Lekganyane Clinic,015-8660095,29.798528,-23.94575
 Limpopo,Specialised Psychiatric Hospital,Evuxakeni Hospital,015-8121138,30.729876,-23.318573
-Limpopo,District Hospital,FH Odendaal (Nylstroom) Hospital,0147175257/8,28.415805,-24.692743
+Limpopo,District Hospital,FH Odendaal (Nylstroom) Hospital,0147175257/0147175258,28.415805,-24.692743
 Limpopo,Specialised Tb Hospital,FH Odendaal MDR Hospital,014-7172325,28.392963,-24.708943
 Limpopo,Clinic,Folovhodwe Clinic,071-8619829,30.427727,-22.588436
 Limpopo,Clinic,Fondwe Clinic,015-9738089,30.259019,-22.917496
 Limpopo,Clinic,Frisgewaght Clinic,013-2631900,29.66878,-25.02083
 Limpopo,Clinic,George Masebe Gateway Clinic,015-4236067,28.693596,-23.875615
 Limpopo,District Hospital,George Masebe Hospital,015-4236000,28.693596,-23.875615
-Limpopo,Clinic,Gideon Clinic,015 592 9916/17,28.67753,-22.901019
+Limpopo,Clinic,Gideon Clinic,0155929916/0155929917,28.67753,-22.901019
 Limpopo,CHC,Giyani CHC,015-8120341,30.723224,-23.312957
 Limpopo,Clinic,Goedentrou Clinic,015-5059005,28.91244,-23.40075
 Limpopo,Clinic,Goedgedach Clinic,071-8601545,29.71783,-25.06067
@@ -1977,7 +1977,7 @@ Limpopo,Specialised Psychiatric Hospital,Hayani Hospital,015-9631208,30.485537,-
 Limpopo,CHC,HC Boshoff Gateway Clinic,013-2149911,30.0814,-24.59593
 Limpopo,Clinic,Helderwater Clinic,015-8730262,30.29619,-23.28194
 Limpopo,Clinic,Helene Franz Gateway Clinic,015-5050750,29.10823,-23.28185
-Limpopo,District Hospital,Helene Franz Hospital,015 5050 750,29.11313,-23.28381
+Limpopo,District Hospital,Helene Franz Hospital,155050750,29.11313,-23.28381
 Limpopo,Clinic,Hlaneki Clinic,015-8110056,30.40604,-23.31558
 Limpopo,Clinic,Hlogotlou Clinic,071-6059957,29.733556,-25.028924
 Limpopo,Clinic,Hoedspruit Clinic,015-7932342,30.951246,-24.355627
@@ -1988,7 +1988,7 @@ Limpopo,Clinic,J Mamabolo Clinic,015-2672904,29.820403,-23.879667
 Limpopo,Clinic,Jakkalskuil Clinic,015-4240904,28.60781,-23.83317
 Limpopo,Clinic,Jamela Clinic,015-3451437,30.22164,-23.57629
 Limpopo,Clinic,Jane Furse Gateway Clinic,082-6964128,29.854789,-24.756818
-Limpopo,District Hospital,Jane Furse Hospital,013 265 9400,29.854789,-24.756818
+Limpopo,District Hospital,Jane Furse Hospital,132659400,29.854789,-24.756818
 Limpopo,CHC,Julesburg CHC,015-3839989,30.32853,-24.06953
 Limpopo,Clinic,Keerom Clinic,071-8619826,29.003091,-24.964793
 Limpopo,Clinic,Kgapane Clinic,015-3287100,30.21775,-23.64075
@@ -2000,7 +2000,7 @@ Limpopo,Clinic,Khomela Clinic,082-2627295,30.261318,-22.70679
 Limpopo,Clinic,Khujwana Clinic,082-9907134,30.2395,-23.93017
 Limpopo,Clinic,Kibi Clinic,015-5920002,28.84697,-22.83644
 Limpopo,Clinic,Klipspruit Clinic,013-2631177,29.740741,-25.008715
-Limpopo,Clinic,Krantzplaas Clinic,015 228 0905,28.91639,-23.48622
+Limpopo,Clinic,Krantzplaas Clinic,152280905,28.91639,-23.48622
 Limpopo,Clinic,Kremetart Clinic,071-8619892,30.69169,-23.31128
 Limpopo,Clinic,Kromdraai Clinic,014-7350996,27.87869,-24.95978
 Limpopo,Clinic,Kromhoek Clinic,015-5059014,29.02653,-22.93269
@@ -2049,7 +2049,7 @@ Limpopo,Clinic,Maja Clinic,0156511900/0156511901,29.537,-24.182778
 Limpopo,Clinic,Makahlule Clinic,073-6546280/082-9907163,30.91145,-22.892465
 Limpopo,Clinic,Makanye Clinic,015-2674254,29.724056,-23.897889
 Limpopo,Clinic,Makeepsvlei Clinic,013-9748440,29.044939,-24.930143
-Limpopo,Clinic,Makgato Clinic,015 527 7900,29.66342,-23.50556
+Limpopo,Clinic,Makgato Clinic,155277900,29.66342,-23.50556
 Limpopo,Clinic,Makgope Clinic,015-3127902,30.46803,-23.617767
 Limpopo,CHC,Makhado CHC,015-9704080,30.033966,-22.900885
 Limpopo,Clinic,Makhushane Clinic,015-7696001,31.04407,-23.965475
@@ -2104,10 +2104,10 @@ Limpopo,Clinic,Matavhela Clinic,071-8619942/073-8449222,30.524605,-22.671483
 Limpopo,Clinic,Mathabatha Clinic,015-6190403,29.871694,-24.20625
 Limpopo,Clinic,Matiyani Clinic,071-8619946,30.977865,-22.74638
 Limpopo,Clinic,Matlala Clinic (Aganang),015-2270002,29.056199,-23.745666
-Limpopo,District Hospital,Matlala Clinic (Marble Hall),013 264 9501,29.093527,-25.030771
+Limpopo,District Hospital,Matlala Clinic (Marble Hall),132649501,29.093527,-25.030771
 Limpopo,Clinic,Matlala Gateway Clinic,013-2645183,29.503607,-24.832837
 Limpopo,District Hospital,Matlala Hospital,013-2645030,29.503607,-24.832837
-Limpopo,Clinic,Matoks Clinic,015 527 0002,29.71385,-23.47785
+Limpopo,Clinic,Matoks Clinic,155270002,29.71385,-23.47785
 Limpopo,Clinic,Matsa Clinic,071-6060298,29.954843,-22.867602
 Limpopo,Clinic,Matsageng Clinic,071-8619814,30.057703,-24.493407
 Limpopo,Clinic,Matsepe Clinic,071-6060122,29.49703,-25.02339
@@ -2131,7 +2131,7 @@ Limpopo,Clinic,Moeding Clinic,013-2668000,29.457462,-24.953848
 Limpopo,Clinic,Moganyaka Clinic,013-2667045,29.410288,-24.951321
 Limpopo,Clinic,Mogoboya Clinic,082-9907127,30.197151,-24.014208
 Limpopo,Clinic,Mogodi Clinic,015-5059011,29.237221,-23.327327
-Limpopo,Clinic,Mogoto Clinic,0156421901/02,29.288333,-24.340833
+Limpopo,Clinic,Mogoto Clinic,0156421901/0156421902,29.288333,-24.340833
 Limpopo,Clinic,Mohlaletse Clinic,082-9907138,29.884156,-24.471645
 Limpopo,Clinic,Moime Clinic,082-9907126,30.245517,-23.975693
 Limpopo,Clinic,Mokamole Clinic,015-4240902,28.61325,-23.96275
@@ -2177,7 +2177,7 @@ Limpopo,CHC,Mutale CHC,015-9672016,30.5212,-22.736636
 Limpopo,Clinic,Muwaweni Clinic,082-9907121,30.115859,-23.317435
 Limpopo,Clinic,Muyexe Clinic,071-8621379,30.916871,-23.194534
 Limpopo,Clinic,My Darling Clinic,015-5929908,28.798556,-23.083236
-Limpopo,Clinic,Naboomkoppies Clinic,015 224 1445,30.34906,-24.557
+Limpopo,Clinic,Naboomkoppies Clinic,152241445,30.34906,-24.557
 Limpopo,Clinic,Naboomspruit Clinic,014-7430824,28.71,-24.5162
 Limpopo,Clinic,Namakgale A Clinic,015-7693061,31.04083,-23.94067
 Limpopo,Clinic,Namakgale B Clinic,015-7691637,31.016376,-23.928104
@@ -2185,7 +2185,7 @@ Limpopo,Clinic,Nancefield Clinic,015-5330255,30.033958,-22.331464
 Limpopo,CHC,Nchabeleng CHC,082-7021604,29.800673,-24.43998
 Limpopo,Clinic,Ndengeza Clinic,071-8601617,30.406079,-23.315698
 Limpopo,Clinic,Nghezimani Clinic,071-8619936/073-0833907,30.807587,-22.910966
-Limpopo,Clinic,Ngoabe Clinic,013 260 7204,29.97694,-24.87647
+Limpopo,Clinic,Ngoabe Clinic,132607204,29.97694,-24.87647
 Limpopo,Clinic,Ngobe Clinic,015-8115908,30.721982,-23.361968
 Limpopo,Clinic,Nkhensani Clinic,015-8731743,30.136791,-23.197951
 Limpopo,District Hospital,Nkhensani Hospital,015-8117300,30.6927,-23.311853
@@ -2198,7 +2198,7 @@ Limpopo,Clinic,Northam Clinic,014-784-0169,27.26433,-24.95264
 Limpopo,Clinic,Nthabalala Clinic,015-6840756,29.913218,-23.484495
 Limpopo,Clinic,Ntlhaveni C Clinic,071-8619947,30.870523,-22.914254
 Limpopo,Clinic,Ntlhaveni D Clinic,071-8619937,30.884835,-22.869196
-Limpopo,Clinic,Ntlhaveni E Clinic,015851 0056,30.883757,-23.020357
+Limpopo,Clinic,Ntlhaveni E Clinic,158510056,30.883757,-23.020357
 Limpopo,Clinic,Ntluri Clinic,071-8619895,30.33591,-23.41279
 Limpopo,Clinic,Nyavana Clinic,015-3869922,30.478365,-23.655919
 Limpopo,Clinic,Nylstroom LA Clinic,014-7171929,28.40659,-24.70366
@@ -2215,21 +2215,21 @@ Limpopo,Clinic,Pfanani Clinic,083-2722344,30.430128,-22.952737
 Limpopo,Clinic,Phaahla Clinic,013-2190903,29.73542,-24.69764
 Limpopo,Clinic,Phaahlamanoge Clinic,013-2190902,29.85,-24.58
 Limpopo,Clinic,Phadzima Clinic,015-9738128,30.189427,-22.947141
-Limpopo,Clinic,Phafola Clinic,015 413 0904,28.87575,-23.91619
+Limpopo,Clinic,Phafola Clinic,154130904,28.87575,-23.91619
 Limpopo,Clinic,Phagameng Clinic,014-7174051,28.44295,-24.69372
 Limpopo,Clinic,Phalaborwa Busstop Clinic,015-7812156,31.148354,-23.952146
 Limpopo,Clinic,Phasha Clinic,015-6150900,30.00456,-24.32822
 Limpopo,Clinic,Phatantsoane Clinic,013-2647946,29.898836,-24.932259
 Limpopo,Clinic,Pheeha Clinic,071-8607101,30.045786,-23.451495
 Limpopo,Clinic,Philadelphia Gateway Clinic,013-9830112,29.14855,-25.292
-Limpopo,Regional Hospital,Philadelphia Hospital,013 983 0112,29.14867,-25.259392
+Limpopo,Regional Hospital,Philadelphia Hospital,139830112,29.14867,-25.259392
 Limpopo,Clinic,Phiphidi Clinic,082-0819409,30.387231,-22.951211
 Limpopo,Clinic,Phokoane Clinic,013-2640113,29.74227,-24.866366
 Limpopo,Clinic,Pholotji Clinic,015-4130902,28.89345,-24.0301
 Limpopo,Clinic,Phuti Clinic,015-6182900,29.706778,-23.955806
 Limpopo,Clinic,Pienaarsrivier Clinic,082-9907053,28.301366,-25.216643
-Limpopo,Tertiary Hospital,Pietersburg Hospital,015 287 5000,29.456899,-23.895137
-Limpopo,Clinic,Potgietersrus/Mogalakwena Clinic,015 491 3061,29.011742,-24.179617
+Limpopo,Tertiary Hospital,Pietersburg Hospital,152875000,29.456899,-23.895137
+Limpopo,Clinic,Potgietersrus/Mogalakwena Clinic,154913061,29.011742,-24.179617
 Limpopo,Clinic,Praktiseer Clinic,013-2161858,30.31433,-24.57767
 Limpopo,Clinic,Probeerin Clinic,013-2197001,29.728097,-24.620744
 Limpopo,Clinic,Rabali Clinic,015-9704067,30.093178,-22.880226
@@ -2262,11 +2262,11 @@ Limpopo,Clinic,Schoonoord Clinic,013-2601032,30.010207,-24.75505
 Limpopo,Clinic,Seakamela Clinic,015-5059034,29.1015,-23.14132
 Limpopo,Clinic,Seapole Clinic,015-3117020,30.460099,-23.496298
 Limpopo,Clinic,Sebayeng Clinic,015-2672909,29.701694,-23.766361
-Limpopo,Clinic,Segole Clinic,015 571 7904,28.64022,-23.60242
+Limpopo,Clinic,Segole Clinic,155717904,28.64022,-23.60242
 Limpopo,Clinic,Sehlale Clinic,076-1654801,29.806139,-23.998417
-Limpopo,Clinic,Sekgakgapeng Clinic,0154833906/7/8,28.96594,-24.17334
+Limpopo,Clinic,Sekgakgapeng Clinic,0154833906/0154833907/0154833908,28.96594,-24.17334
 Limpopo,Clinic,Sekgopo Clinic,015-3974258,29.9817,-23.617764
-Limpopo,Clinic,Sekororo Clinic,0153839925/6,30.406259,-24.214615
+Limpopo,Clinic,Sekororo Clinic,0153839925/0153839926,30.406259,-24.214615
 Limpopo,Clinic,Sekororo Gateway Clinic,015-3839400,30.448244,-24.252237
 Limpopo,District Hospital,Sekororo Hospital,015-3839400,30.448244,-24.252237
 Limpopo,Clinic,Selala Clinic,013-2147138,30.1379,-24.50656
@@ -2280,7 +2280,7 @@ Limpopo,Clinic,Seobi-Dikgale Clinic,015-7791718,29.750639,-23.800694
 Limpopo,Clinic,Seroka Clinic,082-9907142,29.930658,-24.507051
 Limpopo,District Hospital,Seshego Hospital,015-2236169,29.396453,-23.854908
 Limpopo,Clinic,Seshego I Clinic,015-2235141,29.396453,-23.854908
-Limpopo,Clinic,Seshego II Clinic,0152239900/1,29.3914,-23.84615
+Limpopo,Clinic,Seshego II Clinic,0152239900/0152239901,29.3914,-23.84615
 Limpopo,Clinic,Seshego III Clinic,015-2236895,29.386472,-23.841333
 Limpopo,Clinic,Seshego IV Clinic,015-2236902,29.37225,-23.847194
 Limpopo,Clinic,Setlabosoane Clinic,013-2688000,29.470031,-24.673918
@@ -2297,7 +2297,7 @@ Limpopo,Clinic,Shivulani Clinic,015-8517905,30.702351,-23.141554
 Limpopo,Clinic,Shongoane Clinic,014-7690006,28.10367,-23.56767
 Limpopo,Clinic,Shotong Clinic,015-3117022,30.298976,-23.630538
 Limpopo,Clinic,Sibasa Clinic,051-9631300,30.491459,-22.946373
-Limpopo,District Hospital,Siloam Hospital,015 973 0004,30.193683,-22.900964
+Limpopo,District Hospital,Siloam Hospital,159730004,30.193683,-22.900964
 Limpopo,Clinic,Skimming Clinic,015-3106002,30.560964,-23.430333
 Limpopo,Clinic,Slypsteen Clinic,015-6620050,29.4057,-24.4459
 Limpopo,Clinic,Smugglers Union Clinic,015-6620192,29.430833,-24.537778
@@ -2314,7 +2314,7 @@ Limpopo,Clinic,Straighthardt Clinic,082-9907109,30.143799,-22.755978
 Limpopo,Clinic,Swaranang Clinic,013-7699542,30.647907,-24.50976
 Limpopo,Clinic,Swartklip Clinic,014-786-0751,27.155749,-24.937811
 Limpopo,Clinic,Taaibos Clinic,015-5929906,28.91726,-22.84608
-Limpopo,Clinic,Taung Clinic,013 216 8008,30.396042,-24.455051
+Limpopo,Clinic,Taung Clinic,132168008,30.396042,-24.455051
 Limpopo,Specialised Psychiatric Hospital,Thabamoopo Hospital,015-6329000,29.54685,-24.302306
 Limpopo,Clinic,Thabazimbi Clinic,014-777-1336,27.39007,-24.6064
 Limpopo,District Hospital,Thabazimbi Hospital,014-777-1599,27.4069,-24.59871
@@ -2338,7 +2338,7 @@ Limpopo,Clinic,Tshififi Clinic,082-2990715,30.553209,-22.917281
 Limpopo,Clinic,Tshifudi Clinic,082-3592099,30.698708,-22.81482
 Limpopo,Clinic,Tshikundamalema Clinic,082-9907088,30.691075,-22.67161
 Limpopo,Clinic,Tshikuwi Clinic,082-9907119,29.950029,-22.90221
-Limpopo,Clinic,Tshilidzi Gateway Clinic,0159641061/9,30.41463,-22.995005
+Limpopo,Clinic,Tshilidzi Gateway Clinic,0159641061/0159641069,30.41463,-22.995005
 Limpopo,Regional Hospital,Tshilidzini Hospital,015-6410119,30.41463,-22.995005
 Limpopo,CHC,Tshilwavhusiku CHC,015-5164485,29.738123,-23.097137
 Limpopo,Clinic,Tshimbupfe Clinic,015-9615486,30.491205,-23.120045
@@ -2349,7 +2349,7 @@ Limpopo,Clinic,Tshisaulu Clinic,015-9641047,30.398027,-22.998743
 Limpopo,Clinic,Tshiungani Clinic,082-9907110,30.580353,-22.49817
 Limpopo,Clinic,Tshixwadza Clinic,082-9907112,30.351638,-22.800858
 Limpopo,Clinic,Tswaing Clinic,015-6341904,29.675671,-24.4755
-Limpopo,Clinic,Tswinga Clinic,015 5619899,30.475779,-23.022547
+Limpopo,Clinic,Tswinga Clinic,155619899,30.475779,-23.022547
 Limpopo,Clinic,Turkey Clinic,015-3839933,30.509902,-24.30875
 Limpopo,Clinic,Tzaneen Clinic,015-3074998,30.15567,-23.8375
 Limpopo,Clinic,Tzaneen LA Clinic,015-3078294,30.15823,-23.829401
@@ -2357,7 +2357,7 @@ Limpopo,Clinic,Unit R Clinic,015-6324194,29.53038,-24.30245
 Limpopo,Clinic,Vaalkop Clinic,015-4831007,28.93253,-24.00507
 Limpopo,Clinic,Vaalwater Clinic,014-7553839,28.11132,-24.29443
 Limpopo,Clinic,Valdezia Clinic,015-5563155,30.179577,-23.10027
-Limpopo,Clinic,Van der Merwes Kraal Clinic,0138622010 / 0132645000,29.44483,-24.66442
+Limpopo,Clinic,Van der Merwes Kraal Clinic,0138622010/0132645000,29.44483,-24.66442
 Limpopo,District Hospital,Van Velden Memorial (Tzaneen) Hospital,015-3078800,30.164659,-23.834556
 Limpopo,Clinic,Vhambelani Maelula Clinic,082-9907114,30.147496,-22.979246
 Limpopo,Clinic,Vhufuli Tshitereke Clinic,015-9631778,30.48197,-22.882976
@@ -2375,7 +2375,7 @@ Limpopo,Clinic,WF Knobel Gateway Clinic,015-2211589,29.1209,-23.633
 Limpopo,District Hospital,WF Knobel Hospital,015-2211500,29.12057,-23.63409
 Limpopo,CHC,William Eddie CHC,082-9907122,30.544878,-22.872883
 Limpopo,Clinic,Willows Clinic,015-3839929,30.622265,-24.359627
-Limpopo,Clinic,Witfontein Clinic,013 973 7209,29.043083,-25.2319
+Limpopo,Clinic,Witfontein Clinic,139737209,29.043083,-25.2319
 Limpopo,District Hospital,Witpoort Hospital,014-7690025,28.01054,-23.33521
 Limpopo,CHC,Zaaiplaas CHC,013-2639430,29.746331,-25.170883
 Limpopo,Clinic,Zangoma Clinic,015-3457900,30.340848,-23.91278
@@ -2408,7 +2408,7 @@ Mpumalanga,Clinic,Boschfontein Clinic,013-7853000,31.619875,-25.744697
 Mpumalanga,Clinic,Botleng Clinic,013-3665513,28.694385,-26.129975
 Mpumalanga,Clinic,Botleng Extension 3 Clinic,013-6658928,28.694508,-26.104772
 Mpumalanga,Clinic,Boulders Clinic,084-5041709,31.307272,-25.553293
-Mpumalanga,Clinic,Bourkes Luck Clinic,013 761 6904,30.8107,-24.6804
+Mpumalanga,Clinic,Bourkes Luck Clinic,137616904,30.8107,-24.6804
 Mpumalanga,Clinic,Breyten Clinic,017-861-3913,29.980364,-26.30575
 Mpumalanga,Clinic,Brondal Clinic,013-7553713,30.840399,-25.353814
 Mpumalanga,Clinic,Brooklyn Clinic,013-7950519,30.992796,-24.600014
@@ -2422,7 +2422,7 @@ Mpumalanga,Clinic,Chrissiesmeer/Kwachibikhulu Clinic,017-847-0349,30.224263,-26.
 Mpumalanga,Clinic,Clau Clau Clinic,082-2231076,31.162629,-25.363907
 Mpumalanga,Clinic,Cork Clinic,013-7086047,31.310834,-24.956231
 Mpumalanga,Clinic,Cottondale Clinic,013-7950647,31.148866,-24.616136
-Mpumalanga,Clinic,Cunningmoore Clinic,013 708 7916,31.213733,-24.899188
+Mpumalanga,Clinic,Cunningmoore Clinic,137087916,31.213733,-24.899188
 Mpumalanga,CHC,Daggakraal/Thembalokuphila CHC,017-753-9033,29.966514,-27.12882
 Mpumalanga,Clinic,Davel Clinic,073-0442598,29.6611,-26.4612
 Mpumalanga,Clinic,De Beersput Clinic,013-975-7000,28.862495,-25.049622
@@ -2457,7 +2457,7 @@ Mpumalanga,Clinic,Ezamokuhle Clinic,017-753-1509,29.849381,-27.000609
 Mpumalanga,Clinic,Eziweni Clinic,013-7942757,31.1811,-25.413
 Mpumalanga,Clinic,Fernie 1 Clinic,017-888-0105,30.794898,-26.397785
 Mpumalanga,Clinic,Fernie 2 Clinic,017-888-0823,30.774011,-26.418015
-Mpumalanga,Clinic,Fig Tree Clinic,013 782 0205,31.85256,-25.813042
+Mpumalanga,Clinic,Fig Tree Clinic,137820205,31.85256,-25.813042
 Mpumalanga,Clinic,Gemsbokspruit Clinic,013-945-8105,28.875504,-25.404099
 Mpumalanga,Clinic,Glenthorpe Clinic,013-7126612,30.842534,-25.73028
 Mpumalanga,Clinic,Glory Hill Clinic,013-7672108,30.484166,-24.558575
@@ -2486,7 +2486,7 @@ Mpumalanga,CHC,Kabokweni CHC,010-7961315,31.130313,-25.343473
 Mpumalanga,Clinic,Kalkfontein Clinic,014-739-0074,28.626565,-25.001685
 Mpumalanga,Clinic,Kameelpoortnek Clinic,013-947-0095,28.726027,-25.389662
 Mpumalanga,Clinic,Kameelrivier B Clinic,013-941-0219,28.994942,-25.126957
-Mpumalanga,Clinic,Kamhlushwa Clinic,013 785 0025,31.680619,-25.665064
+Mpumalanga,Clinic,Kamhlushwa Clinic,137850025,31.680619,-25.665064
 Mpumalanga,CHC,Kanyamazane CHC,013-7940143,31.184161,-25.465703
 Mpumalanga,Clinic,Khumbula Clinic,013-7963634,31.177214,-25.281367
 Mpumalanga,Clinic,Kildare Clinic,013-7087913,31.32373,-24.877051
@@ -2496,7 +2496,7 @@ Mpumalanga,Clinic,Kliplaatdrift Clinic,076-3510036,28.949696,-25.133141
 Mpumalanga,Clinic,Komatipoort Clinic,013-7937580,31.948296,-25.428257
 Mpumalanga,Clinic,Kriel Clinic,017-6486259,29.23291,-26.24784
 Mpumalanga,Clinic,Kromdraai Clinic,017-884-0191,31.022534,-26.046537
-Mpumalanga,CHC,Kwa Guqa Extension 10 CHC,0136958900/ 0136958901,29.105868,-25.854466
+Mpumalanga,CHC,Kwa Guqa Extension 10 CHC,0136958900/0136958901,29.105868,-25.854466
 Mpumalanga,Clinic,Kwaggafontein A Clinic,013-986-1804,28.960108,-25.294175
 Mpumalanga,CHC,Kwaggafontein C CHC,013-986-0007,28.943653,-25.31088
 Mpumalanga,CHC,KwaMhlanga Clinic,013-9472003,28.715724,-25.434623
@@ -2519,7 +2519,7 @@ Mpumalanga,Clinic,Louisville Clinic,082-8230638,31.294742,-25.686344
 Mpumalanga,Clinic,Louw's Creek Clinic,013-7100061,31.282958,-25.647243
 Mpumalanga,Clinic,Ludlow Clinic,013-7739902,31.283371,-24.676141
 Mpumalanga,Clinic,Luphisi Clinic,082-4597480,31.277009,-25.406425
-Mpumalanga,Clinic,Lydenburg Gateway Clinic,013 235 4866,30.452401,-25.107921
+Mpumalanga,Clinic,Lydenburg Gateway Clinic,132354866,30.452401,-25.107921
 Mpumalanga,Clinic,Lynnville Clinic,013-6991974,29.19249,-25.878419
 Mpumalanga,CHC,M'Africa CHC,013-7126746,31.027636,-25.768182
 Mpumalanga,Clinic,Machadodorp Clinic,013-256-0306,30.250643,-25.663103
@@ -2530,11 +2530,11 @@ Mpumalanga,CHC,Mananga Clinic,013-7829906,31.843124,-25.959388
 Mpumalanga,CHC,Mangweni CHC,013-7820005,31.817989,-25.741172
 Mpumalanga,Clinic,Manzini Clinic,013-7884297,31.138094,-25.178561
 Mpumalanga,CHC,Marapyane CHC,012-724-9934,28.795649,-25.004942
-Mpumalanga,Clinic,Marite Clinic,013 7080010,31.12754,-24.957865
+Mpumalanga,Clinic,Marite Clinic,137080010,31.12754,-24.957865
 Mpumalanga,CHC,Matsulu CHC,013-7788141,31.352129,-25.517582
 Mpumalanga,Clinic,Maviljan Clinic,013-7990188,31.071364,-24.845879
 Mpumalanga,CHC,Mayflower CHC,017-881-3659,30.775344,-26.299571
-Mpumalanga,Clinic,Mbangwane Clinic,013 782 4500,31.889829,-25.837438
+Mpumalanga,Clinic,Mbangwane Clinic,137824500,31.889829,-25.837438
 Mpumalanga,Clinic,Mbonisweni Clinic,013-7963120,31.108051,-25.309224
 Mpumalanga,Clinic,Mbuzini Clinic,013-7820093,31.952451,-25.936078
 Mpumalanga,CHC,Mgobodi CHC,013-7820283,31.7043,-25.8589
@@ -2564,7 +2564,7 @@ North West,Clinic,Agisanang Clinic,018-6840751,25.82337,-26.558853
 North West,Clinic,Alabama Clinic,018-4675009,26.587665,-26.872722
 North West,Clinic,Amalia Clinic,053-9640672,25.030672,-27.250309
 North West,Clinic,Anna Legoale Clinic,012-2701881,27.27,-25.57
-North West,CHC,Atamelang CHC,0183342295/6 0183343082,25.36858,-26.502977
+North West,CHC,Atamelang CHC,0183342295/60183343082,25.36858,-26.502977
 North West,Clinic,Austrey Clinic,079-8942343,24.18114,-26.46701
 North West,CHC,Bafokeng CHC,014-5664720,27.156116,-25.560266
 North West,Clinic,Bakerville Clinic,072-5864678,26.29,-26.14
@@ -2573,12 +2573,12 @@ North West,Clinic,Baleema Clinic,014-5130013,26.942988,-25.225276
 North West,CHC,Bapong CHC,012-2541237,27.678047,-25.703567
 North West,Clinic,Bapong Clinic,083-5447063,26.84421,-25.31256
 North West,Clinic,Bethanie Clinic,012-2600600,27.601819,-25.550398
-North West,CHC,Bloemhof CHC,0534331146/1523,25.60798,-27.64678
+North West,CHC,Bloemhof CHC,0534331146/0534331523,25.60798,-27.64678
 North West,Clinic,Blydeville 2 Clinic,018-6320790,26.160376,-26.180947
 North West,Clinic,Blydeville Clinic,072-3082211,26.159064,-26.188653
 North West,Clinic,Bodibe 1 Clinic,018-3389121,25.847155,-26.067189
-North West,Clinic,Bodibe 2 Clinic,018 383 9147,25.880608,-26.076352
-North West,Clinic,Boikanyo Clinic,014 5061012,26.94953,-25.06694
+North West,Clinic,Bodibe 2 Clinic,183839147,25.880608,-26.076352
+North West,Clinic,Boikanyo Clinic,145061012,26.94953,-25.06694
 North West,Clinic,Boikhutso Clinic,018-6348038,26.143277,-26.179083
 North West,Satellite Clinic,Boikhutso Satellite Clinic,018-2643251,26.8166,-26.22523
 North West,Satellite Clinic,Boikhutsong Satellite Clinic,018-8642197,26.90714,-26.18647
@@ -2586,7 +2586,7 @@ North West,CHC,Boiki Thlapi CHC,018-2953352,27.056361,-26.717884
 North West,CHC,Boitekong CHC,079-9388976,27.315676,-25.616731
 North West,Clinic,Boitekong Clinic,014-5974940,27.3142,-25.613452
 North West,Clinic,Boitshoko Clinic,072-6000173,25.853475,-26.051593
-North West,Clinic,Boitumelong Clinic,053 433 1736,25.57177,-27.64143
+North West,Clinic,Boitumelong Clinic,534331736,25.57177,-27.64143
 North West,Clinic,Bonabona Clinic,071-6803833,23.538796,-26.23521
 North West,Clinic,Bophelo Clinic,018-5986636,26.112643,-27.178729
 North West,CHC,Borakalalo CHC,018-3659920,25.915487,-25.283123
@@ -2601,7 +2601,7 @@ North West,Clinic,Broederstroom Clinic,073-2458495,27.857026,-25.793951
 North West,Clinic,Buxton Clinic,079-6976328,24.636535,-27.62584
 North West,Clinic,Chaneng Clinic,082-3411829,27.124579,-25.413199
 North West,Clinic,Charon Clinic,053-9637354,25.307247,-27.191449
-North West,Clinic,Christiana Town Clinic,053 441 3953/56,25.154196,-27.914311
+North West,Clinic,Christiana Town Clinic,0534413953/0534413956,25.154196,-27.914311
 North West,Clinic,Classic House Clinic,014-5919300,27.21,-25.68
 North West,Clinic,Cokonyane Clinic,072-5864233,24.802376,-27.484946
 North West,CHC,Coligny CHC,018-6731635,26.324438,-26.330778
@@ -2610,7 +2610,7 @@ North West,Clinic,Coverdale Clinic,053-4331751,25.5896,-27.63577
 North West,CHC,Cyferkuil (Kutloanong) CHC,014-7380025,28.233501,-25.079516
 North West,Clinic,Damonsville Clinic,012-2430035,27.851323,-25.624966
 North West,Clinic,David Katnagel Clinic,014-5010077,26.524161,-25.11324
-North West,CHC,Delareyville CHC,05394809301/1,25.465075,-26.687765
+North West,CHC,Delareyville CHC,5394809301,25.465075,-26.687765
 North West,Clinic,Delareyville Clinic,053-9480075,25.459903,-26.689759
 North West,Clinic,Delekile Khoza Clinic,001-8431299,26.417082,-26.738111
 North West,Clinic,Dertig (Leseding) Clinic,012-7168957,28.23857,-25.283943
@@ -2618,8 +2618,8 @@ North West,Clinic,Dikebu (Sediane) Clinic,071-6738666,27.969059,-25.193025
 North West,CHC,Dinokana CHC,018-3463901,25.869032,-25.446617
 North West,Clinic,Dinokana Clinic,018-3643904,25.864362,-25.444662
 North West,Clinic,Disaneng Clinic,018-3620004,25.297233,-25.800509
-North West,Clinic,Dithakong (Mafikeng) Clinic,018 390 0453,25.629709,-25.968337
-North West,Clinic,Driefontein Clinic,018 365 9020,25.974013,-25.143211
+North West,Clinic,Dithakong (Mafikeng) Clinic,183900453,25.629709,-25.968337
+North West,Clinic,Driefontein Clinic,183659020,25.974013,-25.143211
 North West,Clinic,Dryharts Clinic,053-9951147,24.72465,-27.32757
 North West,Clinic,Dwarsberg Clinic,014-5533982,26.61744,-24.938402
 North West,Clinic,Eckron Clinic,071-6803837,23.76479,-26.80719
@@ -2633,16 +2633,16 @@ North West,CHC,Ganyesa CHC,053-9983341,24.17605,-26.5875
 North West,Clinic,Gelukspan Gateway Clinic,018-3361003,25.60216,-26.20149
 North West,Clinic,Glaudina Clinic,053-9650504,25.621381,-27.041055
 North West,Satellite Clinic,Goedgevonden Satellite Clinic,018-8642197,26.89828,-26.15957
-North West,Clinic,Gopane Clinic,018 366 0000,25.795523,-25.318093
+North West,Clinic,Gopane Clinic,183660000,25.795523,-25.318093
 North West,CHC,Grace Mokgomo CHC,018-4761141,26.635105,-26.956316
 North West,Clinic,Groot Marico Clinic,014-5030651,26.419053,-25.599674
 North West,Clinic,Hartebeesfontein Clinic,0122701164/5,27.510876,-25.436028
-North West,Clinic,Hartebeespoort Clinic,012 253 1177/2075,23.68,-26.59
+North West,Clinic,Hartebeespoort Clinic,0122531177/0122532075,23.68,-26.59
 North West,Clinic,Hebron Clinic,076-7579944,28.016405,-25.550582
 North West,Clinic,Hoekfontein (Mmakau) Clinic,012-7033201,27.94406,-25.61569
-North West,CHC,Huhudi CHC,0539270578/71,24.739387,-26.974269
+North West,CHC,Huhudi CHC,0539270578/0539270571,24.739387,-26.974269
 North West,Clinic,Ikhutseng (Klipgat) Clinic,012-7079057,27.97006,-25.451679
-North West,Clinic,Ipelegeng Clinic,053 963 7306,25.30646,-27.19632
+North West,Clinic,Ipelegeng Clinic,539637306,25.30646,-27.19632
 North West,Clinic,Ipopeng Clinic,014-7862910,27.088997,-24.944337
 North West,Clinic,Itekeng Clinic,018-6530003,25.909359,-26.36164
 North West,CHC,Itsoseng CHC,018-3381205,25.88446,-26.082264
@@ -2663,7 +2663,7 @@ North West,Clinic,Kgotso Clinic,079-5023365,27.12989,-26.352577
 North West,Clinic,Khayakulu Clinic,014-5010002,26.65471,-25.107805
 North West,Clinic,Khudutlou Clinic,073-0979457,25.05277,-27.66322
 North West,Clinic,Khuma Clinic,018-4891062,26.858976,-26.845544
-North West,Clinic,Khunotswana Clinic,018 642 1033,25.826867,-25.570857
+North West,Clinic,Khunotswana Clinic,186421033,25.826867,-25.570857
 North West,Clinic,Klerksdorp Youth Centre,018-4652019,26.6298,-26.87821
 North West,Clinic,Koedoesrand Clinic,014-5050035,26.668933,-25.24776
 North West,Clinic,Koffiekraal Clinic,014-5070012,26.417168,-25.284089
@@ -2679,19 +2679,19 @@ North West,Clinic,Lebotloane Clinic,082-8571384,27.932871,-25.049362
 North West,CHC,Leeudoringstad CHC,018-5812107,26.237103,-27.235436
 North West,Clinic,Lefatlheng Clinic,012-7168666,28.12,-25.15
 North West,Clinic,Legkraal Clinic,014-5563900,27.051491,-25.132709
-North West,Clinic,Lehurutshe Clinic,018 363 3411,25.963008,-25.48322
+North West,Clinic,Lehurutshe Clinic,183633411,25.963008,-25.48322
 North West,Clinic,Lekgophung Clinic,018-3530902,26.023532,-24.806954
 North West,CHC,Lekoko CHC,018-3870900,25.502942,-25.930144
 North West,Clinic,Lesego Clinic,018-2956002,27.053393,-26.728948
 North West,Clinic,Lesetlheng Clinic,014-5563996,27.12183,-25.15207
 North West,Clinic,Leshobo Clinic,079-6973653,24.69791,-27.47999
 North West,CHC,Letlhabile CHC,012-2510774,27.842306,-25.486949
-North West,Clinic,Letlhakeng Clinic,014 5150025,26.71169,-25.14744
+North West,Clinic,Letlhakeng Clinic,145150025,26.71169,-25.14744
 North West,Clinic,Letsopa Clinic,018-5713052,25.982564,-26.805658
-North West,Clinic,Lichtenburg Fast-Lane Clinic,018 632 4059,26.162792,-26.167639
+North West,Clinic,Lichtenburg Fast-Lane Clinic,186324059,26.162792,-26.167639
 North West,Clinic,Lichtenburg Municipal Clinic,018-6320792,26.159391,-26.150835
 North West,Clinic,Lincoe Clinic,014-5061900,26.996174,-24.80383
-North West,Clinic,Lobatla Clinic,018 365 9064,25.83831,-25.177529
+North West,Clinic,Lobatla Clinic,183659064,25.83831,-25.177529
 North West,Clinic,Logageng Clinic,073-3045826/083-4196979,24.692743,-25.940255
 North West,Clinic,Lokaleng Clinic,072-7302456,25.56996,-25.781409
 North West,Clinic,Lonely Park Clinic,018-3861112,25.66252,-25.734796
@@ -2726,9 +2726,9 @@ North West,Clinic,Mareetsane Clinic,018-3320051,25.475004,-26.203709
 North West,Clinic,Marikana Clinic,072-7044386,27.479878,-25.698146
 North West,Clinic,Masamane Clinic,083-4196976,24.621204,-25.825722
 North West,Clinic,Masutlhe 1 Clinic,079-2461424,25.409124,-25.850884
-North West,Clinic,Masutlhe 2 Clinic,018 358 00030,25.419788,-25.785585
+North West,Clinic,Masutlhe 2 Clinic,1835800030,25.419788,-25.785585
 North West,Clinic,Mathibestad Clinic,012-7168658,28.152841,-25.267339
-North West,Clinic,Matile Clinic,071 2075 611,25.94,-26.08
+North West,Clinic,Matile Clinic,712075611,25.94,-26.08
 North West,Clinic,Matlapaneng Clinic,079-6976855,24.68483,-27.42316
 North West,Clinic,Matlhonyane Clinic,082-0828310,25.690273,-25.976967
 North West,Clinic,Matloding Clinic,083-4196975,24.66472,-25.913561
@@ -2765,18 +2765,18 @@ North West,CHC,Moretele CHC,012-7140892,27.96025,-25.14578
 North West,Clinic,Morokwaneng Clinic,078-8018342,23.73044,-26.0863
 North West,CHC,Morokweng CHC,053-3761000,23.77395,-26.12736
 North West,Clinic,Moruleng Clinic,014-5562168,27.16777,-25.16971
-North West,CHC,Moshana CHC,0183540900/01,25.890288,-24.976279
+North West,CHC,Moshana CHC,0183540900/0183540901,25.890288,-24.976279
 North West,Clinic,Mothanthanyaneng Clinic,079-6974244,24.906481,-27.65961
 North West,Clinic,Mothutlong Clinic,012-7092287,27.884205,-25.603327
-North West,Clinic,Motlhabe Clinic,014 5060745,26.94953,-25.06694
+North West,Clinic,Motlhabe Clinic,145060745,26.94953,-25.06694
 North West,Clinic,Motlhabeng Clinic,018-3842801,25.602637,-25.851249
 North West,Clinic,Motswedi Clinic,018-3651643,25.888644,-25.284627
 North West,Clinic,N Pretorious Gateway Clinic,018-4655554,26.615276,-26.885543
-North West,Clinic,Neo Clinic,014 7862908,27.01116,-24.83527
+North West,Clinic,Neo Clinic,147862908,27.01116,-24.83527
 North West,Health Post,Ntsweletsoku Health Post,018-6421046,25.970719,-25.458465
 North West,Clinic,Obakeng Clinic,014-5170007,26.653259,-24.923921
 North West,Clinic,Orkney Town Clinic,018-4735209,26.6687,-26.98066
-North West,CHC,Ottosdal CHC,018 571 0026,26.0087,-26.813409
+North West,CHC,Ottosdal CHC,185710026,26.0087,-26.813409
 North West,Clinic,Oukasie Clinic,012-2576053,27.791966,-25.608114
 North West,Mou,Oukasie Maternity MOU,073-8014946,27.799836,-25.604679
 North West,Clinic,Pachsdraai Clinic,014-5090000,26.39619,-25.208606
@@ -2793,30 +2793,30 @@ North West,Clinic,Potchefstroom Gateway Clinic,018-2938358,27.083595,-26.728986
 North West,CHC,Promosa CHC,018-2960294,27.030932,-26.702126
 North West,CHC,Pudumoe CHC,053-9951355,24.7208,-27.41001
 North West,Clinic,Rabokala Clinic,012-7081903,27.906759,-25.499894
-North West,CHC,Ramatlabama CHC,018 396 0131,25.616204,-25.703652
+North West,CHC,Ramatlabama CHC,183960131,25.616204,-25.703652
 North West,Clinic,Ramokokastad Clinic,071-1780491,27.446852,-25.148113
-North West,Clinic,Rampampaspoort Clinic,0145533984/5,26.672565,-24.985915
+North West,Clinic,Rampampaspoort Clinic,0145533984/0145533985,26.672565,-24.985915
 North West,Clinic,Rankelenyane Clinic,082-2996912,27.429184,-25.571723
 North West,Clinic,Rapulana Clinic,072-9928192,25.63937,-26.028824
 North West,Clinic,Ratjiepan Clinic,082-4150093,28.08897,-25.33176
-North West,CHC,Ratlou CHC,0183379071/2,25.124268,-26.262448
+North West,CHC,Ratlou CHC,0183379071/0183379072,25.124268,-26.262448
 North West,Clinic,Reagile Clinic,014-4543951,26.891656,-25.849429
 North West,Clinic,Refentse (Mmakgabetlwane) Clinic,073-4914272,26.59205,-25.1938
 North West,CHC,Reivilo CHC,012-3958000,24.17642,-27.56684
 North West,Clinic,Rietfontein Clinic,014-5180002,26.76337,-25.3105
 North West,Clinic,Rietpan Clinic,018-6659080,25.945292,-25.11139
 North West,Clinic,Rugtesloot Clinic,082-4177340,27.853298,-25.027503
-North West,Clinic,Rustenburg Gateway Clinic,0145975931/2,27.244678,-25.677115
+North West,Clinic,Rustenburg Gateway Clinic,0145975931/0145975932,27.244678,-25.677115
 North West,Clinic,Sandfontein Clinic,014-5590272,27.266237,-25.187103
 North West,CHC,Sannieshof CHC,018-6830020,25.802625,-26.523647
 North West,Clinic,Schweizer-Reneke Town Clinic,053-9631122,25.3292,-27.19068
 North West,Clinic,Segametsi Mogaetsho Clinic,018-5975568,25.980829,-27.327112
 North West,Clinic,Segwaelane Clinic,012-2541162,27.609686,-25.666087
-North West,Clinic,Seolong Clinic,014 5150003,26.82548,-25.14517
+North West,Clinic,Seolong Clinic,145150003,26.82548,-25.14517
 North West,Clinic,Sesobe Clinic,014-5160008,26.429533,-25.040825
 North West,Clinic,Setabeng Clinic,053-7610000,23.50341,-25.90207
 North West,Clinic,Setlagole Clinic,083-7040669,25.128436,-26.303303
-North West,Clinic,Setlopo Clinic,018 383 8185,25.655638,-25.932884
+North West,Clinic,Setlopo Clinic,183838185,25.655638,-25.932884
 North West,Clinic,Siga Clinic,014-5020259,26.591198,-25.194508
 North West,Clinic,Silverkrans Clinic,014-5120002,26.624908,-25.493704
 North West,Clinic,Sonop Clinic,012-2566943,27.697815,-25.648084
@@ -2835,12 +2835,12 @@ North West,Clinic,Thulwe Clinic,082-8571380,28.198804,-25.251164
 North West,Clinic,Thusong Gateway Clinic,079-4862203,25.947781,-26.052224
 North West,CHC,Tigane CHC,018-4310306,26.419772,-26.747016
 North West,Clinic,Tladistad Clinic,012-7140949,28.031498,-25.204485
-North West,CHC,Tlakgameng CHC,0539987011/50,24.34303,-26.46853
+North West,CHC,Tlakgameng CHC,0539987011/0539987050,24.34303,-26.46853
 North West,Clinic,Tlapeng (Ganyesa) Clinic,071-6803838,24.10245,-26.65513
 North West,Clinic,Tlapeng (Greater Taung) Clinic,079-6977711,24.95402,-27.51837
 North West,Clinic,Tlapeng (Mafikeng) Clinic,076-2823169,25.454966,-25.720008
 North West,Clinic,Tlaseng Clinic,071-2235866,27.349577,-25.472471
-North West,CHC,Tlhabane CHC,0145654986/7,27.216297,-25.63869
+North West,CHC,Tlhabane CHC,0145654986/0145654987,27.216297,-25.63869
 North West,Clinic,Tlhabologang Clinic,018-6731056,26.29944,-26.329999
 North West,Clinic,Top City Clinic,018-2950255,27.03587,-26.73618
 North West,Clinic,Tseoge Clinic,053-9987105,23.51797,-25.98623
@@ -2860,7 +2860,7 @@ North West,Clinic,Upper Majeakgoro Clinic,053-9961508,24.62533,-27.79626
 North West,Clinic,Utlwanang Clinic,053-4428854,25.12859,-27.89527
 North West,Clinic,Ventersdorp Gateway Clinic,018-2643074,26.817713,-26.31092
 North West,Satellite Clinic,Ventersdorp Tsetse Satellite Clinic,083-6600958,26.79535,-26.17581
-North West,Clinic,Vlakplaas Clinic,014 5060518,26.87796,-25.00421
+North West,Clinic,Vlakplaas Clinic,145060518,26.87796,-25.00421
 North West,Clinic,Vrede 2 Clinic,014-5534031,26.562361,-25.466529
 North West,Clinic,Vriesgewacht Clinic,083-7040686,25.4,-26.46
 North West,Clinic,Vryburg Gateway Clinic,053-9275400,24.71612,-26.95725
@@ -2870,15 +2870,15 @@ North West,Satellite Clinic,Welgevonden Satellite Clinic,018-2643251,26.8126,-26
 North West,Clinic,Weltevrede Clinic,072-9928194,25.490491,-26.317625
 North West,Clinic,Wolmaransstad Town Clinic,018-5962129,25.981582,-27.20569
 North West,Clinic,Wonderkop Clinic,014-5723756,27.529228,-25.671081
-North West,Clinic,Zeerust Clinic,018 642 1081,26.0794,-25.546679
-Northern Cape,Clinic,Aggeneys Clinic,054 983 2225,18.842502,-29.241417
+North West,Clinic,Zeerust Clinic,186421081,26.0794,-25.546679
+Northern Cape,Clinic,Aggeneys Clinic,549832225,18.842502,-29.241417
 Northern Cape,CHC,Alexander Bay CHC,027-8311996,16.484835,-28.596976
-Northern Cape,Clinic,Alexander Bay Clinic,027 8311 993,16.489234,-28.591738
+Northern Cape,Clinic,Alexander Bay Clinic,278311993,16.489234,-28.591738
 Northern Cape,Satellite Clinic,Alheit Satellite Clinic,072-1089320,20.53342,-28.760685
 Northern Cape,CHC,Askham CHC,054-5110005,20.783107,-26.978369
 Northern Cape,Satellite Clinic,Augrabies Satellite Clinic,054-4510174,20.426438,-28.67398
 Northern Cape,Clinic,Bankhara/Bodulong Clinic,071-8566141,23.38164,-27.42083
-Northern Cape,Clinic,Beaconsfield Clinic,0538306627/21,24.783981,-28.757892
+Northern Cape,Clinic,Beaconsfield Clinic,0538306627/0538306621,24.783981,-28.757892
 Northern Cape,Clinic,Bendel Clinic,053-7751277,23.64706,-26.99551
 Northern Cape,Clinic,Bergsig/Max Shapiro Clinic,027-7122565,17.87546,-29.65003
 Northern Cape,Clinic,Betty Gaetsewe Clinic,053-8720220,24.711235,-28.711611
@@ -2888,23 +2888,23 @@ Northern Cape,Clinic,Bothetheletsa Clinic,053-775-1150,23.81101,-27.417881
 Northern Cape,Clinic,Bothithong Clinic,053-7752177,23.82899,-27.06435
 Northern Cape,CHC,Brandvlei CHC,054-603-0017,20.480018,-30.462315
 Northern Cape,Clinic,Breipaal Clinic,053-2983874,23.76622,-29.04467
-Northern Cape,Clinic,Britstown Clinic,053 672 0060,23.50046,-30.584772
-Northern Cape,Satellite Clinic,Bulletrap Satellite Clinic,027 713 8246,17.765786,-29.461667
-Northern Cape,District Hospital,Calvinia (Abraham Esau) Hospital,027 731 6730,19.775133,-31.462164
-Northern Cape,Clinic,Calvinia Clinic,027 3411 868,19.768374,-31.46447
+Northern Cape,Clinic,Britstown Clinic,536720060,23.50046,-30.584772
+Northern Cape,Satellite Clinic,Bulletrap Satellite Clinic,277138246,17.765786,-29.461667
+Northern Cape,District Hospital,Calvinia (Abraham Esau) Hospital,277316730,19.775133,-31.462164
+Northern Cape,Clinic,Calvinia Clinic,273411868,19.768374,-31.46447
 Northern Cape,Clinic,Campbell Clinic,053-2979023,23.720942,-28.800241
 Northern Cape,CHC,Carnarvon CHC,053-3823036,22.13304,-30.9656
-Northern Cape,Clinic,Carnarvon Clinic,053 382 4714,22.128643,-30.959284
+Northern Cape,Clinic,Carnarvon Clinic,533824714,22.128643,-30.959284
 Northern Cape,Satellite Clinic,Carolusberg Satellite Clinic,027-7182740,17.949225,-29.636581
 Northern Cape,CHC,Cassels CHC,053-7737268,23.990436,-26.965549
 Northern Cape,Clinic,Catherine Koikoi Clinic,053-3310205,22.750626,-27.955875
 Northern Cape,Clinic,Churchill Clinic,071-8566140,23.47783,-27.27881
 Northern Cape,Satellite Clinic,Cillie Satellite Clinic,054-4311824,20.58302,-28.73795
-Northern Cape,Clinic,Concordia Clinic,027 731 6730,17.947546,-29.541792
-Northern Cape,CHC,Danielskuil CHC,054 3840930,23.547435,-28.182986
-Northern Cape,District Hospital,De Aar (Central Karoo) Hospital,053 631 2123,24.007739,-30.6591
-Northern Cape,Clinic,De Aar Clinic,053 631 2562,24.003528,-30.659331
-Northern Cape,Clinic,De Aar Town Clinic,053 632 9100,24.010636,-30.650438
+Northern Cape,Clinic,Concordia Clinic,277316730,17.947546,-29.541792
+Northern Cape,CHC,Danielskuil CHC,543840930,23.547435,-28.182986
+Northern Cape,District Hospital,De Aar (Central Karoo) Hospital,536312123,24.007739,-30.6591
+Northern Cape,Clinic,De Aar Clinic,536312562,24.003528,-30.659331
+Northern Cape,Clinic,De Aar Town Clinic,536329100,24.010636,-30.650438
 Northern Cape,Clinic,De Beershoogte Clinic,053-5310895,24.514924,-28.532377
 Northern Cape,Clinic,Deerward Clinic,053-7751130,23.61634,-27.12556
 Northern Cape,Clinic,Delportshoop Clinic,053-5610639,24.307251,-28.417501
@@ -2913,102 +2913,102 @@ Northern Cape,Clinic,Dithakong Clinic,071-8566124,23.92399,-27.085608
 Northern Cape,Clinic,Ditshipeng Clinic,053-7752271,23.812121,-26.951482
 Northern Cape,District Hospital,Douglas (Hester Malan) CHC,053-2982812,23.767172,-29.06054
 Northern Cape,Clinic,Dr Torres Clinic,053-8731145,24.7154,-28.662511
-Northern Cape,Satellite Clinic,Eksteenfontein Satellite Clinic,027 851 8615,17.255423,-28.825388
+Northern Cape,Satellite Clinic,Eksteenfontein Satellite Clinic,278518615,17.255423,-28.825388
 Northern Cape,Clinic,Ethembeni Clinic,053-3533179,22.727618,-29.660246
 Northern Cape,Clinic,Eurekaville Clinic,049-8431022,24.947913,-31.188262
-Northern Cape,Clinic,Florianville (Floors) Clinic,053 8711 082 053 8711 046,24.760265,-28.72261
+Northern Cape,Clinic,Florianville (Floors) Clinic,053-8306073,24.760265,-28.72261
 Northern Cape,CHC,Fraserburg CHC,023-7411226,21.511745,-31.915232
 Northern Cape,Clinic,Gadiboe Clinic,053-7751213,23.29435,-27.07591
 Northern Cape,CHC,Galeshewe Day Hospital,053-8022539,24.747021,-28.727653
 Northern Cape,Clinic,Ganspan Clinic,053-4589398,24.767644,-27.973456
-Northern Cape,Clinic,Garies Clinic,027 652 1025,17.98933,-30.56584
+Northern Cape,Clinic,Garies Clinic,276521025,17.98933,-30.56584
 Northern Cape,Clinic,Gasehunelo Wyk 5 Clinic,053-7751210,23.54454,-27.09567
 Northern Cape,Clinic,Glen Red Clinic,083-3282443,23.909812,-26.972022
 Northern Cape,Satellite Clinic,Gong-Gong Satellite Clinic,053-5310204,24.368936,-28.454005
-Northern Cape,Regional Hospital,Gordonia Hospital,054 338 6100,21.264296,-28.446582
+Northern Cape,Regional Hospital,Gordonia Hospital,543386100,21.264296,-28.446582
 Northern Cape,Clinic,Greenpoint Clinic,079-4978833,24.77181,-28.78007
-Northern Cape,CHC,Griekwastad (Helpmekaar) CHC,053 3430011,23.253186,-28.843941
+Northern Cape,CHC,Griekwastad (Helpmekaar) CHC,533430011,23.253186,-28.843941
 Northern Cape,CHC,Groblershoop CHC,054-8330231,21.980864,-28.895127
 Northern Cape,Satellite Clinic,Groot Mier Satellite Clinic,076-2368349,20.320576,-26.73932
 Northern Cape,Satellite Clinic,Grootdrink Satellite Clinic,054-7410024,21.749164,-28.564151
-Northern Cape,Clinic,Hanover Clinic,053 643 0074,24.4474,-31.06752
+Northern Cape,Clinic,Hanover Clinic,536430074,24.4474,-31.06752
 Northern Cape,District Hospital,Hartswater (Connie Vorster) Hospital,053-4740140,24.813631,-27.757152
 Northern Cape,Clinic,Heuningvlei Clinic,053-7753155,23.13953,-26.30514
 Northern Cape,Satellite Clinic,Holpan Satellite Clinic,084-6606633,24.641792,-28.358554
 Northern Cape,Satellite Clinic,Hondeklipbaai Clinic,027-6923081,17.27886,-30.31899
-Northern Cape,CHC,Hopetown (Wege) CHC,053 203 0163,24.088125,-29.627544
-Northern Cape,Clinic,Hopetown Clinic,053 2030 038,24.101075,-29.61791
+Northern Cape,CHC,Hopetown (Wege) CHC,532030163,24.088125,-29.627544
+Northern Cape,Clinic,Hopetown Clinic,532030038,24.101075,-29.61791
 Northern Cape,Clinic,Ikhutseng Clinic,053-4975878,24.853987,-28.130357
 Northern Cape,District Hospital,Jan Kempdorp CHC,053-4560126,24.834031,-27.92135
 Northern Cape,Clinic,Jan Kempdorp Clinic,053-4560126,24.834031,-27.92135
 Northern Cape,Clinic,Jan Witbooi Clinic,053-7910540,22.88669,-27.593995
 Northern Cape,Clinic,Jerry Botha Clinic,079-4978811,24.801968,-27.733445
-Northern Cape,CHC,Joe Slovo CHC,027 6528100,17.990263,-30.564949
+Northern Cape,CHC,Joe Slovo CHC,276528100,17.990263,-30.564949
 Northern Cape,CHC,Kagiso CHC,053-7731810,23.493163,-27.406123
 Northern Cape,Clinic,Kakamas Clinic,054-4316304,20.62254,-28.77969
 Northern Cape,District Hospital,Kakamas Hospital,054-4310866,20.621719,-28.780787
 Northern Cape,CHC,Kamden CHC,082-3091729,23.88987,-27.35928
-Northern Cape,Clinic,Kamieskroon Clinic,027 6721 619,17.932767,-30.212155
+Northern Cape,Clinic,Kamieskroon Clinic,276721619,17.932767,-30.212155
 Northern Cape,Satellite Clinic,Kanoneiland Satellite Clinic,054-4911412,21.083214,-28.655693
 Northern Cape,Satellite Clinic,Karos Satellite Clinic,054-7510095,21.61318,-28.42214
 Northern Cape,Clinic,Kathu Clinic,053-7232010,23.05101,-27.69762
-Northern Cape,District Hospital,Keimoes CHC,0544611004/5,20.95593,-28.70541
+Northern Cape,District Hospital,Keimoes CHC,0544611004/0544611005,20.95593,-28.70541
 Northern Cape,Clinic,Keimoes Clinic,054-4616400,20.960197,-28.701159
 Northern Cape,CHC,Kenhardt CHC,054-6510077,21.157458,-29.353564
-Northern Cape,Clinic,Kenhardt Clinic,054 651 0077,21.16004,-29.34135
-Northern Cape,Clinic,Keurtjieskloof Clinic,053 664 0030,24.730801,-30.012446
+Northern Cape,Clinic,Kenhardt Clinic,546510077,21.16004,-29.34135
+Northern Cape,Clinic,Keurtjieskloof Clinic,536640030,24.730801,-30.012446
 Northern Cape,Clinic,Kharkams/Garagams Clinic,027-6822043,17.88799,-30.37007
-Northern Cape,Clinic,Kholekile Edward Twani Clinic,053 631 01 07,24.027065,-30.661698
+Northern Cape,Clinic,Kholekile Edward Twani Clinic,536310107,24.027065,-30.661698
 Northern Cape,Clinic,Kimberley City Clinic,053-8306618,24.763151,-28.745344
 Northern Cape,Tertiary Hospital,Kimberley Hospital,053-8022124,24.7724,-28.745511
 Northern Cape,Satellite Clinic,Klein Mier Satellite Clinic,076-2368349,20.27786,-26.738741
 Northern Cape,Clinic,Komaggas Clinic,027-8211004,17.487627,-29.796881
 Northern Cape,Clinic,Kuruman Clinic,053-7128100,23.44261,-27.45969
 Northern Cape,District Hospital,Kuruman Hospital,053-7128100,23.42663,-27.46592
-Northern Cape,Clinic,Kuyasa Clinic,051 753 2163,25.11341,-30.723518
+Northern Cape,Clinic,Kuyasa Clinic,517532163,25.11341,-30.723518
 Northern Cape,Clinic,Laxey Clinic,053-7752280,23.16697,-26.72244
 Northern Cape,Satellite Clinic,Leerkrans Satellite Clinic,054-7510090,21.52425,-28.407567
 Northern Cape,Clinic,Lehlohonolo Adams Clinic,053-2984871,23.7772,-29.06871
 Northern Cape,Satellite Clinic,Lekkersing Clinic,027-8518509,17.100601,-29.001286
-Northern Cape,Clinic,Leliefontein Clinic,027 6721 638,18.082895,-30.314756
+Northern Cape,Clinic,Leliefontein Clinic,276721638,18.082895,-30.314756
 Northern Cape,Satellite Clinic,Lennertsville Clinic,054-4640197,20.99551,-28.7522
 Northern Cape,Clinic,Lingelethu Clinic (Pabalello),054-3313467,21.215518,-28.438733
 Northern Cape,CHC,Loeriesfontein CHC,027-6621096,19.443687,-30.964031
-Northern Cape,Clinic,Loeriesfontein Clinic,027 662 1194,19.434753,-30.948355
+Northern Cape,Clinic,Loeriesfontein Clinic,276621194,19.434753,-30.948355
 Northern Cape,Clinic,Logobate Clinic,071-8566125,23.40793,-27.18022
-Northern Cape,Clinic,Longlands Clinic,053862 request 803 longlands,24.362918,-28.463051
+Northern Cape,Clinic,Longlands Clinic,053-8306616,24.362918,-28.463051
 Northern Cape,CHC,Loopeng CHC,053-7752133,23.35159,-26.79602
 Northern Cape,Clinic,Louisvaleweg Clinic,054-3340281,21.268287,-28.476519
-Northern Cape,Clinic,Lowryville Clinic,051 753 1538,25.102467,-30.709284
-Northern Cape,Clinic,Loxton Clinic,0533 813115,22.352484,-31.475597
+Northern Cape,Clinic,Lowryville Clinic,517531538,25.102467,-30.709284
+Northern Cape,Clinic,Loxton Clinic,533813115,22.352484,-31.475597
 Northern Cape,Satellite Clinic,Lutzburg Satellite Clinic,054-4310747,20.629985,-28.74676
 Northern Cape,Clinic,Ma-Doyle Clinic,053-8744738,24.736665,-28.717405
-Northern Cape,District Hospital,Manne Dipico (Colesberg) Hospital,051 753 9300,25.08956,-30.73001
+Northern Cape,District Hospital,Manne Dipico (Colesberg) Hospital,517539300,25.08956,-30.73001
 Northern Cape,Clinic,Manyeding Clinic,083-4023897,23.68566,-27.49575
 Northern Cape,Clinic,Mapule Matsepane Clinic,053-3871118,24.725955,-28.710247
 Northern Cape,Satellite Clinic,Marchand Satellite Clinic,054-4410088,20.50158,-28.732165
 Northern Cape,Clinic,Maruping Clinic,053-7741726,23.367019,-27.347136
 Northern Cape,Clinic,Marydale Clinic,054-8710039,22.10211,-29.406142
 Northern Cape,Clinic,Masakhane Clinic,053-8711642,24.733245,-28.701975
-Northern Cape,Clinic,Masibambane Clinic,053 665 0102/3,24.474213,-30.434272
+Northern Cape,Clinic,Masibambane Clinic,0536650102/0536650103,24.474213,-30.434272
 Northern Cape,Clinic,Mataleng Clinic,084-5467975,24.50485,-28.53421
 Northern Cape,Clinic,Matjieskloof Clinic,027-7121072,17.867211,-29.670731
 Northern Cape,Clinic,Mecwetsaneng Clinic,053-7751255,23.67563,-27.31091
 Northern Cape,Satellite Clinic,Melkbosrand Satellite Clinic,083-7635453,19.26917,-28.77025
 Northern Cape,Clinic,Metsimansti Wyk 3 Clinic,074-6150236,23.166325,-26.941373
-Northern Cape,Clinic,Montana Clinic,053 632 9100,24.028899,-30.646067
-Northern Cape,CHC,Nababeep CHC,027 713 8360,17.78176,-29.59271
-Northern Cape,Clinic,Nanqo Simon Zono Clinic,049 843 1837,25.097754,-30.700217
+Northern Cape,Clinic,Montana Clinic,536329100,24.028899,-30.646067
+Northern Cape,CHC,Nababeep CHC,277138360,17.78176,-29.59271
+Northern Cape,Clinic,Nanqo Simon Zono Clinic,498431837,25.097754,-30.700217
 Northern Cape,Clinic,Niekerkshoop Clinic,053-3540627,22.839804,-29.323373
-Northern Cape,Clinic,Nieuwoudtville Clinic,027 218 1349,19.117112,-31.365886
+Northern Cape,Clinic,Nieuwoudtville Clinic,272181349,19.117112,-31.365886
 Northern Cape,Clinic,Nomimi Mothibi Clinic,053-9961160,24.693848,-27.774079
-Northern Cape,Clinic,Norvalspont Clinic,051 7555 056,25.451862,-30.629013
-Northern Cape,CHC,Noupoort (Fritz Visser) CHC,049 843 1447/8/9,24.951904,-31.17565
+Northern Cape,Clinic,Norvalspont Clinic,517555056,25.451862,-30.629013
+Northern Cape,CHC,Noupoort (Fritz Visser) CHC,0498431447/0498431448/0498431449,24.951904,-31.17565
 Northern Cape,Clinic,Okiep Clinic,027-7218321,17.88336,-29.59969
 Northern Cape,Satellite Clinic,Olierivier Satellite Clinic,053-8022124,23.58663,-28.55493
 Northern Cape,CHC,Olifantshoek CHC,053-3310199,22.735498,-27.943953
-Northern Cape,Clinic,Onseepkans Clinic,054 951 0023,19.2704,-28.77292
-Northern Cape,Clinic,Orania Clinic,"053 664 0030, 053 207 0072",24.416556,-29.810608
+Northern Cape,Clinic,Onseepkans Clinic,549510023,19.2704,-28.77292
+Northern Cape,Clinic,Orania Clinic,053-6640030,24.416556,-29.810608
 Northern Cape,Clinic,Padstow Clinic,053-7731310,23.20404,-26.82447
 Northern Cape,Clinic,Pako Seboko Clinic,083-4487630,23.00604,-27.4196
 Northern Cape,CHC,Pampierstad CHC,053-9961858,24.689088,-27.779241
@@ -3019,58 +3019,58 @@ Northern Cape,District Hospital,Prof ZK Matthews Hospital,053-5319400,24.514441,
 Northern Cape,District Hospital,Springbok (Dr Van Niekerk) Hospital,098-7655443,17.881633,-29.661243
 Northern Cape,District Hospital,Tshwaragano Hospital,053-7741780,23.34494,-27.3067
 Northern Cape,District Hospital,Warrenton Hospital,053-4973146,24.858788,-28.106225
-Northern Cape,Specialised Tb Hospital,West End TB Hospital,053 861 3911,24.722972,-28.736995
+Northern Cape,Specialised Tb Hospital,West End TB Hospital,538613911,24.722972,-28.736995
 Western Cape,Specialised Psychiatric Hospital,Alexandra Hospital,021-5035000,18.484454,-33.929372
-Western Cape,District Hospital,Beaufort West Hospital,023 414 8200,22.606505,-32.351987
+Western Cape,District Hospital,Beaufort West Hospital,234148200,22.606505,-32.351987
 Western Cape,CDC,Beaufort West Hospital CDC,023-4148200,22.6075,-32.35278
-Western Cape,Specialised Tb Hospital,Brewelskloof TB Hospital,023 348 1305,19.456084,-33.622173
-Western Cape,Specialised Tb Hospital,Brooklyn Chest Hospital,021 508 6403,18.486659,-33.900297
+Western Cape,Specialised Tb Hospital,Brewelskloof TB Hospital,233481305,19.456084,-33.622173
+Western Cape,Specialised Tb Hospital,Brooklyn Chest Hospital,215086403,18.486659,-33.900297
 Western Cape,District Hospital,Caledon Hospital,028-8212070,19.434852,-34.224653
 Western Cape,District Hospital,Ceres Hospital,023-3169600,19.301326,-33.363465
 Western Cape,District Hospital,Citrusdal Hospital,022-9212153,19.015258,-32.598597
 Western Cape,District Hospital,Clanwilliam Hospital,027-4822166,18.891737,-32.184325
 Western Cape,Specialised Tb Hospital,DP Marais TB Hospital,021-7137600,18.460242,-34.062763
 Western Cape,District Hospital,Eerste River Hospital,021-9028001,18.719067,-33.997289
-Western Cape,District Hospital,False Bay Hospital,021 782 1121,18.416683,-34.131866
+Western Cape,District Hospital,False Bay Hospital,217821121,18.416683,-34.131866
 Western Cape,Regional Hospital,George Hospital,044-8024534,22.452192,-33.951806
-Western Cape,District Hospital,GF Jooste Hospital,021 690 1000,18.557984,-33.984697
-Western Cape,Central Hospital,Groote Schuur Level 3 Hospital,021 404 9111,18.463404,-33.939715
+Western Cape,District Hospital,GF Jooste Hospital,216901000,18.557984,-33.984697
+Western Cape,Central Hospital,Groote Schuur Level 3 Hospital,214049111,18.463404,-33.939715
 Western Cape,Specialised Tb Hospital,Harry Comay TB Hospital,044-8039000,22.471917,-33.980129
 Western Cape,District Hospital,Helderberg Hospital,021-8504704,18.857646,-34.076559
-Western Cape,District Hospital,Hermanus Hospital,028 312 1166,19.22831,-34.42209
+Western Cape,District Hospital,Hermanus Hospital,283121166,19.22831,-34.42209
 Western Cape,District Hospital,Karl Bremer Hospital,021-9181911,18.610228,-33.892558
-Western Cape,District Hospital,Khayelitsha (Tygerberg) Hospital,021 938 4669,18.611789,-33.915345
+Western Cape,District Hospital,Khayelitsha (Tygerberg) Hospital,219384669,18.611789,-33.915345
 Western Cape,District Hospital,Knysna Hospital,044-3028400,23.059863,-34.037613
-Western Cape,District Hospital,Ladismith (Alan Blyth) Hospital,028 5511 010,21.268281,-33.48665
+Western Cape,District Hospital,Ladismith (Alan Blyth) Hospital,285511010,21.268281,-33.48665
 Western Cape,District Hospital,Laingsburg Hospital,023-5511237,20.849889,-33.194284
 Western Cape,District Hospital,LAPA Munnik Hospital,022-9312140,18.993827,-33.01797
 Western Cape,Specialised Psychiatric Hospital,Lentegeur Hospital,021-3701111,18.615839,-34.026646
 Western Cape,Specialised Tb Hospital,Malmesbury Infectious Disease Hospital,022-4873294,18.73722,-33.47583
-Western Cape,District Hospital,Mitchells Plain Hospital,021 570 3700,18.615839,-34.026646
+Western Cape,District Hospital,Mitchells Plain Hospital,215703700,18.615839,-34.026646
 Western Cape,District Hospital,Montagu Hospital,023-6148100,20.122683,-33.796428
-Western Cape,District Hospital,Mossel Bay Hospital,044 691 2011,22.129863,-34.186002
-Western Cape,Regional Hospital,Mowbray Maternity Hospital,021 659 5543,18.474986,-33.949087
+Western Cape,District Hospital,Mossel Bay Hospital,446912011,22.129863,-34.186002
+Western Cape,Regional Hospital,Mowbray Maternity Hospital,216595543,18.474986,-33.949087
 Western Cape,District Hospital,Murraysburg Hospital,049-8440021,23.768556,-31.962762
 Western Cape,Specialised Tb Hospital,Nelspoort TB Hospital,023-4161600,23.09085,-32.17361
-Western Cape,District Hospital,Otto Du Plessis Hospital,028 424 2652/424 1157/8,20.035726,-34.537257
+Western Cape,District Hospital,Otto Du Plessis Hospital,0284242652/4241157/8,20.035726,-34.537257
 Western Cape,District Hospital,Oudtshoorn Hospital,044-2792757,22.190108,-33.588419
-Western Cape,Regional Hospital,Paarl Hospital,021 860 2500,18.970572,-33.725277
+Western Cape,Regional Hospital,Paarl Hospital,218602500,18.970572,-33.725277
 Western Cape,District Hospital,Prince Albert Hospital,023-5411300,22.026392,-33.217279
 Western Cape,District Hospital,Radie Kotze Hospital,022-9131175,18.762696,-32.907037
-Western Cape,Specialised Childrens Hospital,Red Cross War Memorial Children's Level 3 Hospital,021 658 5111,18.488821,-33.953695
+Western Cape,Specialised Childrens Hospital,Red Cross War Memorial Children's Level 3 Hospital,216585111,18.488821,-33.953695
 Western Cape,District Hospital,Riversdale Hospital,028-7132445,21.254677,-34.09318
 Western Cape,District Hospital,Robertson Hospital,023-6268040,19.890935,-33.801256
 Western Cape,Regional Hospital,Somerset Hospital,021-4026408,18.416256,-33.906375
-Western Cape,Specialised Tb Hospital,Sonstraal TB Hospital,021 862 3176,18.98662,-33.71233
-Western Cape,District Hospital,Stellenbosch Hospital,021 808 6100,18.870403,-33.930858
-Western Cape,Specialised Psychiatric Hospital,Stikland Hospital,021 940 4400,18.657575,-33.90239
+Western Cape,Specialised Tb Hospital,Sonstraal TB Hospital,218623176,18.98662,-33.71233
+Western Cape,District Hospital,Stellenbosch Hospital,218086100,18.870403,-33.930858
+Western Cape,Specialised Psychiatric Hospital,Stikland Hospital,219404400,18.657575,-33.90239
 Western Cape,District Hospital,Swartland Hospital,022-4879200,18.723359,-33.45602
-Western Cape,District Hospital,Swellendam Hospital,028 514 1141,20.448797,-34.02348
+Western Cape,District Hospital,Swellendam Hospital,285141141,20.448797,-34.02348
 Western Cape,Clinic,Swellendam Hospital PHC Clinic,028-5148450,20.448797,-34.02348
 Western Cape,Central Hospital,Tygerberg Level 3 Hospital,021-9318491,18.611789,-33.915345
-Western Cape,District Hospital,Uniondale Hospital,044 752 1068,23.124955,-33.659808
+Western Cape,District Hospital,Uniondale Hospital,447521068,23.124955,-33.659808
 Western Cape,Specialised Psychiatric Hospital,Valkenberg Hospital,021-4403160,18.477684,-33.936177
-Western Cape,District Hospital,Victoria Hospital,021 799 1240/37,18.459633,-34.012058
+Western Cape,District Hospital,Victoria Hospital,0217991240/0217991237,18.459633,-34.012058
 Western Cape,District Hospital,Vredenburg Hospital,022-7097215,18.1,-32.913112
 Western Cape,District Hospital,Vredendal Hospital,027-2132039,18.503938,-31.669189
 Western Cape,District Hospital,Wesfleur Hospital,021-5718040,18.494711,-33.564445
